@@ -71,7 +71,239 @@
     const latestPath = "./rolex_report_latest.json";
     const historyPath = "./rolex_report_history.json";
 
-    // ...existing code from golf_watch.html script, unchanged...
+    const summaryBody = document.getElementById("summaryBody");
+    const adhocSummaryBody = document.getElementById("adhocSummaryBody");
+    const weeksWrap = document.getElementById("weeksWrap");
+    const metaLine = document.getElementById("metaLine");
+    const weekSelect = document.getElementById("weekSelect");
+    let rootSiteKeySet = new Set();
+
+    function escapeHtml(value) {
+      const text = String(value == null ? "" : value);
+      return text
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/\"/g, "&quot;")
+        .replace(/'/g, "&#39;");
+    }
+
+    function num(value, digits = 0) {
+      if (value == null || value === "") return "";
+      const n = Number(value);
+      if (!Number.isFinite(n)) return "";
+      return n.toFixed(digits);
+    }
+
+    function fmtDateTime(value) {
+      if (!value) return "";
+      const d = new Date(value);
+      if (Number.isNaN(d.getTime())) return String(value);
+      return d.toLocaleString();
+    }
+
+    function renderSummary(rootSites) {
+      summaryBody.innerHTML = "";
+      for (const row of rootSites || []) {
+        const siteText = escapeHtml(row.site_name || row.site_key || "");
+        const siteUrl = String(row.site_url || "").trim();
+        const siteCell = siteUrl
+          ? `<a href="${escapeHtml(siteUrl)}" target="_blank" rel="noopener">${siteText}</a>`
+          : siteText;
+
+        summaryBody.insertAdjacentHTML(
+          "beforeend",
+          `
+            <tr>
+              <td>${siteCell}</td>
+              <td class="num">${num(row.total_comps, 0)}</td>
+              <td class="num">${row.avg_price == null ? "" : `£${num(row.avg_price, 2)}`}</td>
+              <td class="num">${num(row.under_2_50_count, 0)}</td>
+              <td class="num">${num(row.from_2_50_to_5_00_count, 0)}</td>
+              <td class="num">${num(row.over_5_00_count, 0)}</td>
+              <td class="num">${num(row.free_count, 0)}</td>
+            </tr>
+          `
+        );
+      }
+    }
+
+    function buildAdhocGroupsForWeek(week) {
+      const groups = Array.isArray(week && week.keyword_groups) ? week.keyword_groups : [];
+      return groups.filter((group) => {
+        const siteKey = String(group.site_key || "").trim().toLowerCase();
+        return siteKey && !rootSiteKeySet.has(siteKey);
+      });
+    }
+
+    function renderAdhocSummary(currentWeek) {
+      adhocSummaryBody.innerHTML = "";
+
+      const adhocGroups = buildAdhocGroupsForWeek(currentWeek);
+      if (!adhocGroups.length) {
+        adhocSummaryBody.innerHTML = `<tr><td colspan="7" class="empty">No ad hoc rolex matches found this week.</td></tr>`;
+        return;
+      }
+
+      for (const group of adhocGroups) {
+        const siteText = escapeHtml(group.site_name || group.site_key || "");
+        const siteUrl = String(group.site_url || "").trim();
+        const siteCell = siteUrl
+          ? `<a href="${escapeHtml(siteUrl)}" target="_blank" rel="noopener">${siteText}</a>`
+          : siteText;
+
+        const competitions = Array.isArray(group.competitions) ? group.competitions : [];
+        const prices = competitions
+          .map((comp) => Number(comp.badge_price_value))
+          .filter((value) => Number.isFinite(value));
+        const totalComps = competitions.length;
+        const avgPrice = prices.length ? prices.reduce((sum, value) => sum + value, 0) / prices.length : null;
+        const under2_50 = prices.filter((value) => value > 0 && value < 2.5).length;
+        const between2_50And5_00 = prices.filter((value) => value >= 2.5 && value <= 5).length;
+        const over5_00 = prices.filter((value) => value > 5).length;
+        const freeCount = prices.filter((value) => value === 0).length;
+
+        adhocSummaryBody.insertAdjacentHTML(
+          "beforeend",
+          `
+            <tr>
+              <td>${siteCell}</td>
+              <td class="num">${num(totalComps, 0)}</td>
+              <td class="num">${avgPrice == null ? "" : `£${num(avgPrice, 2)}`}</td>
+              <td class="num">${num(under2_50, 0)}</td>
+              <td class="num">${num(between2_50And5_00, 0)}</td>
+              <td class="num">${num(over5_00, 0)}</td>
+              <td class="num">${num(freeCount, 0)}</td>
+            </tr>
+          `
+        );
+      }
+    }
+
+    function fillWeekSelect(weeks) {
+      const previous = weekSelect.value;
+      weekSelect.innerHTML = `<option value="all">All available weeks</option>`;
+      for (const week of weeks) {
+        const key = String(week.week_key || "");
+        if (!key) continue;
+        weekSelect.insertAdjacentHTML("beforeend", `<option value="${escapeHtml(key)}">${escapeHtml(key)}</option>`);
+      }
+      const values = Array.from(weekSelect.options).map(opt => opt.value);
+      if (values.includes(previous)) {
+        weekSelect.value = previous;
+      }
+    }
+
+    function renderWeeks(weeks) {
+      const selected = weekSelect.value || "all";
+      const visibleWeeks = selected === "all"
+        ? weeks
+        : weeks.filter(w => String(w.week_key || "") === selected);
+
+      weeksWrap.innerHTML = "";
+      if (!visibleWeeks.length) {
+        weeksWrap.innerHTML = `<p class="empty">No week snapshots available yet.</p>`;
+        return;
+      }
+
+      for (const week of visibleWeeks) {
+        const groups = buildAdhocGroupsForWeek(week);
+        const generated = fmtDateTime(week.generated_at);
+
+        let blocks = "";
+        for (const group of groups) {
+          const siteName = escapeHtml(group.site_name || group.site_key || "Unknown site");
+          const siteUrl = String(group.site_url || "").trim();
+          const siteLink = siteUrl
+            ? `<a href="${escapeHtml(siteUrl)}" target="_blank" rel="noopener">${siteName}</a>`
+            : siteName;
+
+          const competitions = Array.isArray(group.competitions) ? group.competitions : [];
+          const items = competitions.map((comp) => {
+            const title = escapeHtml(comp.product || "Untitled competition");
+            const url = String(comp.url || "").trim();
+            const draw = escapeHtml(comp.draw_date || "");
+            const price = comp.badge_price == null ? "" : escapeHtml(comp.badge_price);
+            const titleCell = url
+              ? `<a href="${escapeHtml(url)}" target="_blank" rel="noopener">${title}</a>`
+              : title;
+            const detail = [price, draw].filter(Boolean).join(" | ");
+            return `<li>${titleCell}${detail ? ` <span class="chip">${detail}</span>` : ""}</li>`;
+          }).join("");
+
+          blocks += `
+            <article class="site-block">
+              <p class="site-line">${siteLink} <span class="chip">${competitions.length} matches</span></p>
+              ${items ? `<ul class="comp-list">${items}</ul>` : `<p class="empty">No matching competitions.</p>`}
+            </article>
+          `;
+        }
+
+        if (!blocks) {
+          blocks = `<p class="empty">No keyword matches for this week.</p>`;
+        }
+
+        weeksWrap.insertAdjacentHTML(
+          "beforeend",
+          `
+            <section class="week-card">
+              <header class="week-head">
+                <p class="week-title">${escapeHtml(week.week_key || "Unknown week")}</p>
+                <p class="week-meta">Generated: ${escapeHtml(generated)}</p>
+              </header>
+              ${blocks}
+            </section>
+          `
+        );
+      }
+    }
+
+    async function loadJson(path) {
+      const response = await fetch(`${path}?t=${Date.now()}`, { cache: "no-store" });
+      if (!response.ok) throw new Error(`HTTP ${response.status} for ${path}`);
+      return response.json();
+    }
+
+    async function loadPage() {
+      try {
+        const [latest, history] = await Promise.all([loadJson(latestPath), loadJson(historyPath)]);
+
+        renderSummary(latest.root_sites || []);
+
+        const weeks = Array.isArray(history.weeks) ? [...history.weeks] : [];
+        weeks.sort((a, b) => String(b.week_key || "").localeCompare(String(a.week_key || "")));
+
+        rootSiteKeySet = new Set((latest.root_sites || [])
+          .map(row => String(row.site_key || "").trim().toLowerCase())
+          .filter(Boolean));
+
+        fillWeekSelect(weeks);
+        renderWeeks(weeks);
+        renderAdhocSummary(latest.current_week || {});
+
+        metaLine.textContent = `Latest generated: ${fmtDateTime(latest.generated_at)} | Weeks stored: ${weeks.length}`;
+      } catch (err) {
+        const message = err && err.message ? err.message : String(err);
+        metaLine.textContent = "Data load failed.";
+        summaryBody.innerHTML = `<tr><td colspan="7" class="err">${escapeHtml(message)}</td></tr>`;
+        adhocSummaryBody.innerHTML = `<tr><td colspan="7" class="err">${escapeHtml(message)}</td></tr>`;
+        weeksWrap.innerHTML = `<p class="err">${escapeHtml(message)}</p>`;
+      }
+    }
+
+    weekSelect.addEventListener("change", async () => {
+      try {
+        const history = await loadJson(historyPath);
+        const weeks = Array.isArray(history.weeks) ? [...history.weeks] : [];
+        weeks.sort((a, b) => String(b.week_key || "").localeCompare(String(a.week_key || "")));
+        renderWeeks(weeks);
+      } catch (err) {
+        const message = err && err.message ? err.message : String(err);
+        weeksWrap.innerHTML = `<p class="err">${escapeHtml(message)}</p>`;
+      }
+    });
+
+    loadPage();
   </script>
 </body>
 </html>
