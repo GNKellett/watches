@@ -4,7 +4,298 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Rolex Watch Report</title>
   <style>
-    /* ...existing code from golf_watch.html styles... */
+    :root {
+      --paper: #f7f5ef;
+      --ink: #1f2a2f;
+      --muted: #5f6a6f;
+      --brand: #1b6f5f;
+      --brand-soft: #d9ece6;
+      --accent: #c77d3a;
+      --card: #ffffff;
+      --line: #d4d8d9;
+      --shadow: 0 10px 28px rgba(21, 42, 38, 0.12);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      font-family: "Segoe UI", "Trebuchet MS", Verdana, sans-serif;
+      background:
+        radial-gradient(1200px 500px at -10% -20%, #e9f4ee 0%, rgba(233, 244, 238, 0) 70%),
+        radial-gradient(1000px 400px at 120% 0%, #f4e6d7 0%, rgba(244, 230, 215, 0) 65%),
+        var(--paper);
+    }
+
+    .shell {
+      width: min(1200px, 94vw);
+      margin: 18px auto 28px;
+      display: grid;
+      gap: 16px;
+    }
+
+    .hero {
+      background: linear-gradient(125deg, #1b6f5f 0%, #235446 60%, #16342f 100%);
+      color: #f6fff9;
+      border-radius: 18px;
+      padding: 18px 20px;
+      box-shadow: var(--shadow);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero::after {
+      content: "";
+      position: absolute;
+      inset: auto -8% -60% auto;
+      width: 380px;
+      height: 220px;
+      background: radial-gradient(circle at center, rgba(255, 255, 255, 0.25), rgba(255, 255, 255, 0));
+      pointer-events: none;
+    }
+
+    h1 {
+      margin: 0 0 6px;
+      font-size: clamp(1.5rem, 3.2vw, 2.2rem);
+      letter-spacing: 0.01em;
+    }
+
+    .meta {
+      margin: 0;
+      color: rgba(246, 255, 249, 0.9);
+      font-size: 0.96rem;
+    }
+
+    .toolbar {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      box-shadow: var(--shadow);
+      padding: 10px 12px;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .toolbar a,
+    .toolbar button,
+    .toolbar select {
+      border: 1px solid #bfd1ca;
+      background: #f3f8f6;
+      color: #194138;
+      border-radius: 10px;
+      padding: 8px 12px;
+      text-decoration: none;
+      font-size: 0.92rem;
+      cursor: pointer;
+    }
+
+    .toolbar button:hover,
+    .toolbar select:hover,
+    .toolbar a:hover {
+      background: #e9f3ef;
+      border-color: #9dbab0;
+    }
+
+    .toolbar .spacer {
+      flex: 1;
+    }
+
+    .panel {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+
+    .panel h2 {
+      margin: 0;
+      font-size: 1rem;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+      padding: 12px 14px;
+      color: #184237;
+      background: linear-gradient(90deg, var(--brand-soft), transparent);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .table-wrap {
+      overflow-x: auto;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 900px;
+    }
+
+    th,
+    td {
+      padding: 10px 12px;
+      border-bottom: 1px solid #e7ecec;
+      text-align: center;
+      font-size: 0.92rem;
+    }
+
+    th {
+      background: #f5faf8;
+      color: #214b42;
+      position: sticky;
+      top: 0;
+      z-index: 1;
+      font-weight: 700;
+    }
+
+    td.num {
+      text-align: center;
+      font-variant-numeric: tabular-nums;
+    }
+
+    td a {
+      color: #0f5fbe;
+      text-decoration: none;
+      border-bottom: 1px dotted #0f5fbe;
+    }
+
+    td a:hover {
+      color: #074286;
+      border-bottom-color: #074286;
+    }
+
+    .weeks {
+      display: grid;
+      gap: 12px;
+      padding: 12px;
+    }
+
+    .week-card {
+      border: 1px solid #dbe4e2;
+      border-radius: 12px;
+      background: #fbfdfc;
+      overflow: hidden;
+    }
+
+    .week-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      align-items: baseline;
+      padding: 10px 12px;
+      background: linear-gradient(90deg, #edf6f2, #fff);
+      border-bottom: 1px solid #dde6e3;
+    }
+
+    .week-title {
+      margin: 0;
+      font-size: 0.98rem;
+      color: #19463c;
+    }
+
+    .week-meta {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.84rem;
+    }
+
+    .site-block {
+      padding: 8px 12px 10px;
+      border-bottom: 1px dashed #e3e9e8;
+    }
+
+    .site-block:last-child {
+      border-bottom: none;
+    }
+
+    .site-line {
+      font-weight: 700;
+      margin: 0 0 6px;
+      color: #183f36;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+
+    .chip {
+      background: #edf3f2;
+      border: 1px solid #d5e0de;
+      color: #3f5450;
+      border-radius: 999px;
+      padding: 1px 8px;
+      font-size: 0.75rem;
+      font-weight: 600;
+    }
+
+    .comp-list {
+      margin: 0;
+      padding-left: 18px;
+      color: #293c38;
+    }
+
+    .comp-list li {
+      margin: 3px 0;
+      font-size: 0.9rem;
+    }
+
+    .empty {
+      margin: 0;
+      padding: 12px;
+      color: var(--muted);
+      font-style: italic;
+    }
+
+    .err {
+      color: #8a2f2f;
+      background: #f9ebeb;
+      border: 1px solid #f0c7c7;
+      border-radius: 10px;
+      padding: 12px;
+      margin: 12px;
+    }
+
+    @media (max-width: 860px) {
+      .toolbar .spacer {
+        display: none;
+      }
+
+      .hero {
+        padding: 16px;
+      }
+
+      .week-head {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      table {
+        min-width: 600px;
+      }
+
+      th, td {
+        padding: 5px 4px;
+        font-size: 0.82rem;
+      }
+    }
+
+    @media (max-width: 600px) {
+      .shell {
+        width: 100vw;
+        margin: 0;
+        padding: 0;
+      }
+      table {
+        min-width: 420px;
+      }
+      th, td {
+        padding: 3px 2px;
+        font-size: 0.75rem;
+      }
+    }
   </style>
 </head>
 <body>
