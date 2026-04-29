@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T22:07:59",
+  "generated_at": "2026-04-29T22:29:29",
   "source": {
     "mode": "derived_from_full_parser_dump",
     "rows_csv": "C:\\Users\\graem\\OneDrive\\Documents\\Comping\\parse_logs\\parser_audit_full_rows_latest.csv",
@@ -146,7 +146,7 @@
   },
   "current_week": {
     "week_key": "2026-W18",
-    "generated_at": "2026-04-29T22:07:59",
+    "generated_at": "2026-04-29T22:29:29",
     "keyword_groups": [
       {
         "site_key": "7daysperformance",
