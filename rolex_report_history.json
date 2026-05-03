@@ -2,7 +2,7 @@
   "weeks": [
     {
       "week_key": "2026-W18",
-      "generated_at": "2026-05-03T13:50:05",
+      "generated_at": "2026-05-03T14:01:13",
       "keyword_groups": [
         {
           "site_key": "7daysperformance",
@@ -670,5 +670,5 @@
       ]
     }
   ],
-  "updated_at": "2026-05-03T13:50:05"
+  "updated_at": "2026-05-03T14:01:13"
 }
