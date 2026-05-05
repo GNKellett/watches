@@ -671,7 +671,7 @@
     },
     {
       "week_key": "2026-W19",
-      "generated_at": "2026-05-05T13:51:16",
+      "generated_at": "2026-05-05T17:14:06",
       "keyword_groups": [
         {
           "site_key": "7daysperformance",
@@ -1270,7 +1270,7 @@
               "product_info": "Win a Rolex Submariner 126610LV ‘Starbucks’ or £8,500 + Instant Win Cash Prizes Draw: 8 D 8 H 49 M 18 S 0 Sold: 1 849 0.12% Left: 848 Entry £ 24.99 / ticket",
               "badge_price": "£24.99",
               "badge_price_value": 24.99,
-              "draw_date": "2026-05-13",
+              "draw_date": "2026-05-14",
               "date_status": "",
               "url": "https://southwestwatchcompetitions.co.uk/competitions/126610lv-rolex-submariner-starbucks-or-8500-instant-win-cash-prizes/",
               "priority": "Medium"
@@ -1527,5 +1527,5 @@
       ]
     }
   ],
-  "updated_at": "2026-05-05T13:51:16"
+  "updated_at": "2026-05-05T17:14:06"
 }
