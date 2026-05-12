@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T14:12:52",
+  "generated_at": "2026-05-12T19:16:02",
   "source": {
     "mode": "derived_from_full_parser_dump",
     "rows_csv": "C:\\Users\\graem\\OneDrive\\Documents\\Comping\\parse_logs\\parser_audit_full_rows_latest.csv",
@@ -146,7 +146,7 @@
   },
   "current_week": {
     "week_key": "2026-W20",
-    "generated_at": "2026-05-12T14:12:52",
+    "generated_at": "2026-05-12T19:16:02",
     "keyword_groups": [
       {
         "site_key": "7daysperformance",
@@ -229,7 +229,7 @@
             "product_info": "Drawn When Sold Out (8 hrs 59 mins)",
             "badge_price": "£ 0.99",
             "badge_price_value": 0.99,
-            "draw_date": "2026-05-12",
+            "draw_date": "2026-05-13",
             "date_status": "",
             "url": "https://bonkerscompetitions.co.uk/competition/win-5-x-rolex-sky-dweller-tickets-worth-250-draw-no-12/",
             "priority": "Ignore"
@@ -239,7 +239,7 @@
             "product_info": "Drawn When Sold Out (8 hrs 59 mins)",
             "badge_price": "£ 0.99",
             "badge_price_value": 0.99,
-            "draw_date": "2026-05-12",
+            "draw_date": "2026-05-13",
             "date_status": "",
             "url": "https://bonkerscompetitions.co.uk/competition/win-5-x-rolex-sky-dweller-tickets-worth-250-draw-no-13/",
             "priority": "Ignore"
@@ -799,7 +799,7 @@
             "product_info": "Win a Rolex Submariner 126610LV ‘Starbucks’ or £8,500 + Instant Win Cash Prizes Draw: 1 D 8 H 6 M 25 S 0 Sold: 164 849 19.32% Left: 685 Entry £ 24.99 / ticket",
             "badge_price": "£24.99",
             "badge_price_value": 24.99,
-            "draw_date": "2026-05-13",
+            "draw_date": "2026-05-14",
             "date_status": "",
             "url": "https://southwestwatchcompetitions.co.uk/competitions/126610lv-rolex-submariner-starbucks-or-8500-instant-win-cash-prizes/",
             "priority": "Medium"
