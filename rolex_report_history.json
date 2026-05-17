@@ -1528,7 +1528,7 @@
     },
     {
       "week_key": "2026-W20",
-      "generated_at": "2026-05-17T02:08:55",
+      "generated_at": "2026-05-17T21:46:39",
       "keyword_groups": [
         {
           "site_key": "7daysperformance",
@@ -1597,16 +1597,6 @@
           "site_url": "https://bonkerscompetitions.co.uk/competitions/",
           "competitions": [
             {
-              "product": "WIN 10 X ROLEX ‘HULK’ TICKETS WORTH £250 – DRAW NO.3",
-              "product_info": "Drawn When Sold Out (19 hrs 59 mins)",
-              "badge_price": "£ 0.99",
-              "badge_price_value": 0.99,
-              "draw_date": "2026-05-17",
-              "date_status": "",
-              "url": "https://bonkerscompetitions.co.uk/competition/win-10-x-rolex-hulk-tickets-worth-250-draw-no-3/",
-              "priority": "Ignore"
-            },
-            {
               "product": "ROLEX Submariner ‘HULK’ – RSP £16,000 – LOW ODDS!",
               "product_info": "Draw Tomorrow",
               "badge_price": "£ 25.00",
@@ -1614,6 +1604,16 @@
               "draw_date": "2026-05-18",
               "date_status": "",
               "url": "https://bonkerscompetitions.co.uk/competition/rolex-submariner-hulk-rsp-16000-low-odds/",
+              "priority": "Ignore"
+            },
+            {
+              "product": "WIN 10 X ROLEX ‘HULK’ TICKETS WORTH £250 – DRAW NO.3",
+              "product_info": "Drawn When Sold Out (19 hrs 59 mins)",
+              "badge_price": "£ 0.99",
+              "badge_price_value": 0.99,
+              "draw_date": "2026-05-18",
+              "date_status": "",
+              "url": "https://bonkerscompetitions.co.uk/competition/win-10-x-rolex-hulk-tickets-worth-250-draw-no-3/",
               "priority": "Ignore"
             },
             {
@@ -1756,7 +1756,7 @@
               "product_info": "£0.39 Per Ticket WIN A ROLEX DATEJUST OR £5,000 CASH! Enter Here!",
               "badge_price": "£0.39",
               "badge_price_value": 0.39,
-              "draw_date": "2026-07-12",
+              "draw_date": "2026-07-13",
               "date_status": "",
               "url": "https://easybigwins.co.uk/competition/win-a-rolex-datejust-or-ps5000-cash",
               "priority": "Low"
@@ -1790,7 +1790,7 @@
               "product_info": "3 DAYS 19 HRS 48 MINS 53 SEC 32 Instant Wins Rolex Submariner ODDS BOOSTER #1 - 100 Entries worth £1000 7% SOLD 110/1,500 Enter Now 99p",
               "badge_price": "£0.99",
               "badge_price_value": 0.99,
-              "draw_date": "2026-05-20",
+              "draw_date": "2026-05-21",
               "date_status": "",
               "url": "https://iconiqcompetitions.co.uk/competition/rolex-submariner-odds-booster-1-100-entries-worth-ps1000",
               "priority": "High"
@@ -1800,7 +1800,7 @@
               "product_info": "4 DAYS 19 HRS 48 MINS 53 SEC Rolex Submariner 41 \"No-Date\" or £8,000 1% SOLD 16/1,999 Enter Now £9.99",
               "badge_price": "£9.99",
               "badge_price_value": 9.99,
-              "draw_date": "2026-05-21",
+              "draw_date": "2026-05-22",
               "date_status": "",
               "url": "https://iconiqcompetitions.co.uk/competition/rolex-submariner-41-no-date-or-ps8000",
               "priority": "High"
@@ -1810,7 +1810,7 @@
               "product_info": "4 DAYS 17 HRS 48 MINS 53 SEC 32 Instant Wins Rolex Submariner ODDS BOOSTER #2 - 100 Entries worth £1000 0% SOLD 0/1,500 Enter Now 99p",
               "badge_price": "£0.99",
               "badge_price_value": 0.99,
-              "draw_date": "2026-05-21",
+              "draw_date": "2026-05-22",
               "date_status": "",
               "url": "https://iconiqcompetitions.co.uk/competition/rolex-submariner-odds-booster-2-100-entries-worth-ps1000",
               "priority": "High"
@@ -2036,6 +2036,16 @@
               "priority": "High"
             },
             {
+              "product": "NEW 2026 ROLEX 41MM SUBMARINER OR £8,000",
+              "product_info": "WIN TODAY 11PM",
+              "badge_price": "£1.97",
+              "badge_price_value": 1.97,
+              "draw_date": "2026-05-17",
+              "date_status": "",
+              "url": "https://www.revcomps.com/product/new-2026-rolex-41mm-submariner-or-8000-8/",
+              "priority": "High"
+            },
+            {
               "product": "NEW 2026 ROLEX COSMOGRAPH DAYTONA ‘PANDA’ OR £22,000",
               "product_info": "WIN TODAY 11PM",
               "badge_price": "£189.97",
@@ -2043,6 +2053,86 @@
               "draw_date": "2026-05-17",
               "date_status": "",
               "url": "https://www.revcomps.com/product/new-2026-rolex-cosmograph-daytona-panda-or-22000-2/",
+              "priority": "High"
+            },
+            {
+              "product": "NEW 2026 ROLEX COSMOGRAPH DAYTONA ‘PANDA’ OR £22,000",
+              "product_info": "WIN TODAY 11PM",
+              "badge_price": "£189.97",
+              "badge_price_value": 189.97,
+              "draw_date": "2026-05-17",
+              "date_status": "",
+              "url": "https://www.revcomps.com/product/new-2026-rolex-cosmograph-daytona-panda-or-22000-2/",
+              "priority": "High"
+            },
+            {
+              "product": "NEW 2026 ROLEX 31MM TIFFANY LADIES WATCH OR £6,000",
+              "product_info": "WIN MON 18TH MAY @ 11PM",
+              "badge_price": "£3.97",
+              "badge_price_value": 3.97,
+              "draw_date": "2026-05-18",
+              "date_status": "",
+              "url": "https://www.revcomps.com/product/new-2026-rolex-31mm-tiffany-ladies-watch-or-6000-2/",
+              "priority": "High"
+            },
+            {
+              "product": "NEW 2026 ROLEX GMT MASTER II BRUCE WAYNE OR £12,000",
+              "product_info": "WIN TUE 19TH MAY @ 11PM",
+              "badge_price": "£13.97",
+              "badge_price_value": 13.97,
+              "draw_date": "2026-05-19",
+              "date_status": "",
+              "url": "https://www.revcomps.com/product/new-2026-rolex-gmt-master-ii-bruce-wayne-or-12000-7/",
+              "priority": "High"
+            },
+            {
+              "product": "NEW 2026 ROLEX DATEJUST 41 WHITE GOLD OR £9,000 CASH",
+              "product_info": "WIN WED 20TH MAY @ 11PM",
+              "badge_price": "£1.97",
+              "badge_price_value": 1.97,
+              "draw_date": "2026-05-20",
+              "date_status": "",
+              "url": "https://www.revcomps.com/product/new-2026-rolex-datejust-41-white-gold-or-9000-cash/",
+              "priority": "High"
+            },
+            {
+              "product": "NEW 2025 ROLEX PLATINUM YACHT MASTER OR £8,000",
+              "product_info": "WIN THU 21ST MAY @ 11PM",
+              "badge_price": "£3.97",
+              "badge_price_value": 3.97,
+              "draw_date": "2026-05-21",
+              "date_status": "",
+              "url": "https://www.revcomps.com/product/new-2025-rolex-platinum-yacht-master-or-8000-10/",
+              "priority": "High"
+            },
+            {
+              "product": "NEW 2026 ROLEX GMT MASTER II EVEROSE ‘ROOTBEER’ OR £13,000",
+              "product_info": "WIN FRI 22ND MAY @ 11PM",
+              "badge_price": "£29.97",
+              "badge_price_value": 29.97,
+              "draw_date": "2026-05-22",
+              "date_status": "",
+              "url": "https://www.revcomps.com/product/new-2026-rolex-gmt-master-ii-everose-rootbeer-or-13000-7/",
+              "priority": "High"
+            },
+            {
+              "product": "NEW 2026 ROLEX 41MM SUBMARINER DATE OR £9,000",
+              "product_info": "WIN SAT 23RD MAY @ 11PM",
+              "badge_price": "£5.97",
+              "badge_price_value": 5.97,
+              "draw_date": "2026-05-23",
+              "date_status": "",
+              "url": "https://www.revcomps.com/product/new-2026-rolex-41mm-submariner-date-or-9000-10/",
+              "priority": "High"
+            },
+            {
+              "product": "NEW 2026 ROLEX GMT MASTER II ‘ZOMBIE’ OR £13,000",
+              "product_info": "WIN SUN 24TH MAY @ 11PM",
+              "badge_price": "£25.00",
+              "badge_price_value": 25.0,
+              "draw_date": "2026-05-24",
+              "date_status": "",
+              "url": "https://www.revcomps.com/product/new-2026-rolex-gmt-master-ii-zombie-or-13000-5/",
               "priority": "High"
             }
           ]
@@ -2216,7 +2306,7 @@
               "product_info": "Rolex GMT Master II 'Pepsi' Rolex £ 19.99 660/1500 SOLD ENDS IN 0 D 19 H 1 M 44 S 2026-05-17 21:00",
               "badge_price": "£19.99",
               "badge_price_value": 19.99,
-              "draw_date": "2026-05-17",
+              "draw_date": "2026-05-18",
               "date_status": "",
               "url": "https://competition.watchesofwales.co.uk/product/rolex-gmt-master-ii-pepsi/",
               "priority": "Ignore"
@@ -2243,5 +2333,5 @@
       ]
     }
   ],
-  "updated_at": "2026-05-17T02:08:55"
+  "updated_at": "2026-05-17T21:46:39"
 }
