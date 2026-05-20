@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T16:19:32",
+  "generated_at": "2026-05-20T22:25:43",
   "source": {
     "mode": "derived_from_full_parser_dump",
     "rows_csv": "C:\\Users\\graem\\OneDrive\\Documents\\Comping\\parse_logs\\parser_audit_full_rows_latest.csv",
@@ -146,7 +146,7 @@
   },
   "current_week": {
     "week_key": "2026-W21",
-    "generated_at": "2026-05-20T16:19:32",
+    "generated_at": "2026-05-20T22:25:43",
     "keyword_groups": [
       {
         "site_key": "7daysperformance",
@@ -310,7 +310,7 @@
             "product_info": "£0.39 Per Ticket WIN A ROLEX DATEJUST OR £5,000 CASH! Enter Here!",
             "badge_price": "£0.39",
             "badge_price_value": 0.39,
-            "draw_date": "2026-07-12",
+            "draw_date": "2026-07-13",
             "date_status": "",
             "url": "https://easybigwins.co.uk/competition/win-a-rolex-datejust-or-ps5000-cash",
             "priority": "Low"
@@ -472,7 +472,7 @@
             "draw_date": "2026-05-31",
             "date_status": "",
             "url": "https://www.letswin.co.uk/competition/mega-prize-giveaway-2-cars-holiday-and-thousands-of-cash-prizes/",
-            "priority": "Medium"
+            "priority": "Low"
           }
         ]
       },
