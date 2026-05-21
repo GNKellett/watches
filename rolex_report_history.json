@@ -2334,7 +2334,7 @@
     },
     {
       "week_key": "2026-W21",
-      "generated_at": "2026-05-21T13:52:26",
+      "generated_at": "2026-05-21T13:54:18",
       "keyword_groups": [
         {
           "site_key": "7daysperformance",
@@ -2354,6 +2354,23 @@
           ]
         },
         {
+          "site_key": "lavishlife",
+          "site_name": "Lavishlife",
+          "site_url": "https://lavishlifecompetitions.co.uk/competitions/",
+          "competitions": [
+            {
+              "product": "MEGA PRIZE EVERY TIME – WIN A CAR, ROLEX, BIKE, CASH, GOLD & TECH – EVERY TICKET WINS!#4",
+              "product_info": "Draw Sun 24th May",
+              "badge_price": "£ 5.00",
+              "badge_price_value": 5.0,
+              "draw_date": "2026-05-24",
+              "date_status": "",
+              "url": "https://lavishlifecompetitions.co.uk/competition/mega-prize-every-time-win-a-car-rolex-bike-cash-gold-tech-every-ticket-wins4/",
+              "priority": "High"
+            }
+          ]
+        },
+        {
           "site_key": "revcomps",
           "site_name": "Rev Comps",
           "site_url": "https://www.revcomps.com/current-competitions/",
@@ -2367,111 +2384,11 @@
               "date_status": "",
               "url": "https://www.revcomps.com/product/new-2025-rolex-platinum-yacht-master-or-8000-10/",
               "priority": "High"
-            },
-            {
-              "product": "EXPLORER II BLACK DIAL ROLEX STYLE WALL CLOCK",
-              "product_info": "WIN FRI 22ND MAY @ 11PM",
-              "badge_price": "£2.97",
-              "badge_price_value": 2.97,
-              "draw_date": "2026-05-22",
-              "date_status": "",
-              "url": "https://www.revcomps.com/product/explorer-ii-black-dial-rolex-style-wall-clock-4/",
-              "priority": "High"
-            },
-            {
-              "product": "NEW 2026 ROLEX GMT MASTER II EVEROSE ‘ROOTBEER’ OR £13,000",
-              "product_info": "WIN FRI 22ND MAY @ 11PM",
-              "badge_price": "£29.97",
-              "badge_price_value": 29.97,
-              "draw_date": "2026-05-22",
-              "date_status": "",
-              "url": "https://www.revcomps.com/product/new-2026-rolex-gmt-master-ii-everose-rootbeer-or-13000-7/",
-              "priority": "High"
-            },
-            {
-              "product": "GMT MASTER II ROLEX COKE STYLE WALL CLOCK | BLACK RED",
-              "product_info": "WIN SAT 23RD MAY @ 11PM",
-              "badge_price": "£2.97",
-              "badge_price_value": 2.97,
-              "draw_date": "2026-05-23",
-              "date_status": "",
-              "url": "https://www.revcomps.com/product/gmt-master-ii-rolex-coke-style-wall-clock-black-red-6/",
-              "priority": "High"
-            },
-            {
-              "product": "NEW 2026 ROLEX 41MM SUBMARINER DATE OR £9,000",
-              "product_info": "WIN SAT 23RD MAY @ 11PM",
-              "badge_price": "£5.97",
-              "badge_price_value": 5.97,
-              "draw_date": "2026-05-23",
-              "date_status": "",
-              "url": "https://www.revcomps.com/product/new-2026-rolex-41mm-submariner-date-or-9000-10/",
-              "priority": "High"
-            },
-            {
-              "product": "GMT MASTER II ‘BATMAN’ ROLEX STYLE WALL CLOCK",
-              "product_info": "WIN SUN 24TH MAY @ 11PM",
-              "badge_price": "£2.97",
-              "badge_price_value": 2.97,
-              "draw_date": "2026-05-24",
-              "date_status": "",
-              "url": "https://www.revcomps.com/product/gmt-master-ii-batman-rolex-style-wall-clock-7/",
-              "priority": "High"
-            },
-            {
-              "product": "NEW 2026 ROLEX GMT MASTER II ‘ZOMBIE’ OR £13,000",
-              "product_info": "WIN SUN 24TH MAY @ 11PM",
-              "badge_price": "£25.00",
-              "badge_price_value": 25.0,
-              "draw_date": "2026-05-24",
-              "date_status": "",
-              "url": "https://www.revcomps.com/product/new-2026-rolex-gmt-master-ii-zombie-or-13000-5/",
-              "priority": "High"
-            },
-            {
-              "product": "GMT MASTER II PEPSI ROLEX STYLE WALL CLOCK",
-              "product_info": "WIN MON 25TH MAY @ 11PM",
-              "badge_price": "£2.97",
-              "badge_price_value": 2.97,
-              "draw_date": "2026-05-25",
-              "date_status": "",
-              "url": "https://www.revcomps.com/product/gmt-master-ii-pepsi-rolex-style-wall-clock-4/",
-              "priority": "High"
-            },
-            {
-              "product": "NEW FULLY STICKERED 2019 ROLEX “HULK” SUBMARINER DATE OR £15,000",
-              "product_info": "WIN MON 25TH MAY @ 11PM",
-              "badge_price": "£24.97",
-              "badge_price_value": 24.97,
-              "draw_date": "2026-05-25",
-              "date_status": "",
-              "url": "https://www.revcomps.com/product/new-fully-stickered-2019-rolex-hulk-submariner-date-or-15000-2/",
-              "priority": "High"
-            },
-            {
-              "product": "NEW 2026 ROLEX SUBMARINER STARBUCKS OR £10,000",
-              "product_info": "WIN TUE 26TH MAY @ 11PM",
-              "badge_price": "£7.97",
-              "badge_price_value": 7.97,
-              "draw_date": "2026-05-26",
-              "date_status": "",
-              "url": "https://www.revcomps.com/product/new-2026-rolex-submariner-starbucks-or-10000-6/",
-              "priority": "High"
-            },
-            {
-              "product": "NEW 2026 ROLEX GMT MASTER II BATGIRL OR £12,000",
-              "product_info": "WIN WED 27TH MAY @ 11PM",
-              "badge_price": "£2.97",
-              "badge_price_value": 2.97,
-              "draw_date": "2026-05-27",
-              "date_status": "",
-              "url": "https://www.revcomps.com/product/new-2026-rolex-gmt-master-ii-batgirl-or-12000-9/",
-              "priority": "High"
             }
           ]
         }
       ]
     }
   ],
-  "updated_at": "2026-05-21T13:52:26"
+  "updated_at": "2026-05-21T13:54:18"
 }
