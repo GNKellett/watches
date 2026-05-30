@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T18:00:02",
+  "generated_at": "2026-05-30T10:34:52",
   "source": {
     "mode": "derived_from_full_parser_dump",
     "rows_csv": "C:\\Users\\graem\\OneDrive\\Documents\\Comping\\parse_logs\\parser_audit_full_rows_latest.csv",
@@ -146,7 +146,7 @@
   },
   "current_week": {
     "week_key": "2026-W22",
-    "generated_at": "2026-05-26T18:00:02",
+    "generated_at": "2026-05-30T10:34:52",
     "keyword_groups": [
       {
         "site_key": "7daysperformance",
@@ -155,12 +155,22 @@
         "competitions": [
           {
             "product": "Win This Rolex Submariner \"Hulk\"!",
-            "product_info": "Draw on Sunday 9pm Win This Rolex Submariner \"Hulk\"! Cash Alternative: £10,000 £0.08 sold: 7 % Enter now",
+            "product_info": "Draw Tomorrow 9pm Win This Rolex Submariner \"Hulk\"! Cash Alternative: £10,000 £0.08 sold: 22 % Enter now",
             "badge_price": "£0.08",
             "badge_price_value": 0.08,
             "draw_date": "2026-05-31",
-            "date_status": "Draw on Sunday 9pm",
+            "date_status": "Draw Tomorrow 9pm",
             "url": "https://7daysperformance.co.uk/product/win-rolex-hulk-310526",
+            "priority": "High"
+          },
+          {
+            "product": "Win This Rolex GMT Master II \"Batgirl\"!",
+            "product_info": "Just launched Win This Rolex GMT Master II \"Batgirl\"! Cash Alternative: £10,000 £0.11 sold: 0 % Enter now",
+            "badge_price": "£0.11",
+            "badge_price_value": 0.11,
+            "draw_date": "2026-06-07",
+            "date_status": "Just launched",
+            "url": "https://7daysperformance.co.uk/product/win-rolex-batgirl-070626",
             "priority": "High"
           }
         ]
@@ -188,23 +198,13 @@
         "site_url": "https://www.revcomps.com/current-competitions/",
         "competitions": [
           {
-            "product": "DAYTONA GOLD & GREEN ROLEX STYLE WALL CLOCK",
+            "product": "NEW 2025 ROLEX GMT MASTER II ‘PEPSI’ JUBILEE OR £17,000",
             "product_info": "WIN TODAY 11PM",
-            "badge_price": "£2.97",
-            "badge_price_value": 2.97,
-            "draw_date": "2026-05-26",
+            "badge_price": "£3.47",
+            "badge_price_value": 3.47,
+            "draw_date": "2026-05-30",
             "date_status": "",
-            "url": "https://www.revcomps.com/product/daytona-gold-green-rolex-style-wall-clock-5/",
-            "priority": "High"
-          },
-          {
-            "product": "NEW 2026 ROLEX SUBMARINER STARBUCKS OR £10,000",
-            "product_info": "WIN TODAY 11PM",
-            "badge_price": "£7.97",
-            "badge_price_value": 7.97,
-            "draw_date": "2026-05-26",
-            "date_status": "",
-            "url": "https://www.revcomps.com/product/new-2026-rolex-submariner-starbucks-or-10000-6/",
+            "url": "https://www.revcomps.com/product/new-2026-rolex-gmt-master-ii-pepsi-jubilee-or-17000/",
             "priority": "High"
           }
         ]
