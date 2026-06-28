@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T20:06:16",
+  "generated_at": "2026-06-28T02:06:44",
   "source": {
     "mode": "derived_from_full_parser_dump",
     "rows_csv": "C:\\Users\\graem\\OneDrive\\Documents\\Comping\\parse_logs\\parser_audit_full_rows_latest.csv",
@@ -146,7 +146,7 @@
   },
   "current_week": {
     "week_key": "2026-W26",
-    "generated_at": "2026-06-27T20:06:16",
+    "generated_at": "2026-06-28T02:06:44",
     "keyword_groups": [
       {
         "site_key": "7daysperformance",
@@ -155,11 +155,11 @@
         "competitions": [
           {
             "product": "Win This Rolex Submariner \"Hulk\"!",
-            "product_info": "Draw Tomorrow 9pm Win This Rolex Submariner \"Hulk\"! Cash Alternative: £12,000 £0.09 sold: 22 % Enter now",
+            "product_info": "Draw Today 9pm Win This Rolex Submariner \"Hulk\"! Cash Alternative: £12,000 £0.09 sold: 25 % Enter now",
             "badge_price": "£0.09",
             "badge_price_value": 0.09,
             "draw_date": "2026-06-28",
-            "date_status": "Draw Tomorrow 9pm",
+            "date_status": "Draw Today 9pm",
             "url": "https://7daysperformance.co.uk/product/win-rolex-hulk-280626",
             "priority": "High"
           },
@@ -185,7 +185,7 @@
             "product_info": "Drawn When Sold Out (1 day 2 hrs 36 mins)",
             "badge_price": "£ 30.00",
             "badge_price_value": 30.0,
-            "draw_date": "2026-06-28",
+            "draw_date": "2026-06-29",
             "date_status": "",
             "url": "https://bonkerscompetitions.co.uk/competition/rolex-datejust-41-bi-metal-champagne-dial-rrp-14800-2/",
             "priority": "Ignore"
@@ -195,7 +195,7 @@
             "product_info": "Drawn When Sold Out (1 day 2 hrs 21 mins)",
             "badge_price": "£ 0.99",
             "badge_price_value": 0.99,
-            "draw_date": "2026-06-28",
+            "draw_date": "2026-06-29",
             "date_status": "",
             "url": "https://bonkerscompetitions.co.uk/competition/win-10-x-rolex-datejust-tickets-worth-300-draw-no-2-2/",
             "priority": "Ignore"
@@ -215,7 +215,7 @@
             "product_info": "Drawn When Sold Out (3 days 1 hr 51 mins)",
             "badge_price": "£ 0.99",
             "badge_price_value": 0.99,
-            "draw_date": "2026-06-30",
+            "draw_date": "2026-07-01",
             "date_status": "",
             "url": "https://bonkerscompetitions.co.uk/competition/win-10-x-rolex-panda-tickets-worth-250-draw-no-4/",
             "priority": "Ignore"
@@ -364,7 +364,7 @@
             "product_info": "Featured Competition WIN THIS ROLEX GMT-MASTER II 'PEPSI' Plus THREE bonus prizes to be won before the Rolex is drawn WORTH £22,000 Ticket £35.00 Total 699 49 sold 650 remaining DRAW ENDS IN: 07 : 00 : 25 : 45 Days Hrs Min Sec Enter Now Guaranteed Winner Drawn Live Full Transparency",
             "badge_price": "£35.00",
             "badge_price_value": 35.0,
-            "draw_date": "2026-07-04",
+            "draw_date": "2026-07-05",
             "date_status": "",
             "url": "https://thecompclub.co.uk/competition/6a313daa9c36022ec4bdfe02",
             "priority": "Medium"
@@ -405,7 +405,7 @@
         "competitions": [
           {
             "product": "Win this Rolex DateJust 41 'Wimbledon Dial' or £10,000 Tax Free",
-            "product_info": "Closes Tomorrow 23:00",
+            "product_info": "Closes Today 23:00",
             "badge_price": "£0.09",
             "badge_price_value": 0.09,
             "draw_date": "2026-06-28",
@@ -415,7 +415,7 @@
           },
           {
             "product": "Win this Rolex DateJust 41 'Wimbledon Dial' or £10,000 Tax Free",
-            "product_info": "Closes Tomorrow 23:00",
+            "product_info": "Closes Today 23:00",
             "badge_price": "£0.09",
             "badge_price_value": 0.09,
             "draw_date": "2026-06-28",
@@ -435,27 +435,10 @@
             "product_info": "£0.39 Per Ticket WIN A ROLEX DATEJUST OR £5,000 CASH! Enter Here!",
             "badge_price": "£0.39",
             "badge_price_value": 0.39,
-            "draw_date": "2026-07-12",
+            "draw_date": "2026-07-13",
             "date_status": "",
             "url": "https://easybigwins.co.uk/competition/win-a-rolex-datejust-or-ps5000-cash",
             "priority": "Low"
-          }
-        ]
-      },
-      {
-        "site_key": "giveawayguys",
-        "site_name": "Giveaway Guys",
-        "site_url": "https://thegiveawayguys.co.uk/collections/competition",
-        "competitions": [
-          {
-            "product": "2025 Batman Rolex GMT Master II3rd July 26",
-            "product_info": "Tomorrow!",
-            "badge_price": "£1.49",
-            "badge_price_value": 1.49,
-            "draw_date": "2026-07-03",
-            "date_status": "",
-            "url": "https://thegiveawayguys.co.uk/collections/competition/products/2025-batman-rolex-gmt-master-ii",
-            "priority": "High"
           }
         ]
       },
@@ -540,7 +523,7 @@
             "product_info": "Ends in 42 days Undersold Cash Alt: £1.49 Rolex Sky-Dweller | Blue Dial 0% sold 1 Ticket | £1.99 per ticket 1 Ticket | £1.99",
             "badge_price": "£1.99",
             "badge_price_value": 1.99,
-            "draw_date": "2026-08-08",
+            "draw_date": "2026-08-09",
             "date_status": "",
             "url": "https://www.millionairecompetitions.co.uk/raffles/rolex-sky-dweller-blue-dial-e4bcf9a6-bad7-4c3e-8368-5ceed1fe805d",
             "priority": "Medium"
@@ -570,13 +553,23 @@
         "site_url": "https://www.revcomps.com/current-competitions/",
         "competitions": [
           {
-            "product": "NEW 2026 ROLEX SKY-DWELLER WHITE GOLD BLUE DIAL OR £16,000",
+            "product": "NEW 2026 ROLEX COSMOGRAPH DAYTONA ‘PANDA’ OR £22,000",
             "product_info": "WIN TODAY 11PM",
-            "badge_price": "£3.97",
-            "badge_price_value": 3.97,
-            "draw_date": "2026-06-27",
+            "badge_price": "£189.97",
+            "badge_price_value": 189.97,
+            "draw_date": "2026-06-28",
             "date_status": "",
-            "url": "https://www.revcomps.com/product/new-2026-rolex-sky-dweller-white-gold-blue-dial-or-16000/",
+            "url": "https://www.revcomps.com/product/new-2026-rolex-cosmograph-daytona-panda-or-22000-low-odds/",
+            "priority": "High"
+          },
+          {
+            "product": "NEW 2026 ROLEX SUBMARINER STARBUCKS OR £10,000",
+            "product_info": "WIN TODAY 11PM",
+            "badge_price": "£7.97",
+            "badge_price_value": 7.97,
+            "draw_date": "2026-06-28",
+            "date_status": "",
+            "url": "https://www.revcomps.com/product/new-2026-rolex-submariner-starbucks-or-10000-9/",
             "priority": "High"
           }
         ]
@@ -591,7 +584,7 @@
             "product_info": "Sale £1.99 per ticket Participate 1 Day 18 Hours 22 Mins 53 Secs 2363 tickets still available 1% BIG BOY BUNDLE! 1 BIG WINNER – 400X ROLEX BATGIRL/£11,000 TICKETS & 60% OFF NOW! NOT ONE TO MISS! THE WINNER GETS £4,000 WORTH OF ROLEX TICKETS! 60% OFF NOW! Enter now",
             "badge_price": "£1.99",
             "badge_price_value": 1.99,
-            "draw_date": "2026-06-28",
+            "draw_date": "2026-06-29",
             "date_status": "",
             "url": "https://sdccomps.co.uk/shop/bigboy/",
             "priority": "Written"
@@ -601,7 +594,7 @@
             "product_info": "£9.95 per ticket Participate 5 Days 18 Hours 22 Mins 53 Secs 2887 tickets still available 20% WIN A ROLEX BATGIRL OR £11,000 CASH – INSTANTLY! THIS ROLEX COULD BE YOURS IN 5 MINUTES! BIGDOG CODE LIVE Enter now",
             "badge_price": "£9.95",
             "badge_price_value": 9.95,
-            "draw_date": "2026-07-02",
+            "draw_date": "2026-07-03",
             "date_status": "",
             "url": "https://sdccomps.co.uk/shop/girlbat/",
             "priority": "Written"
@@ -662,7 +655,7 @@
             "product_info": "Welcome to The Time Vault Club Where passion for horology meets opportunity. We exist to bring the world of exceptional watchmaking closer to you, from iconic Swiss craftsmanship to bespoke British design. Through our curated competitions, we give you the chance to discover and own watches most people only dream of. LIVE COMPETITION All of our prize draws are hosted live, so you can witness every moment as dream watches find new owners. With regular competitions featuring everything from iconic Swiss classics to standout modern releases, the next opportunity is always closer than you think. Longines Hydro-Conquest or £1250 Per Entry £ 10.00 Ends In 06 Days 00 Hours 14 Mins 26 Secs Tickets Remaining 341 / 399 ENTER COMPETITION VIEW ALL COMPETITIONS Every watch tells a story, will the next one be yours? RECENT Winners Winner of the Rolex Sky-Dweller Steve Shaw Winner of the Hamilton Khaki Trevor Golden Winner of the Omega MoonSwatch Russell Palmer Winner of the Tudor Black Bay Florian Vlad Talpos",
             "badge_price": "£1250",
             "badge_price_value": 1250.0,
-            "draw_date": "2026-07-03",
+            "draw_date": "2026-07-04",
             "date_status": "",
             "url": "https://thetimevaultclub.com/competitions/longines-hydroconquest-39mm/",
             "priority": "Written"
@@ -710,7 +703,7 @@
         "competitions": [
           {
             "product": "Win 10 entries into Rolex Pepsi on Sunday",
-            "product_info": "Draw Tomorrow",
+            "product_info": "Draw Today",
             "badge_price": "£5.00",
             "badge_price_value": 5.0,
             "draw_date": "2026-06-28",
@@ -720,7 +713,7 @@
           },
           {
             "product": "Win 5 entries into Rolex Pepsi on Sunday",
-            "product_info": "Draw Tomorrow",
+            "product_info": "Draw Today",
             "badge_price": "£1.00",
             "badge_price_value": 1.0,
             "draw_date": "2026-06-28",
@@ -730,7 +723,7 @@
           },
           {
             "product": "Brand New 2025 Rolex GMT-Master II ‘Pepsi’ £17,000 Cash Alternative",
-            "product_info": "Draw Mon 29th Jun",
+            "product_info": "Draw Tomorrow",
             "badge_price": "£35.00",
             "badge_price_value": 35.0,
             "draw_date": "2026-06-29",
@@ -760,7 +753,7 @@
             "product_info": "Rolex Sky Dweller 326933 Rolex £ 19.99 335/1350 SOLD ENDS IN 1 D 1 H 5 M 35 S 2026-06-28 21:00",
             "badge_price": "£19.99",
             "badge_price_value": 19.99,
-            "draw_date": "2026-06-28",
+            "draw_date": "2026-06-29",
             "date_status": "",
             "url": "https://competition.watchesofwales.co.uk/product/rolex-sky-dweller-326933/",
             "priority": "Ignore"
