@@ -1,729 +1,6 @@
 {
   "weeks": [
     {
-      "week_key": "2026-W23",
-      "generated_at": "2026-06-05T01:17:05",
-      "keyword_groups": [
-        {
-          "site_key": "7daysperformance",
-          "site_name": "7daysperformance",
-          "site_url": "https://7daysperformance.co.uk/",
-          "competitions": [
-            {
-              "product": "Win This Rolex GMT Master II \"Batgirl\"!",
-              "product_info": "Draw on Sunday 9pm Win This Rolex GMT Master II \"Batgirl\"! Cash Alternative: £10,000 £0.11 sold: 12 % Enter now",
-              "badge_price": "£0.11",
-              "badge_price_value": 0.11,
-              "draw_date": "2026-06-07",
-              "date_status": "Draw on Sunday 9pm",
-              "url": "https://7daysperformance.co.uk/product/win-rolex-batgirl-070626",
-              "priority": "High"
-            }
-          ]
-        },
-        {
-          "site_key": "allstarprizes",
-          "site_name": "Allstarprizes",
-          "site_url": "https://allstarprizes.co.uk/competitions/",
-          "competitions": [
-            {
-              "product": "Rolex DateJust 41mm 2026 + OR £10K Cash + INSTANT PRIZES",
-              "product_info": "Sale Draw Wed 17th Jun 14 % Sold ALL COMPETITIONS DRAWN EARLY UPON SELLOUT 12 days 21 hrs 20 mins 21 secs £ 0.99 Original price was: £0.99. £ 0.79 Current price is: £0.79. Per Entry Rolex DateJust 41mm 2026 + OR £10K Cash + INSTANT PRIZES Cash Alternative: £10,000 Enter Now £10K CASH ALT",
-              "badge_price": "£0.79",
-              "badge_price_value": 0.79,
-              "draw_date": "2026-06-17",
-              "date_status": "",
-              "url": "https://allstarprizes.co.uk/competition/rolex-datejust-41mm-2026-%f0%9f%93%a6%f0%9f%93%9c-or-10k-cash-instant-prizes/",
-              "priority": "Medium"
-            }
-          ]
-        },
-        {
-          "site_key": "apex66",
-          "site_name": "Apex66",
-          "site_url": "https://www.apex66.co.uk/competitions/",
-          "competitions": [
-            {
-              "product": "Win Max Tickets on The Rolex GMT Master II",
-              "product_info": "JUST LAUNCHED",
-              "badge_price": "£1.00",
-              "badge_price_value": 1.0,
-              "draw_date": "2026-06-05",
-              "date_status": "",
-              "url": "https://www.apex66.co.uk/competition/credit-ticket-bundles/win-max-tickets-on-the-rolex-gmt-master-ii-4/",
-              "priority": "High"
-            },
-            {
-              "product": "Win Max Tickets on The Rolex GMT Master II",
-              "product_info": "JUST LAUNCHED",
-              "badge_price": "£1.00",
-              "badge_price_value": 1.0,
-              "draw_date": "2026-06-05",
-              "date_status": "",
-              "url": "https://www.apex66.co.uk/competition/credit-ticket-bundles/win-max-tickets-on-the-rolex-gmt-master-ii-4/",
-              "priority": "High"
-            },
-            {
-              "product": "Rolex GMT Master II with Box & Papers",
-              "product_info": "LIVE DRAW MON 08 JUN",
-              "badge_price": "£4.95",
-              "badge_price_value": 4.95,
-              "draw_date": "2026-06-08",
-              "date_status": "",
-              "url": "https://www.apex66.co.uk/competition/watches/rolex/",
-              "priority": "High"
-            }
-          ]
-        },
-        {
-          "site_key": "bonkerscompetitions",
-          "site_name": "Bonkerscompetitions",
-          "site_url": "https://bonkerscompetitions.co.uk/competitions/",
-          "competitions": [
-            {
-              "product": "Rolex Yacht-Master Platinum Bezel – RSP £14,000",
-              "product_info": "Draw Tomorrow",
-              "badge_price": "£ 12.50",
-              "badge_price_value": 12.5,
-              "draw_date": "2026-06-06",
-              "date_status": "",
-              "url": "https://bonkerscompetitions.co.uk/competition/rolex-yacht-master-platinum-bezel-rsp-14000/",
-              "priority": "Ignore"
-            },
-            {
-              "product": "2026 Rolex Datejust 41mm Fluted Bezel Jubilee Bracelet – RSP £14,000!",
-              "product_info": "Draw Sun 7th Jun",
-              "badge_price": "£ 25.00",
-              "badge_price_value": 25.0,
-              "draw_date": "2026-06-07",
-              "date_status": "",
-              "url": "https://bonkerscompetitions.co.uk/competition/2026-rolex-datejust-41mm-fluted-bezel-jubilee-bracelet-rsp-14000-2/",
-              "priority": "Ignore"
-            },
-            {
-              "product": "WIN 10 X ROLEX DATEJUST TICKETS WORTH £250 – DRAW NO.1",
-              "product_info": "Drawn When Sold Out (2 days 22 hrs 1 min)",
-              "badge_price": "£ 0.99",
-              "badge_price_value": 0.99,
-              "draw_date": "2026-06-07",
-              "date_status": "",
-              "url": "https://bonkerscompetitions.co.uk/competition/win-10-x-rolex-datejust-tickets-worth-250-draw-no-1-9/",
-              "priority": "Ignore"
-            }
-          ]
-        },
-        {
-          "site_key": "breezecompetitions",
-          "site_name": "Breezecompetitions",
-          "site_url": "https://www.breezecompetitions.com/",
-          "competitions": [
-            {
-              "product": "Rolex GMT (Bruce Wayne) or £10,000 Cash + Over 2,000 Instant Wins",
-              "product_info": "Draw Mon 6th Jul 31 days 21 hrs 15 mins 43 secs 1 % Sold Rolex GMT (Bruce Wayne) or £10,000 Cash + Over 2,000 Instant Wins £ 0.25 Per Entry Cash Alternative: £10,000 Enter Now",
-              "badge_price": "£0.25",
-              "badge_price_value": 0.25,
-              "draw_date": "2026-07-06",
-              "date_status": "",
-              "url": "https://www.breezecompetitions.com/competition/rolex-gmt-bruce-wayne-or-10000-cash-over-2000-instant-wins-%f0%9f%98%8d/",
-              "priority": "Medium"
-            }
-          ]
-        },
-        {
-          "site_key": "c4competitions",
-          "site_name": "c4competitions",
-          "site_url": "https://c4competitions.co.uk/",
-          "competitions": [
-            {
-              "product": "Rolex Submariner 'Starbucks 2026 Dated May",
-              "product_info": "",
-              "badge_price": "£2.00",
-              "badge_price_value": 2.0,
-              "draw_date": "2026-06-14",
-              "date_status": "",
-              "url": "https://c4competitions.co.uk/product/rolex-submariner-starbucks-126610lv",
-              "priority": "Medium"
-            },
-            {
-              "product": "Rolex GMT-Master II Black Discontinued",
-              "product_info": "",
-              "badge_price": "£2.50",
-              "badge_price_value": 2.5,
-              "draw_date": "2026-06-17",
-              "date_status": "",
-              "url": "https://c4competitions.co.uk/product/rolex-yacht-master-rhodium-37mm",
-              "priority": "Medium"
-            },
-            {
-              "product": "ROLEX GMT-MASTER II 116713LN",
-              "product_info": "",
-              "badge_price": "£3.00",
-              "badge_price_value": 3.0,
-              "draw_date": "2026-06-24",
-              "date_status": "",
-              "url": "https://c4competitions.co.uk/product/rolex-gmt-master-ii-116713ln",
-              "priority": "Medium"
-            }
-          ]
-        },
-        {
-          "site_key": "c4comps",
-          "site_name": "c4comps",
-          "site_url": "https://c4competitions.co.uk/",
-          "competitions": [
-            {
-              "product": "Rolex Submariner 'Starbucks 2026 Dated May",
-              "product_info": "",
-              "badge_price": "£2.00",
-              "badge_price_value": 2.0,
-              "draw_date": "2026-06-14",
-              "date_status": "",
-              "url": "https://c4competitions.co.uk/product/rolex-submariner-starbucks-126610lv",
-              "priority": "Medium"
-            },
-            {
-              "product": "Rolex GMT-Master II Black Discontinued",
-              "product_info": "",
-              "badge_price": "£2.50",
-              "badge_price_value": 2.5,
-              "draw_date": "2026-06-17",
-              "date_status": "",
-              "url": "https://c4competitions.co.uk/product/rolex-yacht-master-rhodium-37mm",
-              "priority": "Medium"
-            },
-            {
-              "product": "ROLEX GMT-MASTER II 116713LN",
-              "product_info": "",
-              "badge_price": "£3.00",
-              "badge_price_value": 3.0,
-              "draw_date": "2026-06-24",
-              "date_status": "",
-              "url": "https://c4competitions.co.uk/product/rolex-gmt-master-ii-116713ln",
-              "priority": "Medium"
-            }
-          ]
-        },
-        {
-          "site_key": "caddycomps",
-          "site_name": "Caddycomps",
-          "site_url": "https://caddycomps.com/",
-          "competitions": [
-            {
-              "product": "WIN 2024 ROLEX OYSTER PERPETUAL GREEN DIAL (FULL BOX & PAPERS) #5",
-              "product_info": "Ends at 8pm Sun 7th Jun Sale WIN 2024 ROLEX OYSTER PERPETUAL GREEN DIAL (FULL BOX & PAPERS) #5 + CUSTOM SCOTTY CAMERON PUTTER £ 0.75 Original price was: £0.75. £ 0.65 Current price is: £0.65. Per Entry 5213 / 29999 17 % Enter Now",
-              "badge_price": "£0.65",
-              "badge_price_value": 0.65,
-              "draw_date": "2026-06-07",
-              "date_status": "",
-              "url": "https://caddycomps.com/competition/win-2024-rolex-oyster-perpetual-green-dial-full-box-papers-5/",
-              "priority": "Low"
-            }
-          ]
-        },
-        {
-          "site_key": "calibreclub",
-          "site_name": "Calibreclub",
-          "site_url": "https://thecalibreclub.com/home/",
-          "competitions": [
-            {
-              "product": "Ente= r =E2=86=92",
-              "product_info": "Live Draw Rolex Submariner Ref. 126610LN =C2=B7 395 ticket cap =C2=B7 entry from = =C2=A337.50 =C2=B7 draws Fri 5 Jun, 9pm Ente= r =E2=86=92",
-              "badge_price": "",
-              "badge_price_value": null,
-              "draw_date": "",
-              "date_status": "",
-              "url": "https://thecalibreclub.com/home/3D\"https:/thecalibreclub.com/competition/rolex-submariner/\"",
-              "priority": "Medium"
-            },
-            {
-              "product": "Rolex Submariner. 395 tickets. Tha= t's the cap.",
-              "product_info": "Closing Friday =C2=B7 9pm Rolex Submariner. 395 tickets. Tha= t's the cap. 1 in 395 max odds if sold out. Drawn live on Facebook, blockchain-verified. The draw runs on schedule= whether sold out or not. Entries Close In 00 Days 21 Hrs 13 Min 12 Sec 102 sold =C2=B7 293 remaining 26% Enter Now Free postal entry available",
-              "badge_price": "",
-              "badge_price_value": null,
-              "draw_date": "",
-              "date_status": "",
-              "url": "https://thecalibreclub.com/home/3D\"https:/thecalibreclub.com/competition/rolex-=",
-              "priority": "Medium"
-            },
-            {
-              "product": "The watches are real. The odds are fair.",
-              "product_info": "Live Draw Rolex Submariner Ref. 126610LN =C2=B7 395 ticket cap =C2=B7 entry from = =C2=A337.50 =C2=B7 draws Fri 5 Jun, 9pm Ente= r =E2=86=92 Closing Soon Introducing =E2=80=94 The Grand Prize By The Calibre Club The watches are real. The odds are fair. Rolex Submariner Date =C2=B7 Ref. 126610LN =C2=B7 2024 full set, box = & papers. Capped at 395 tickets. Drawn live on Facebook. Independently verified= . 00 Days 22 Hours 13 Minutes 12 Seconds 395 Ticket Cap =C2=A337.50 Entry From 1 in 395 Max Odds If Sold Out 5 Jun Closes 9pm Sharp 102 sold =C2=B7 293 tickets remaining 26% Draw runs 5 June at 9pm whether sold out or not. Odds improv= e if fewer tickets sell. Enter the Rolex Draw =E2=80=94 from =C2=A337.50 Secure checkout =C2=B7 Free postal entry available =C2=B7 No recurr= ing billing =E2=98=85=E2=98=85=E2=98=85=E2=98=85=E2=98= =85 4 verified 5=E2=98=85 winner reviews on Trus= tpilot =C2=B7 Draws certified by VerifiedDraws Paid and free postal entries go into the same draw. Free entr= y route =E2=86=92 6 Winners. 6 Delivered. No extensions. Ever. 4 =C3=97 5-Star Verif= ied Reviews Blockchain-Verified Draws UK Reg. 15776783 Instant Wins =C2=B7 Live Now Also Live =E2=80=94 Instant Wins= =C2=B7 No Final Draw The watches are real. The wins are instant. A blue-dial instant-win drop =E2=80=94 109 winners hidden in the ti= cket pool. Ten watches led by a Blue Omega Seamaster, plus cash and Calibre Cr= edit. Your ticket either holds a prize or it doesn't, the moment you ente= r. 15,000 Ticket Cap =C2=A32.99 Entry From= 1 in 138 Max Odds If = Sold Out 109 Instant Winners 146 entered =C2=B7 14,854 tickets remaining 1% Entries Close In 09 = Days 21 Hrs 13<= /b> Min 12<= /b> Sec Enter the Blue Edition =E2=80=94 from =C2=A32.99 Paid and free postal entries go into the same pool. Free entr= y route =E2=86=92 New =E2=80=94 Instant Wins =C2=B7 Live= Now Instant Wins =C2=B7 Live Now Also Live =E2=80=94 Instant Wins= =C2=B7 No Final Draw 1,000 winners. 1 in 20 wins. The full AP =C3=97 Swatch Royal Pop colour collection =E2=80=94 eig= ht bold colourways =E2=80=94 plus =C2=A32,250 cash and =C2=A35,275 Calibre Credit, every prize h= idden in a ticket. Your number either holds a prize or it doesn't, the moment you ente= r. 20,000 Ticket Cap =C2=A30.99 Entry From= 1 in 20 Odds Any Priz= e 1,000 Instant Winners= 110 entered =C2=B7 19,890 tickets remaining 1% Entries Close In 37 = Days 21 Hrs 13<= /b> Min 12<= /b> Sec Enter the Royal Pop Edition =E2=80=94 from =C2=A30.99 Paid and free postal entries go into the same pool. Free entr= y route =E2=86=92 Chris made contact straight after the draw. He met me at a pub loca= l to where I was working that day =E2=80=94 we had a good chat about watches and life. A gre= at guy. Trustworthy business. Jake Lovelock =C2=B7 Sussex =C2= =B7 Tudor BB58 Winner =E2=98=85=E2=98=85=E2=98=85=E2= =98=85=E2=98=85 Trustpilot 5.0 4 verified winner reviews Blockchain-Verified Draws Cryptographic proof you can verify yourself. Entries are hashed and= locked on-chain before the draw =E2=80=94 no changes possible =E2=80=94 an= d every result gets a public verification link. We replace \"trust us\" with \"verify it you= rself.\" The Standard =E2=80=94 Independent = Verification Blockchain-verified draws. Proof= you can check yourself. Every draw is cryptographically recorded and given a public proof l= ink. You don't have to take our word for any result =E2=80=94 the maths = is open for anyone to verify. 01 Blockchain-locked entries Entries are cryptographically hashed and stored on-chain before t= he draw runs. Once locked, nothing can be added, removed, or changed. 02 Tamper-proof results Blockchain verification means the outcome cannot be altered after= the draw completes. The result is mathematically fixed the moment it's rec= orded. 03 Public verification Every draw gets a public link where anyone can independently veri= fy the blockchain proof =E2=80=94 entrant list, winning ticket, and time= stamp. The Standard =E2=80=94 How We Operate= Built for collectors who care about provenance and proof. Most competition sites sell five to ten thousand tickets per draw. = Odds vanish. Draw dates get pushed. Customer service disappears after the sale. = We built The Calibre Club differently =E2=80=94 fixed ticket caps, never-extende= d draws, every result on a public certificate, and the watch handed over in person where = possible. 6 Completed Draws 6 Watches Delivered 4 5=E2=98=85 Trustpilot Reviews 0 Extensions. Ever. Are these draws actually real? Every draw runs live on Facebook, is recorded, and is blo= ckchain-verified =E2=80=94 entries are hashed on-chain before the draw and the result gets a= public proof link you can check yourself. Winner names, locations, and proof links are = published within 24 hours. We're a UK company (Asct Holdings Ltd =C2=B7 Companies House 1577= 6783) with six completed draws and six delivered watches. What are my real odds? Every draw has a fixed ticket cap . The maximum s= ell-out odds are printed on every entry pack before you pay. 395 tickets means 1 i= n 395 max odds =E2=80=94 no extensions, no extra tickets sold after cap. Will the draw date change? No extensions. Ever. Draws run on the advertised= date and time. The Rolex Submariner draw closes Friday 5 June, 9pm =E2=80=94 ver= ified externally. Six completed draws, six run on schedule. What if I actually win? You'll hear from us within an hour. Most winners are handed their= watch in person . Where we can't meet, watches go by in= sured tracked courier within 48=E2=80=9372 hours. Every delivery is filmed and = published =E2=80=94 see for yourself. The Standard =E2=80=94 How a Draw Runs How a Calibre Club draw works. Transparent by design. Four steps. No small = print. I Choose your draw Pick a competition. See the max odds before you pay =E2=80=94 pri= nted on every entry pack. II Enter =E2=80=94 paid or free Buy tickets from =C2=A337.50, or enter free by post. The free postal route is always available =E2=80=94 no purchase necessary. III Draw goes live At the stated time, the draw runs live on Facebook. Recorded. Une= dited. Certified by VerifiedDraws. IV Watch arrives Most winners are handed their watch in person. Where we can't mee= t, insured tracked courier. Authenticated. Boxed. Yours. No purchase necessary. Read the free postal entry route =E2=86=92 The Handover Every winner, in person. Six completed draws. Six delivered watches. Four five-star Trustpilot= reviews and one more on the way. We don't ask for them =E2=80=94 winners leave them b= ecause the experience was what we promised. <= /button> Comp 004 =C2=B7 1 May 2026 Jake Lovelock =C2=B7 Sussex = =C2=B7 Tudor Black Bay 58 Verify This Draw Open on YouTube The Complete Roll = Comp 006 =C2=B7 29 May 26 Chris Smith Birmingham Tudor Black Bay GMT 'Pepsi'<= /span> Verified =C2=B7 Delivery in = progress Comp 005 =C2=B7 22 May 26 Gillian Gibson Edinburgh, Scotland Tudor Black Bay 58 Burgundy<= /span> Verified =C2=B7 Delivery in = progress Comp 004 =C2=B7 1 May 26 Jake Lovelock Sussex Tudor Black Bay 58 Verified =C2=B7 Delivered = =C2=B7 5=E2=98=85 Comp 003 Lynda Birtles Bicester, Oxfordshire Omega =C3=97 Swatch Mission = on Earth Verified =C2=B7 Delivered = =C2=B7 5=E2=98=85 Comp 002 Anthony Nolan London Omega =C3=97 Swatch Mission = to Uranus Verified =C2=B7 Delivered = =C2=B7 5=E2=98=85 Comp 001 Alex Griffith Brecon, Wales Omega =C3=97 Swatch Moonphas= e Verified =C2=B7 Delivered = =C2=B7 5=E2=98=85 See All Winners & Proof Trail =E2=86=92 The Standard =E2=80=94 What Makes Th= is Different Built differently. On purpose. The UK competition market runs on volume =E2=80=94 thousands of tic= kets, vanishing odds, postponed draws, no real proof. We built The Calibre Club against e= very one of those conventions. 395 Max tickets per draw Industry standard is 5,000=E2=80=9310,000+. Our Rolex Sub caps at= 395. The maths is simple. The odds are real. 6/6 Delivered & verified Six completed draws. Six watches delivered. Four five-star Trustp= ilot reviews. Every result on a public certificate. =C2=A30 Free postal entry route Every draw has a no-purchase-necessary route, always. Required by= law =E2=80=94 surfaced by us. Other sites bury it. 0 Extensions. Ever. Draw dates are fixed. We've never extended a draw. The Rolex Subm= ariner closes Friday 5 June at 9pm =E2=80=94 and that's that. The Questions The questions you should be a= sking. Transparency isn't a feature =E2=80=94 it's how we operate. Anythin= g not covered here, ask us directly. Is The Calibre Club a legitimate business? Yes. We're a UK company =E2=80=94 Asct Holdings Limited, Companie= s House registration 15776783, registered in England & Wales. Every draw is indepe= ndently certified by VerifiedDraws.com , conducted live on Facebook, and the winner is publicly named. Six= completed draws, six delivered watches, four verified five-star reviews on = Trustpilot. What are my actual odds of winning? Your max sell-out odds are printed on every entry pack before pur= chase. The Rolex Submariner draw caps at 395 tickets =E2=80=94 1 in 395 = maximum. Buying a 25-ticket pack gives you 1 in 16 max odds. We never sell beyond= the cap. Will the draw date change after I enter? No. We've never extended a draw and don't permit it in our operat= ing model. Draws run on the advertised date and time, certified externally. Are the watches genuine, and what condition are they in? Every watch is genuine, sourced from reputable UK channels, and a= uthenticated before draw close. Condition is stated openly on each competition= page (e.g. pre-owned excellent, full set with box, papers and warranty= ). What's described is what arrives. Is this gambling? Do I need to be 18+? Our draws are structured as UK prize draws with a no-purchase-nec= essary postal = entry route . Paid and valid free postal entries are included in the same draw, with equal treatment. You = must be 18 or over and a UK resident to enter. Can I take a cash alternative instead of the watch? On most draws, yes =E2=80=94 but the cash figure is what we paid = for the watch, not what it's worth on the grey market. The watch is almost alway= s the better outcome. Specific cash alternatives are stated on each com= petition page where available. What happens immediately after I enter? You'll get an email with your ticket number(s) straight away. Bef= ore the draw, the full entrant list is published on a third-party VerifiedDraws= page, so you can confirm your entry is in. The draw then runs live on Facebook= at the advertised time, and the winning ticket is certified externally o= n a public page you can re-check after the event. What if I actually win? You'll hear from us within an hour. Most winners are handed their= watch in person by the founder. Where we can't meet, w= atches go fully insured by tracked courier, typically arriving within 48=E2= =80=9372 hours. Every delivery is filmed and published =E2=80=94 see the winners page f= or proof. Do you publish the winning ticket and entrant list? Yes =E2=80=94 every draw is blockchain-verified. Entries are cryp= tographically hashed and locked on-chain before the draw, then the winning ticket number, = full entrant list, and timestamp are published on a public proof page anyone can ind= ependently verify. Click \"Verify This Draw\" on any winner card to check it yourself. Is there any kind of subscription or recurring billing? No. There is no membership, no recurring charge, and no automatic= billing. You pay per entry, or you enter free by post. That's the entire o= ffer. What if a competition doesn't sell out? The draw still runs at the advertised date and time, with whoever= has entered. Lower sell-through means better odds for entrants. We do= n't cancel, extend, or roll over draws. No Purchase Necessary Every Calibre Club draw has a free postal route. No purchase necessary. To enter free by post, first create a free C= alibre Club account at thecalibreclub.com so we can match your entry and contac= t you if you win. Then post a postcard or unenclosed letter to Unit A, 82 James = Carter Road, Mildenhall Industrial Estate, Suffolk, IP28 7DE, including the emai= l address registered to your account, your full name, and the competition you= wish to enter. One free entry per envelope, and it must arrive before the closing = date. Free postal entries are treated exactly the same as paid entries in the = draw. Read the Free Entry Route =E2=86=92 The Dispatch Be first for the next draw. New draws sell fast. Subscribers get exclusive entry deals, first sig= ht of new grails, and an occasional dispatch. Nothing else. No spam. Subscribe Subscribers get 24-hour early access and a first-entry discount =E2= =80=94 nothing else. Unsubscribe any time.",
-              "badge_price": "",
-              "badge_price_value": null,
-              "draw_date": "",
-              "date_status": "",
-              "url": "https://thecalibreclub.com/home/3D\"https:/thecalibreclub.com/competition/i=",
-              "priority": "Medium"
-            }
-          ]
-        },
-        {
-          "site_key": "compclub",
-          "site_name": "Compclub",
-          "site_url": "https://thecompclub.co.uk/",
-          "competitions": [
-            {
-              "product": "WIN THIS ROLEX DATEJUST 41 'WIMBLEDON'",
-              "product_info": "Featured Competition WIN THIS ROLEX DATEJUST 41 'WIMBLEDON' Plus Four bonus prizes to be won before the Rolex is drawn WORTH £8,000 Ticket £25.00 Total 450 48 sold 402 remaining DRAW ENDS IN: 11 : 19 : 05 : 32 Days Hrs Min Sec Enter Now Guaranteed Winner Drawn Live Full Transparency",
-              "badge_price": "£25.00",
-              "badge_price_value": 25.0,
-              "draw_date": "2026-06-16",
-              "date_status": "",
-              "url": "https://thecompclub.co.uk/competition/69ca527e92d864dbea75447e",
-              "priority": "Medium"
-            }
-          ]
-        },
-        {
-          "site_key": "competitionclub",
-          "site_name": "CompetitionClub",
-          "site_url": "https://competitionclub.uk/",
-          "competitions": [
-            {
-              "product": "JOIN OUR COMPETITIONS",
-              "product_info": "JOIN OUR COMPETITIONS Giveaway Closed Rolex Oyster Perpetual! £10 a ticket, only 999 tickets available. £4500 cash alternative! ENTRY: £ 10.00 Giveaway Closed Rolex Oyster Perpetual! £10 a ticket, only 999 tickets available. £4500 cash alternative! ENTRY: £ 10.00",
-              "badge_price": "£10.00",
-              "badge_price_value": 10.0,
-              "draw_date": "",
-              "date_status": "",
-              "url": "https://competitionclub.uk/product/rolex-oyster-perpetual-10-a-ticket-only-999-tickets-available-4500-cash-alternative/",
-              "priority": "Medium"
-            }
-          ]
-        },
-        {
-          "site_key": "dreamcars",
-          "site_name": "Dream Cars",
-          "site_url": "https://dreamcargiveaways.co.uk/competitions",
-          "competitions": [
-            {
-              "product": "Win this Rolex DateJust 41 'Wimbledon Dial' or £10,000 Tax Free",
-              "product_info": "2days",
-              "badge_price": "£0.09",
-              "badge_price_value": 0.09,
-              "draw_date": "2026-06-07",
-              "date_status": "",
-              "url": "https://dreamcargiveaways.co.uk/competitions/win-rolex-wimbledon",
-              "priority": "High"
-            }
-          ]
-        },
-        {
-          "site_key": "easybigwins",
-          "site_name": "Easybigwins",
-          "site_url": "https://easybigwins.co.uk/",
-          "competitions": [
-            {
-              "product": "Win A Rolex Datejust Or Ps5000 Cash",
-              "product_info": "£0.39 Per Ticket WIN A ROLEX DATEJUST OR £5,000 CASH! Enter Here!",
-              "badge_price": "£0.39",
-              "badge_price_value": 0.39,
-              "draw_date": "2026-07-12",
-              "date_status": "",
-              "url": "https://easybigwins.co.uk/competition/win-a-rolex-datejust-or-ps5000-cash",
-              "priority": "Low"
-            }
-          ]
-        },
-        {
-          "site_key": "easypeasyprizes",
-          "site_name": "Easypeasyprizes",
-          "site_url": "https://easypeasyprizes.com/",
-          "competitions": [
-            {
-              "product": "Rolex Gmt Master Ii Batman",
-              "product_info": "0 days 20 hours 57 mins",
-              "badge_price": "£40.00",
-              "badge_price_value": 40.0,
-              "draw_date": "2026-06-05",
-              "date_status": "",
-              "url": "https://easypeasyprizes.com/competition/rolex-gmt-master-ii-batman",
-              "priority": "Ignore"
-            }
-          ]
-        },
-        {
-          "site_key": "grailwatchclub",
-          "site_name": "Grailwatchclub",
-          "site_url": "https://www.grailwatchclub.com/",
-          "competitions": [
-            {
-              "product": "Rolex Yacht Master 40 Or 10000 Tax Free Cash",
-              "product_info": "Win a Rolex Yacht-Master 40 or £10,000 tax free cash! Enter Now 40% sold 415 / 699 tickets remaining 0 Days : 0 Hours : 0 Mins : 0 Secs Competition Closed Join us for the live draw on Instagram – 06/06/2026 Instagram Enter Now £10,000 CASH ALT 2026 Watch Age £30 Ticket Price 699 Max. Entries 3 DAY Competition 06/06/2026 Live Draw Win a brand new Rolex Yacht-Master 40 Rhodium (126622)! Unworn watch dated May 2026 complete with box, papers and remainder of the 5 year Rolex International Guarantee to May 2031 - Or take the £10,000 tax free cash alternative! Launch 03/06/2026 > Close 06/06/2026. Good luck everyone! More Details",
-              "badge_price": "£30",
-              "badge_price_value": 30.0,
-              "draw_date": "2026-06-06",
-              "date_status": "",
-              "url": "https://www.grailwatchclub.com/product/rolex-yacht-master-40-or-10000-tax-free-cash",
-              "priority": "Low"
-            }
-          ]
-        },
-        {
-          "site_key": "in2wincompetitions",
-          "site_name": "In2wincompetitions",
-          "site_url": "https://in2wincompetitions.com/",
-          "competitions": [
-            {
-              "product": "2025 Rolex Batgirl (Only 500 tickets!)",
-              "product_info": "Sale 4 / 500 1 % Draw Wed 10th Jun 5 days 20 hrs 44 mins 50 secs £ 50.00 Original price was: £50.00. £ 40.00 Current price is: £40.00. Per Entry 2025 Rolex Batgirl (Only 500 tickets!) Cash Alternative: 12,000 Enter Now",
-              "badge_price": "£40.00",
-              "badge_price_value": 40.0,
-              "draw_date": "2026-06-10",
-              "date_status": "",
-              "url": "https://in2wincompetitions.com/competition/2025-rolex-batgirl-only-500-tickets/",
-              "priority": "Written"
-            }
-          ]
-        },
-        {
-          "site_key": "lavishlife",
-          "site_name": "Lavishlife",
-          "site_url": "https://lavishlifecompetitions.co.uk/competitions/",
-          "competitions": [
-            {
-              "product": "MEGA PRIZE EVERY TIME – WIN A CAR, ROLEX, BIKE, CASH, GOLD & TECH – EVERY TICKET WINS!#5",
-              "product_info": "Draw Sun 7th Jun",
-              "badge_price": "£ 5.00",
-              "badge_price_value": 5.0,
-              "draw_date": "2026-06-07",
-              "date_status": "",
-              "url": "https://lavishlifecompetitions.co.uk/competition/mega-prize-every-time-win-a-car-rolex-bike-cash-gold-tech-every-ticket-wins5/",
-              "priority": "High"
-            }
-          ]
-        },
-        {
-          "site_key": "powertoolmateprizes",
-          "site_name": "Powertoolmateprizes",
-          "site_url": "https://ptmprizes.co.uk/live-competitions.htm",
-          "competitions": [
-            {
-              "product": "2025 Rolex Gmt Bruce Wayne On Jubilee Plus 2008 Rolex Datejust 31 Box And Papers Included",
-              "product_info": "12 DAYS 20 HOURS HRS 26 MINS 14 SECS OR WHEN ALL TICKETS ARE SOLD/ALLOCATED 2025 ROLEX GMT BRUCE WAYNE ON JUBILEE PLUS 2008 ROLEX DATEJUST 31 £17,500 CASH ALT 0 TICKETS SOLD 0 0 TICKETS SOLD 1,999 £19.99 PER TICKET ENTER NOW + Online Paid Entry Or Free Postal Entry",
-              "badge_price": "£19.99",
-              "badge_price_value": 19.99,
-              "draw_date": "2026-06-17",
-              "date_status": "",
-              "url": "https://ptmprizes.co.uk/2025-rolex-gmt-bruce-wayne-on-jubilee-plus-2008-rolex-datejust-31---box-and-papers-included.htm",
-              "priority": "High"
-            }
-          ]
-        },
-        {
-          "site_key": "premierprizecomps",
-          "site_name": "Premierprizecomps",
-          "site_url": "https://premierprizecompetitions.co.uk/competitions",
-          "competitions": [
-            {
-              "product": "Rolex GMT Master II 'Sprite' or £10,000 Cash + £5,000 Instant Win Prize Pot!",
-              "product_info": "£35.00 / entry Hot Featured End Draw ED Cash Rolex GMT Master II 'Sprite' or £10,000 Cash + £5,000 Instant Win Prize Pot! SOLD: 9 (1%) LEFT: 890 9d 20h 26m left 14 Jun · ends 14 Jun 2026 Enter from £35.00 £1.00 / entry Hot Featured Instant Win IW cash Premier Prize Slot Spinner — £160,000 Instant Win Pot + Guaranteed £500 End Draw SOLD: 779 (0%) LEFT: 199,221 88d 00h 25m left 1 Sept · ends 1 Sept 2026 Enter from £1.00 £4.99 / entry Featured End Draw ED Cash TAG Heuer Carrera Date Automatic, WBN2311- 36 mm. SOLD: 6 (1%) LEFT: 693 5d 19h 41m left 10 Jun · ends 10 Jun 2026 Enter from £4.99 £6.99 / entry Featured End Draw ED Watches TUDOR 1926 41mm Automatic Watch - LOW ODDS just 399 Tickets SOLD: 19 (5%) LEFT: 380 6d 20h 26m left 11 Jun · ends 11 Jun 2026 Enter from £6.99 £9.99 / entry Featured End Draw ED Fashion Louis Vuitton Damier Ebene Neverfull Set or £1,000 Cash Alt- Just 399 Tickets! SOLD: 3 (1%) LEFT: 396 10d 20h 26m left 15 Jun · ends 15 Jun 2026 Enter from £9.99 £4.99 / entry Featured End Draw ED Lifestyle £3,000 Ninja Instant Win Haul and Cash + Guaranteed End Draw for the Ninja PRO XL BBQ RRP £1,000 SOLD: 24 (2%) LEFT: 1,475 13d 20h 26m left 18 Jun · ends 18 Jun 2026 Enter from £4.99 £4.99 / entry Featured End Draw ED Lifestyle HOT TUB- Thermals Flow 6 Person 5 Seater 1 Lounger Hot Tub with lighting & Bluetooth-RRP £6,995!! Guaranteed end draw + Instant wins SOLD: 0 (0%) LEFT: 1,999 21d 20h 26m left 26 Jun · ends 26 Jun 2026 Enter from £4.99",
-              "badge_price": "£35.00",
-              "badge_price_value": 35.0,
-              "draw_date": "",
-              "date_status": "",
-              "url": "https://premierprizecompetitions.co.uk/competitions/8b839b1f-07b1-4d0b-a551-5552622d55d0",
-              "priority": "Medium"
-            },
-            {
-              "product": "Rolex GMT Master II 'Sprite' or £10,000 Cash + £5,000 Instant Win Prize Pot!",
-              "product_info": "£35.00 / entry Hot Featured End Draw ED Cash Rolex GMT Master II 'Sprite' or £10,000 Cash + £5,000 Instant Win Prize Pot! SOLD: 9 (1%) LEFT: 890 9d 20h 26m left 14 Jun · ends 14 Jun 2026 Enter from £35.00 £1.00 / entry Hot Featured Instant Win IW cash Premier Prize Slot Spinner — £160,000 Instant Win Pot + Guaranteed £500 End Draw SOLD: 779 (0%) LEFT: 199,221 88d 00h 25m left 1 Sept · ends 1 Sept 2026 Enter from £1.00 £4.99 / entry Featured End Draw ED Cash TAG Heuer Carrera Date Automatic, WBN2311- 36 mm. SOLD: 6 (1%) LEFT: 693 5d 19h 41m left 10 Jun · ends 10 Jun 2026 Enter from £4.99 £6.99 / entry Featured End Draw ED Watches TUDOR 1926 41mm Automatic Watch - LOW ODDS just 399 Tickets SOLD: 19 (5%) LEFT: 380 6d 20h 26m left 11 Jun · ends 11 Jun 2026 Enter from £6.99 £9.99 / entry Featured End Draw ED Fashion Louis Vuitton Damier Ebene Neverfull Set or £1,000 Cash Alt- Just 399 Tickets! SOLD: 3 (1%) LEFT: 396 10d 20h 26m left 15 Jun · ends 15 Jun 2026 Enter from £9.99 £4.99 / entry Featured End Draw ED Lifestyle £3,000 Ninja Instant Win Haul and Cash + Guaranteed End Draw for the Ninja PRO XL BBQ RRP £1,000 SOLD: 24 (2%) LEFT: 1,475 13d 20h 26m left 18 Jun · ends 18 Jun 2026 Enter from £4.99 £4.99 / entry Featured End Draw ED Lifestyle HOT TUB- Thermals Flow 6 Person 5 Seater 1 Lounger Hot Tub with lighting & Bluetooth-RRP £6,995!! Guaranteed end draw + Instant wins SOLD: 0 (0%) LEFT: 1,999 21d 20h 26m left 26 Jun · ends 26 Jun 2026 Enter from £4.99",
-              "badge_price": "£35.00",
-              "badge_price_value": 35.0,
-              "draw_date": "",
-              "date_status": "",
-              "url": "https://premierprizecompetitions.co.uk/competitions/23ed176a-0a46-4527-91de-ce40fec1a0e1",
-              "priority": "Medium"
-            },
-            {
-              "product": "Rolex GMT Master II 'Sprite' or £10,000 Cash + £5,000 Instant Win Prize Pot!",
-              "product_info": "£35.00 / entry Hot Featured End Draw ED Cash Rolex GMT Master II 'Sprite' or £10,000 Cash + £5,000 Instant Win Prize Pot! SOLD: 9 (1%) LEFT: 890 9d 20h 26m left 14 Jun · ends 14 Jun 2026 Enter from £35.00 £1.00 / entry Hot Featured Instant Win IW cash Premier Prize Slot Spinner — £160,000 Instant Win Pot + Guaranteed £500 End Draw SOLD: 779 (0%) LEFT: 199,221 88d 00h 25m left 1 Sept · ends 1 Sept 2026 Enter from £1.00 £4.99 / entry Featured End Draw ED Cash TAG Heuer Carrera Date Automatic, WBN2311- 36 mm. SOLD: 6 (1%) LEFT: 693 5d 19h 41m left 10 Jun · ends 10 Jun 2026 Enter from £4.99 £6.99 / entry Featured End Draw ED Watches TUDOR 1926 41mm Automatic Watch - LOW ODDS just 399 Tickets SOLD: 19 (5%) LEFT: 380 6d 20h 26m left 11 Jun · ends 11 Jun 2026 Enter from £6.99 £9.99 / entry Featured End Draw ED Fashion Louis Vuitton Damier Ebene Neverfull Set or £1,000 Cash Alt- Just 399 Tickets! SOLD: 3 (1%) LEFT: 396 10d 20h 26m left 15 Jun · ends 15 Jun 2026 Enter from £9.99 £4.99 / entry Featured End Draw ED Lifestyle £3,000 Ninja Instant Win Haul and Cash + Guaranteed End Draw for the Ninja PRO XL BBQ RRP £1,000 SOLD: 24 (2%) LEFT: 1,475 13d 20h 26m left 18 Jun · ends 18 Jun 2026 Enter from £4.99 £4.99 / entry Featured End Draw ED Lifestyle HOT TUB- Thermals Flow 6 Person 5 Seater 1 Lounger Hot Tub with lighting & Bluetooth-RRP £6,995!! Guaranteed end draw + Instant wins SOLD: 0 (0%) LEFT: 1,999 21d 20h 26m left 26 Jun · ends 26 Jun 2026 Enter from £4.99",
-              "badge_price": "£35.00",
-              "badge_price_value": 35.0,
-              "draw_date": "",
-              "date_status": "",
-              "url": "https://premierprizecompetitions.co.uk/competitions/ce9d2efd-150e-4864-b45c-8fb7f935308f",
-              "priority": "Medium"
-            },
-            {
-              "product": "Rolex GMT Master II 'Sprite' or £10,000 Cash + £5,000 Instant Win Prize Pot!",
-              "product_info": "£35.00 / entry Hot Featured End Draw ED Cash Rolex GMT Master II 'Sprite' or £10,000 Cash + £5,000 Instant Win Prize Pot! SOLD: 9 (1%) LEFT: 890 9d 20h 26m left 14 Jun · ends 14 Jun 2026 Enter from £35.00 £1.00 / entry Hot Featured Instant Win IW cash Premier Prize Slot Spinner — £160,000 Instant Win Pot + Guaranteed £500 End Draw SOLD: 779 (0%) LEFT: 199,221 88d 00h 25m left 1 Sept · ends 1 Sept 2026 Enter from £1.00 £4.99 / entry Featured End Draw ED Cash TAG Heuer Carrera Date Automatic, WBN2311- 36 mm. SOLD: 6 (1%) LEFT: 693 5d 19h 41m left 10 Jun · ends 10 Jun 2026 Enter from £4.99 £6.99 / entry Featured End Draw ED Watches TUDOR 1926 41mm Automatic Watch - LOW ODDS just 399 Tickets SOLD: 19 (5%) LEFT: 380 6d 20h 26m left 11 Jun · ends 11 Jun 2026 Enter from £6.99 £9.99 / entry Featured End Draw ED Fashion Louis Vuitton Damier Ebene Neverfull Set or £1,000 Cash Alt- Just 399 Tickets! SOLD: 3 (1%) LEFT: 396 10d 20h 26m left 15 Jun · ends 15 Jun 2026 Enter from £9.99 £4.99 / entry Featured End Draw ED Lifestyle £3,000 Ninja Instant Win Haul and Cash + Guaranteed End Draw for the Ninja PRO XL BBQ RRP £1,000 SOLD: 24 (2%) LEFT: 1,475 13d 20h 26m left 18 Jun · ends 18 Jun 2026 Enter from £4.99 £4.99 / entry Featured End Draw ED Lifestyle HOT TUB- Thermals Flow 6 Person 5 Seater 1 Lounger Hot Tub with lighting & Bluetooth-RRP £6,995!! Guaranteed end draw + Instant wins SOLD: 0 (0%) LEFT: 1,999 21d 20h 26m left 26 Jun · ends 26 Jun 2026 Enter from £4.99",
-              "badge_price": "£35.00",
-              "badge_price_value": 35.0,
-              "draw_date": "",
-              "date_status": "",
-              "url": "https://premierprizecompetitions.co.uk/competitions/40af72a1-9763-4688-8fb2-22353a59af89",
-              "priority": "Medium"
-            },
-            {
-              "product": "Rolex GMT Master II 'Sprite' or £10,000 Cash + £5,000 Instant Win Prize Pot!",
-              "product_info": "£35.00 / entry Hot Featured End Draw ED Cash Rolex GMT Master II 'Sprite' or £10,000 Cash + £5,000 Instant Win Prize Pot! SOLD: 9 (1%) LEFT: 890 9d 20h 26m left 14 Jun · ends 14 Jun 2026 Enter from £35.00 £1.00 / entry Hot Featured Instant Win IW cash Premier Prize Slot Spinner — £160,000 Instant Win Pot + Guaranteed £500 End Draw SOLD: 779 (0%) LEFT: 199,221 88d 00h 25m left 1 Sept · ends 1 Sept 2026 Enter from £1.00 £4.99 / entry Featured End Draw ED Cash TAG Heuer Carrera Date Automatic, WBN2311- 36 mm. SOLD: 6 (1%) LEFT: 693 5d 19h 41m left 10 Jun · ends 10 Jun 2026 Enter from £4.99 £6.99 / entry Featured End Draw ED Watches TUDOR 1926 41mm Automatic Watch - LOW ODDS just 399 Tickets SOLD: 19 (5%) LEFT: 380 6d 20h 26m left 11 Jun · ends 11 Jun 2026 Enter from £6.99 £9.99 / entry Featured End Draw ED Fashion Louis Vuitton Damier Ebene Neverfull Set or £1,000 Cash Alt- Just 399 Tickets! SOLD: 3 (1%) LEFT: 396 10d 20h 26m left 15 Jun · ends 15 Jun 2026 Enter from £9.99 £4.99 / entry Featured End Draw ED Lifestyle £3,000 Ninja Instant Win Haul and Cash + Guaranteed End Draw for the Ninja PRO XL BBQ RRP £1,000 SOLD: 24 (2%) LEFT: 1,475 13d 20h 26m left 18 Jun · ends 18 Jun 2026 Enter from £4.99 £4.99 / entry Featured End Draw ED Lifestyle HOT TUB- Thermals Flow 6 Person 5 Seater 1 Lounger Hot Tub with lighting & Bluetooth-RRP £6,995!! Guaranteed end draw + Instant wins SOLD: 0 (0%) LEFT: 1,999 21d 20h 26m left 26 Jun · ends 26 Jun 2026 Enter from £4.99",
-              "badge_price": "£35.00",
-              "badge_price_value": 35.0,
-              "draw_date": "",
-              "date_status": "",
-              "url": "https://premierprizecompetitions.co.uk/competitions/c48f57d4-111c-4a8d-a4eb-a76fa6f9cd29",
-              "priority": "Medium"
-            },
-            {
-              "product": "Rolex GMT Master II 'Sprite' or £10,000 Cash + £5,000 Instant Win Prize Pot!",
-              "product_info": "£35.00 / entry Hot Featured End Draw ED Cash Rolex GMT Master II 'Sprite' or £10,000 Cash + £5,000 Instant Win Prize Pot! SOLD: 9 (1%) LEFT: 890 9d 20h 26m left 14 Jun · ends 14 Jun 2026 Enter from £35.00 £1.00 / entry Hot Featured Instant Win IW cash Premier Prize Slot Spinner — £160,000 Instant Win Pot + Guaranteed £500 End Draw SOLD: 779 (0%) LEFT: 199,221 88d 00h 25m left 1 Sept · ends 1 Sept 2026 Enter from £1.00 £4.99 / entry Featured End Draw ED Cash TAG Heuer Carrera Date Automatic, WBN2311- 36 mm. SOLD: 6 (1%) LEFT: 693 5d 19h 41m left 10 Jun · ends 10 Jun 2026 Enter from £4.99 £6.99 / entry Featured End Draw ED Watches TUDOR 1926 41mm Automatic Watch - LOW ODDS just 399 Tickets SOLD: 19 (5%) LEFT: 380 6d 20h 26m left 11 Jun · ends 11 Jun 2026 Enter from £6.99 £9.99 / entry Featured End Draw ED Fashion Louis Vuitton Damier Ebene Neverfull Set or £1,000 Cash Alt- Just 399 Tickets! SOLD: 3 (1%) LEFT: 396 10d 20h 26m left 15 Jun · ends 15 Jun 2026 Enter from £9.99 £4.99 / entry Featured End Draw ED Lifestyle £3,000 Ninja Instant Win Haul and Cash + Guaranteed End Draw for the Ninja PRO XL BBQ RRP £1,000 SOLD: 24 (2%) LEFT: 1,475 13d 20h 26m left 18 Jun · ends 18 Jun 2026 Enter from £4.99 £4.99 / entry Featured End Draw ED Lifestyle HOT TUB- Thermals Flow 6 Person 5 Seater 1 Lounger Hot Tub with lighting & Bluetooth-RRP £6,995!! Guaranteed end draw + Instant wins SOLD: 0 (0%) LEFT: 1,999 21d 20h 26m left 26 Jun · ends 26 Jun 2026 Enter from £4.99",
-              "badge_price": "£35.00",
-              "badge_price_value": 35.0,
-              "draw_date": "",
-              "date_status": "",
-              "url": "https://premierprizecompetitions.co.uk/competitions/8c1f9baf-c91b-4792-bcc9-443e3fc72db4",
-              "priority": "Medium"
-            }
-          ]
-        },
-        {
-          "site_key": "privatedial",
-          "site_name": "Privatedial",
-          "site_url": "https://privatedial.co.uk/",
-          "competitions": [
-            {
-              "product": "2025 GMT-Master II 'Sprite' Jubilee",
-              "product_info": "This Week's Prize 2025 GMT-Master II 'Sprite' Jubilee From £50 per entry Closes In 01 Days 19 Hrs 24 Min 16 Sec Enter Now 27+ Winners £220,000+ Awarded Live Drawn Guaranteed Winner Free UK Delivery 9 Draws Completed £108,000+ Of prizes won 11 Winners Live Competitions ODDS BOOSTER - Rolex 'Sprite' £2 per entry 18% Claimed 1d 18h Enter Now 2025 GMT-Master II 'Sprite' Jubilee £50 per entry 0% Claimed 1d 19h Enter Now 2025 GMT-Master II 'Bruce Wayne' Jubilee £50 per entry 0% Claimed 8d 19h Enter Now 2025 Submariner No Date £50 per entry 0% Claimed 15d 19h Enter Now View our competitions Real People · Real Prizes Recent Winners 27+ winners · £220,000+ in prizes Last winner: Subhan Ghafoor · Won 11 days ago Winner LV Ombré Nomade Won 11 days ago Subhan Ghafoor PD-110 Winner Samsung 98′ 4K Smart TV Won 11 days ago Wesley Burke PD-600 Winner 10g Gold Bar Won 11 days ago Jake Lovelock PD-84 Winner Tudor Royal Black Dial Won 19 days ago Simon Olenka PD-316 Winner 2025 Submariner ‘Bluesy’ Won 19 days ago Shaun Hammond PD-103 Winner ODDS BOOSTER Won 19 days ago kyle hewitt 7659 Winner 2025 Batman & 2023 Starbucks Won 26 days ago Albert Graham PD-323 Winner Apple Watch Series 11 Won 26 days ago Harry Snelling PD-962 Winner Low Odds £1000 Cash Won 26 days ago Ben Johnson PD-227 Winner Main Draw Odd Booster Won 26 days ago JOHN wilson PD-245 Winner 2025 GMT-Master II Zombie Won 1 month ago David Prowse PD-398 Winner ODDs BOOSTER Won 1 month ago kyle hewitt PD-109 Winner 2024 Full Set Black Ceramic Daytona Won 1 month ago Declan Pipe PD-205 Winner Odds Booster Won 1 month ago Mick jones PD-210 Winner 2025 Full Set Batman & 2025 Full Set Sub No Date Won 2 months ago Danny Pippen PD-431 Winner Ticket Odds Booster Won 2 months ago David Phillips PD-273 Winner Breitling Chronomat x Royal Air Force Red Arrows Edition Won 2 months ago Jackie Marley PD-77 Winner £6,500 Cash Won 3 months ago Charley Simpkins PD-356 Winner £6,500 Cash Won 3 months ago Tidd PD-440 Winner UNWORN Submariner Starbucks or £13,000 Won 3 months ago Courtney Smith PD-973 Winner 2025 Submariner No Date or £8,000 Won 3 months ago Subhan Ghafoor PD-665 Winner 2025 Rolex Submariner 'Bluesy' or £12,000 Won 3 months ago Greyson James PD-573 Winner 2025 Datejust 41 Jubilee or £10,000 Won 4 months ago Kyle Hewitt PD-704 Winner 2025 GMT-Master II 'Batman' or £11,000 Won 4 months ago Kyle Hewitt PD-271 Winner 2025 GMT-Master II Sprite or £10,000 Won 4 months ago Dom Curran PD-162 Winner 2022 Submariner Date or £9,000 Won 5 months ago Emma Gibbons 2861 Will you be our next winner ? View all winners Every winner verified · Drawn live on Facebook Simple Process How To Enter & Win Three simple steps from choosing your tickets to claiming your luxury timepiece. 1 1 Select Your Tickets Browse our live competition, choose how many tickets you'd like and complete your secure checkout. 2 2 Watch The Live Draw Join us live on Instagram or TikTok as we draw the winning ticket using a certified random number generator. 3 3 Claim Your Prize Winners choose the watch or cash alternative. We arrange fully insured delivery or instant bank transfer. Ready to try your luck? Enter today for your chance to win. View Competitions Please leave this field empty Stay Ahead of the Next Draw Be the first to hear about new giveaways, winner announcements and exclusive offers. We don’t spam! Read our privacy policy for more info. Check your inbox or spam folder to confirm your subscription.",
-              "badge_price": "£50",
-              "badge_price_value": 50.0,
-              "draw_date": "2026-06-05",
-              "date_status": "",
-              "url": "https://privatedial.co.uk/product/2025-gmt-master-ii-sprite-jubilee/",
-              "priority": "Written"
-            }
-          ]
-        },
-        {
-          "site_key": "revcomps",
-          "site_name": "Rev Comps",
-          "site_url": "https://www.revcomps.com/current-competitions/",
-          "competitions": [
-            {
-              "product": "NEW 2026 ROLEX SUBMARINER STARBUCKS OR £10,000",
-              "product_info": "WIN TODAY 11PM",
-              "badge_price": "£1.97",
-              "badge_price_value": 1.97,
-              "draw_date": "2026-06-05",
-              "date_status": "",
-              "url": "https://www.revcomps.com/product/new-2026-rolex-submariner-starbucks-or-10000-7/",
-              "priority": "High"
-            },
-            {
-              "product": "NEW 2026 TWO TONE ROLEX COSMOGRAPH DAYTONA OR £17,000",
-              "product_info": "WIN TODAY 11PM",
-              "badge_price": "£39.97",
-              "badge_price_value": 39.97,
-              "draw_date": "2026-06-05",
-              "date_status": "",
-              "url": "https://www.revcomps.com/product/new-2026-two-tone-rolex-cosmograph-daytona-or-17000/",
-              "priority": "High"
-            }
-          ]
-        },
-        {
-          "site_key": "steel-towncompetitions",
-          "site_name": "Steel-Towncompetitions",
-          "site_url": "https://steel-towncompetitions.co.uk/",
-          "competitions": [
-            {
-              "product": "2020 ROLEX SUBMARINER “HULK”",
-              "product_info": "NEW 2020 ROLEX SUBMARINER “HULK” £ 2.99 Ends On Days Hours Mins Secs 0 Tickets Sold: 111 9999 1.11%",
-              "badge_price": "£2.99",
-              "badge_price_value": 2.99,
-              "draw_date": "2026-06-29",
-              "date_status": "",
-              "url": "https://steel-towncompetitions.co.uk/competitions/2020-rolex-submariner-hulk/",
-              "priority": "Low"
-            }
-          ]
-        },
-        {
-          "site_key": "stormcompetitions",
-          "site_name": "Stormcompetitions",
-          "site_url": "https://stormcompetitions.co.uk/competitions/",
-          "competitions": [
-            {
-              "product": "HUGE Rolex & Cash Instant Wins – 7,500 Prizes – £250,000 Prize Fund",
-              "product_info": "",
-              "badge_price": "£ 0.97",
-              "badge_price_value": 0.97,
-              "draw_date": "2026-06-09",
-              "date_status": "",
-              "url": "https://www.stormcompetitions.co.uk/competition/huge-rolex-cash-instant-wins-7500-prizes-250000-prize-fund/",
-              "priority": "Ignore"
-            }
-          ]
-        },
-        {
-          "site_key": "tccomps",
-          "site_name": "Tccomps",
-          "site_url": "https://www.tccomps.co.uk/",
-          "competitions": [
-            {
-              "product": "2025 Rolex GMT-Master II “Bruce Wayne” or £13,000",
-              "product_info": "",
-              "badge_price": "£ 19.99",
-              "badge_price_value": 19.99,
-              "draw_date": "2026-06-09",
-              "date_status": "",
-              "url": "https://www.tccomps.co.uk/product/2025-rolex-gmt-master-ii-bruce-wayne-or-13000/",
-              "priority": "High"
-            }
-          ]
-        },
-        {
-          "site_key": "thatprizeguy",
-          "site_name": "Thatprizeguy",
-          "site_url": "https://thatprizeguy.co.uk/",
-          "competitions": [
-            {
-              "product": "Rolex Submariner Black Or Ps7500 3",
-              "product_info": "Jun 14 th £7,500 £7.5K 14% 559,189 Tickets Left 90,811 / 650,000",
-              "badge_price": "£0.04",
-              "badge_price_value": 0.04,
-              "draw_date": "2026-06-14",
-              "date_status": "",
-              "url": "https://thatprizeguy.co.uk/competitions/rolex-submariner-black-or-ps7500-3",
-              "priority": "Low"
-            },
-            {
-              "product": "Take Your Pick Rolex Date Just Wimbledon Or Rolex Date Just Wimbledon Blue Or Ps7500 Cash",
-              "product_info": "Jun 16 th 1% 149,170 Tickets Left 830 / 150,000",
-              "badge_price": "£0.20",
-              "badge_price_value": 0.2,
-              "draw_date": "2026-06-16",
-              "date_status": "",
-              "url": "https://thatprizeguy.co.uk/competitions/take-your-pick-rolex-date-just-wimbledon-or-rolex-date-just-wimbledon-blue-or-ps7500-cash",
-              "priority": "Low"
-            }
-          ]
-        },
-        {
-          "site_key": "thepremiumtimecompany",
-          "site_name": "Thepremiumtimecompany",
-          "site_url": "https://thepremiumtimecompany.com/",
-          "competitions": [
-            {
-              "product": "Win A Rolex Daytona 126500LN Reverse Panda",
-              "product_info": "Tickets only £ 14.99 Enter here! Win A Rolex Daytona 126500LN Reverse Panda Ticket price £ 14.99 Ticket allocation 2500 Tickets available ... Competition closes in: DAY HRS MIN SEC – – – – ENTER NOW",
-              "badge_price": "£ 14.99",
-              "badge_price_value": 14.99,
-              "draw_date": "",
-              "date_status": "",
-              "url": "https://thepremiumtimecompany.com/competition/win-rolex-daytona-126500ln/",
-              "priority": "Ignore"
-            }
-          ]
-        },
-        {
-          "site_key": "thetimevaultclub",
-          "site_name": "Thetimevaultclub",
-          "site_url": "https://thetimevaultclub.com/",
-          "competitions": [
-            {
-              "product": "Welcome to",
-              "product_info": "Welcome to The Time Vault Club Where passion for horology meets opportunity. We exist to bring the world of exceptional watchmaking closer to you, from iconic Swiss craftsmanship to bespoke British design. Through our curated competitions, we give you the chance to discover and own watches most people only dream of. LIVE COMPETITION All of our prize draws are hosted live, so you can witness every moment as dream watches find new owners. With regular competitions featuring everything from iconic Swiss classics to standout modern releases, the next opportunity is always closer than you think. Tudor Black Bay Harrods Per Entry £ 19.99 Ends In 03 Days 20 Hours 02 Mins 49 Secs Tickets Remaining 196 / 249 ENTER COMPETITION VIEW ALL COMPETITIONS Every watch tells a story, will the next one be yours? RECENT Winners Winner of the Rolex Sky-Dweller Steve Shaw Winner of the Hamilton Khaki Trevor Golden Winner of the Omega MoonSwatch Russell Palmer Winner of the Tudor Black Bay Florian Vlad Talpos",
-              "badge_price": "£19.99",
-              "badge_price_value": 19.99,
-              "draw_date": "2026-06-08",
-              "date_status": "",
-              "url": "https://thetimevaultclub.com/competition/tudor-black-bay-harrods-2/",
-              "priority": "Written"
-            }
-          ]
-        },
-        {
-          "site_key": "thevintagewatchdraw",
-          "site_name": "Thevintagewatchdraw",
-          "site_url": "https://thevintagewatchdraw.com/",
-          "competitions": [
-            {
-              "product": "WIN A PATEK PHILIPPE CALATRAVA 5022J 18K SOLID GOLD W/ ORIGINAL PAPERWORK",
-              "product_info": "Home – Patek Philippe Calatrava 5022J Solid 18k Gold WIN A PATEK PHILIPPE CALATRAVA 5022J 18K SOLID GOLD W/ ORIGINAL PAPERWORK Value: £11,500 Duration: 14 Days Age: Dated 2001 Max. Entries: 899 Ticket Price: £25 Live Draw: 09/06/26 The Patek Philippe Calatrava is one of the most celebrated dress watches of all time. The 5022J is one of its best iterations, crafted in 18k solid yellow gold and featuring a stunning white Porcelain dial with Breguet numerals and hands . With an incredibly sleek profile thanks to its ultra-slim calibre 215 manual wind movement , this Calatrava is a very fine, elegant watch for both men and women. This example is in exceptional condition and comes with its original paperwork , whilst fitted to a superb custom Molequin strap to fit its original 18k gold Patek Philippe pin buckle. 41.27% SOLD 0 Tickets Sold: 371 899 41.27% 528 Tickets remaining 528/899 Tickets Remaining Time Left to End: 4 Days 19 Hours 2 Minutes 38 Seconds ENTER NOW WIN A PATEK PHILIPPE CALATRAVA 5022J 18K GOLD ENTER NOW 41.27% SOLD 0 Tickets Sold: 371 899 41.27% 528 Tickets remaining 528/899 Tickets Remaining Time Left to End: 4 Days 19 Hours 2 Minutes 38 Seconds Value: £11,500 Duration: 14 days Age: Dated 2001 Entries: 899 Max. Ticket Price: £25 Live Draw: 09/06/2026 The Patek Philippe Calatrava is one of the most celebrated dress watches of all time – and the 5022J is one of its best iterations, crafted in 18k solid yellow gold and featuring a stunning white Porcelain dial with Breguet numerals and hands . With an incredibly sleek profile thanks to its ultra-slim calibre 215 manual wind movement , this Calatrava is a very fine, elegant watch for both men and women. This example is in exceptional condition and comes with its original paperwork , whilst fitted to a superb custom Molequin strap to fit its original 18k gold Patek Philippe pin buckle. #27 - The Patek Philippe Calatrava 5022J Porcelain Dial Solid 18k Gold w/ Original Paperwork The History— The Example The Patek Philippe Calatrava has long been considered one of the greatest dress watches, known for its perfect proportions, restraint and understated elegance. This reference, the 5022J , is a particularly attractive modern classic iteration of the model, crafted in 18k solid yellow gold and featuring a beautiful white porcelain dial with elegant Breguet numerals and matching hands . Powered by the ultra-slim Patek Philippe calibre 215 manual wind movement, the watch has an incredibly sleek profile on the wrist, wearing with the sort of refinement expected from a Calatrava. At 33mm its classic proportions make it equally elegant for both men and women . This example is presented in exceptional condition and is accompanied by its original paperwork . It is currently fitted to a superb custom Molequin strap , paired with its original 18k gold Patek Philippe pin buckle . A beautifully executed and highly elegant Calatrava, combining classic Patek Philippe design with subtle, refined details throughout. ENTER NOW The First Competition of its Kind The Vintage Watch Draw is unique. We’re the first competition website dedicated to collector-grade vintage watches, backed by a trusted expert. After the initial idea over five years ago, we’re so excited to now bring this new concept to you. Curated by A Trusted Expert Our competitions are curated by Alex Stevens, a trusted & reputable vintage watch specialist with lifelong experience in the trade. 12 Month Service Warranty Every watch is fully serviced by our watchmaker & comes with a 12 month mechanical warranty, so you can enjoy your watch hassle-free. Collector-Grade Condition Every watch is meticulously curated by Alex, known for selecting only the finest, collector-grade examples in terms of condition & originality. Low & Transparent Odds We don’t flood the draw with tickets. Our competitions are deliberately limited to keep odds low & your chance of winning fair. Authenticity Guarantee Every watch is thoroughly inspected & fully authenticated by our in-house expert. We are professionals, not enthusiasts or hobbyists. Guaranteed Draws Every draw ends on the stated date, no matter what. We never extend our competitions, even if we haven't sold all the tickets. Win a Patek Philippe Calatrava 5022J ENTER NOW Join Our Winners “Still can’t believe I won!” “I’ve entered a few competitions before but never thought I’d actually win — then I got the call telling me I’d won a vintage Rolex Submariner 5513! The watch is absolutely stunning. It’s got that classic charm and you can feel the history in every detail. The condition is immaculate for a piece of its age. Thank you so much for the opportunity — it’s now the pride of my collection!” James Holloway Bristol, UK “Still can’t believe I won!” “I’ve entered a few competitions before but never thought I’d actually win — then I got the call telling me I’d won a vintage Rolex Submariner 5513! The watch is absolutely stunning. It’s got that classic charm and you can feel the history in every detail. The condition is immaculate for a piece of its age. Thank you so much for the opportunity — it’s now the pride of my collection!” James Holloway Bristol, UK Got more questions? Read through our FAQs page here. FAQs Page Curated by Alex Stevens ASV as seen in…",
-              "badge_price": "£25.00",
-              "badge_price_value": 25.0,
-              "draw_date": "2026-06-09",
-              "date_status": "",
-              "url": "https://thevintagewatchdraw.com/quantity-selection/?product_id=37041",
-              "priority": "Written"
-            }
-          ]
-        },
-        {
-          "site_key": "thewatchdraws",
-          "site_name": "Thewatchdraws",
-          "site_url": "https://twdcompetitions.com/",
-          "competitions": [
-            {
-              "product": "Odds Booster Auto Draw Win 1250 Tickets Into The Rolex Datejust Slate Dial On Sunday 7Th June",
-              "product_info": "Enter at £ 5.00 1780855200",
-              "badge_price": "£5.00",
-              "badge_price_value": 5.0,
-              "draw_date": "2026-06-07",
-              "date_status": "",
-              "url": "https://twdcompetitions.com/product/odds-booster-auto-draw-win-1250-tickets-into-the-rolex-datejust-slate-dial-on-sunday-7th-june/",
-              "priority": "Ignore"
-            },
-            {
-              "product": "Win A 2022 Rolex Datejust Slate Dial Or The 6000 Cash Alternative On Sunday 7Th June",
-              "product_info": "Enter at £ 1.00 1780858800",
-              "badge_price": "£1.00",
-              "badge_price_value": 1.0,
-              "draw_date": "2026-06-07",
-              "date_status": "",
-              "url": "https://twdcompetitions.com/product/win-a-2022-rolex-datejust-slate-dial-or-the-6000-cash-alternative-on-sunday-7th-june/",
-              "priority": "Ignore"
-            },
-            {
-              "product": "Win A Rolex Datejust 41Mm Mint Green Dial On Wednesday 10Th June",
-              "product_info": "Enter at £ 50.00 Original price was: £50.00. £ 40.00 Current price is: £40.00. 1781118000",
-              "badge_price": "£40.00",
-              "badge_price_value": 40.0,
-              "draw_date": "2026-06-10",
-              "date_status": "",
-              "url": "https://twdcompetitions.com/product/win-a-rolex-datejust-41mm-mint-green-dial-on-wednesday-10th-june/",
-              "priority": "Ignore"
-            }
-          ]
-        },
-        {
-          "site_key": "ukcc",
-          "site_name": "Ukcc",
-          "site_url": "https://ukcc.co.uk/competitions",
-          "competitions": [
-            {
-              "product": "£900,000+ WONDER WHEEL! #165",
-              "product_info": "04 days 19 hrs 42 min 32 sec Closing on Tuesday 8:45pm 04 days 19 hrs 42 min 32 sec £900,000+ WONDER WHEEL! #165 4 x VEHICLES | 12 x ROLEX'S | CASH | TECH & MORE! £1.74 £1.44 sold: 2 % Enter now",
-              "badge_price": "£1.44",
-              "badge_price_value": 1.44,
-              "draw_date": "2026-06-10",
-              "date_status": "",
-              "url": "https://ukcc.co.uk/competition/iw165",
-              "priority": "High"
-            }
-          ]
-        },
-        {
-          "site_key": "watchesofwales",
-          "site_name": "Watchesofwales",
-          "site_url": "https://competition.watchesofwales.co.uk/",
-          "competitions": [
-            {
-              "product": "The Triple Crown Competition - 3 Watches, 3 Winners",
-              "product_info": "The Triple Crown Competition - 3 Watches, 3 Winners Rolex £ 19.99 1154/3500 SOLD ENDS IN D H M S 2026-06-07 21:00",
-              "badge_price": "£19.99",
-              "badge_price_value": 19.99,
-              "draw_date": "2026-07-06",
-              "date_status": "",
-              "url": "https://competition.watchesofwales.co.uk/product/the-triple-crown-competition/",
-              "priority": "Ignore"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "week_key": "2026-W24",
       "generated_at": "2026-06-14T17:40:40",
       "keyword_groups": [
@@ -2647,7 +1924,649 @@
           ]
         }
       ]
+    },
+    {
+      "week_key": "2026-W27",
+      "generated_at": "2026-06-29T02:21:35",
+      "keyword_groups": [
+        {
+          "site_key": "7daysperformance",
+          "site_name": "7daysperformance",
+          "site_url": "https://7daysperformance.co.uk/",
+          "competitions": [
+            {
+              "product": "Win This Rolex GMT Master II 'Zombie'!",
+              "product_info": "Just launched Win This Rolex GMT Master II 'Zombie'! Cash Alternative: £10,000 £0.15 sold: 4 % Enter now",
+              "badge_price": "£0.15",
+              "badge_price_value": 0.15,
+              "draw_date": "2026-07-05",
+              "date_status": "Just launched",
+              "url": "https://7daysperformance.co.uk/product/win-rolex-zombie-050726",
+              "priority": "High"
+            }
+          ]
+        },
+        {
+          "site_key": "bonkerscompetitions",
+          "site_name": "Bonkerscompetitions",
+          "site_url": "https://bonkerscompetitions.co.uk/competitions/",
+          "competitions": [
+            {
+              "product": "2025 Rolex Daytona ‘PANDA’ – SUPER RARE – RSP £28,000!",
+              "product_info": "Draw Tue 30th Jun",
+              "badge_price": "£ 25.00",
+              "badge_price_value": 25.0,
+              "draw_date": "2026-06-30",
+              "date_status": "",
+              "url": "https://bonkerscompetitions.co.uk/competition/2025-rolex-daytona-panda-super-rare-rsp-28000/",
+              "priority": "Ignore"
+            },
+            {
+              "product": "WIN 10 X ROLEX ‘PANDA’ TICKETS WORTH £250 – DRAW NO.7",
+              "product_info": "Drawn When Sold Out (1 day 19 hrs 28 mins)",
+              "badge_price": "£ 0.99",
+              "badge_price_value": 0.99,
+              "draw_date": "2026-06-30",
+              "date_status": "",
+              "url": "https://bonkerscompetitions.co.uk/competition/win-10-x-rolex-panda-tickets-worth-250-draw-no-7/",
+              "priority": "Ignore"
+            },
+            {
+              "product": "2025 ROLEX SUBMARINER SOLID 18ct GOLD ‘BLUESY’ – RRP £42,500!",
+              "product_info": "Draw Fri 3rd Jul",
+              "badge_price": "£ 60.00",
+              "badge_price_value": 60.0,
+              "draw_date": "2026-07-03",
+              "date_status": "",
+              "url": "https://bonkerscompetitions.co.uk/competition/2025-rolex-submariner-solid-18ct-gold-bluesy-rrp-42500/",
+              "priority": "Ignore"
+            }
+          ]
+        },
+        {
+          "site_key": "breezecompetitions",
+          "site_name": "Breezecompetitions",
+          "site_url": "https://www.breezecompetitions.com/",
+          "competitions": [
+            {
+              "product": "Rolex GMT (Bruce Wayne) or £10,000 Cash + Over 2,000 Instant Wins",
+              "product_info": "Draw Mon 6th Jul 7 days 20 hrs 13 mins 19 secs 7 % Sold Rolex GMT (Bruce Wayne) or £10,000 Cash + Over 2,000 Instant Wins £ 0.25 Per Entry Cash Alternative: £10,000 Enter Now",
+              "badge_price": "£0.25",
+              "badge_price_value": 0.25,
+              "draw_date": "2026-07-06",
+              "date_status": "",
+              "url": "https://www.breezecompetitions.com/competition/rolex-gmt-bruce-wayne-or-10000-cash-over-2000-instant-wins-%f0%9f%98%8d/",
+              "priority": "Ignore"
+            }
+          ]
+        },
+        {
+          "site_key": "calibreclub",
+          "site_name": "Calibreclub",
+          "site_url": "https://thecalibreclub.com/product-category/competitions/",
+          "competitions": [
+            {
+              "product": "395 tickets. One Rolex Submariner Date. No extensions.",
+              "product_info": "A Rolex Submariner Date Ref. 116610LN, 2018, full set with box and papers. Drawn live on Facebook on 5 July at 9:30pm and independently verified. Unsold tickets do not compete — fewer sales means better odds for everyone. 395 ticket cap Draws 5 Jul · 9:30pm Unsold tickets do not compete",
+              "badge_price": "£37.50",
+              "badge_price_value": 37.5,
+              "draw_date": "2026-07-05",
+              "date_status": "",
+              "url": "https://thecalibreclub.com/competition/rolex-sub/",
+              "priority": "Medium"
+            },
+            {
+              "product": "9 Rolex references. £275,000+ in prizes. Revealed instantly at checkout.",
+              "product_info": "150,000 tickets with 75,000 instant winning positions — 1 in 2 tickets reveals a prize. Nine Rolex references head the board alongside 8 AP × Swatch Royal Pop colourways, Louis Vuitton bags, iPhone, Apple Watch, a 5g gold bar and a cash prize ladder from 50p to £1,000. 75,000 instant prizes 9 Rolex references £4.99 per entry",
+              "badge_price": "£4.99",
+              "badge_price_value": 4.99,
+              "draw_date": "2026-08-02",
+              "date_status": "",
+              "url": "https://thecalibreclub.com/competition/ultimate-rolex-draw/",
+              "priority": "Medium"
+            }
+          ]
+        },
+        {
+          "site_key": "carpgeargiveaways",
+          "site_name": "Carpgeargiveaways",
+          "site_url": "https://www.carpgeargiveaways.co.uk/",
+          "competitions": [
+            {
+              "product": "ROLEX HULK 2019 OR 10k + BIG INSTANT WINS! (LOW ODDS)",
+              "product_info": "Thu Jul 30th 8:00pm 31 Day 19 Hrs 10 Mins 4 Secs Instant Wins 1,042 5% Sold 76/1599 £50.00 per ticket instant-reveal! ROLEX HULK 2019 OR 10k + BIG INSTANT WINS! (LOW ODDS) 📸 DRAWN LIVE 📸 ENTER NOW",
+              "badge_price": "£50.00",
+              "badge_price_value": 50.0,
+              "draw_date": "2026-07-30",
+              "date_status": "",
+              "url": "https://carpgeargiveaways.co.uk/competition/rolex-hulk-2019-or-10k-big-instant-wins-low-odds",
+              "priority": "Written"
+            }
+          ]
+        },
+        {
+          "site_key": "carrickcompetitions",
+          "site_name": "Carrickcompetitions",
+          "site_url": "https://carrickcompetitions.co.uk/",
+          "competitions": [
+            {
+              "product": "Win This Rolex Submariner Or Ps10000 Ps50000 Instant Wins",
+              "product_info": "£0.99 £0.89 Per Ticket WIN THIS ROLEX SUBMARINER OR £10,000 + £50,000 INSTANT WINS! 1% Sold",
+              "badge_price": "£0.89",
+              "badge_price_value": 0.89,
+              "draw_date": "2026-07-20",
+              "date_status": "",
+              "url": "https://carrickcompetitions.co.uk/competition/win-this-rolex-submariner-or-ps10000-ps50000-instant-wins",
+              "priority": "Ignore"
+            }
+          ]
+        },
+        {
+          "site_key": "classycomps",
+          "site_name": "Classy Comps",
+          "site_url": "https://classycompetitions.co.uk/",
+          "competitions": [
+            {
+              "product": "Win the TAG Heuer Professional 1000",
+              "product_info": "Value: £3,000 | Ticket Price: £20 | Year: 1980's | Draw Date: 12/07/26 | Enter premium competitions for a chance to own iconic timepieces, from Rolex to Omega, at a fraction of the retail price. | As seen in ‘The Wolf of Wall Street’. | The TAG Heuer Professional 1000 is a vintage 1980’s piece. Gold plated, mint condition and with original box, plus 3 rd party authentication papers. | Plus signed and authenticated ‘The Wolf of Wall Street’ Movie Poster signed by, Martin Scorsese, Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey & John Berthnal.",
+              "badge_price": "£20",
+              "badge_price_value": 20.0,
+              "draw_date": "2026-07-12",
+              "date_status": "",
+              "url": "https://classycompetitions.co.uk/product/silverstone/",
+              "priority": "Written"
+            }
+          ]
+        },
+        {
+          "site_key": "clovercompetitions",
+          "site_name": "Clovercompetitions",
+          "site_url": "https://www.clovercompetitions.co.uk/",
+          "competitions": [
+            {
+              "product": "400 tickets into £80k Rolex Comp",
+              "product_info": "DRAW TOMORROW 1 Days 19 Hrs 4 Mins 51 Secs 400 tickets into £80k Rolex Comp £ 2.00 PER ENTRY SOLD: 14% 42 / 300 BUY TICKETS",
+              "badge_price": "£2.00",
+              "badge_price_value": 2.0,
+              "draw_date": "2026-06-30",
+              "date_status": "",
+              "url": "https://www.clovercompetitions.co.uk/product/400-tickets-into-80k-rolex-comp-2/",
+              "priority": "Medium"
+            },
+            {
+              "product": "Rolex GMT Master II 'Sprite' Or £8000 + £70,000 Of Instants",
+              "product_info": "DRAW 7th Jul 9pm 8 Days 19 Hrs 4 Mins 51 Secs Rolex GMT Master II 'Sprite' Or £8000 + £70,000 Of Instants £ 0.99 PER ENTRY SOLD: 22% 27388 / 124999 Cash Alternative: £8000 BUY TICKETS",
+              "badge_price": "£0.99",
+              "badge_price_value": 0.99,
+              "draw_date": "2026-07-07",
+              "date_status": "",
+              "url": "https://www.clovercompetitions.co.uk/product/rolex-sprite-or-8000-70k-instants/",
+              "priority": "Medium"
+            }
+          ]
+        },
+        {
+          "site_key": "compclub",
+          "site_name": "Compclub",
+          "site_url": "https://thecompclub.co.uk/",
+          "competitions": [
+            {
+              "product": "WIN THIS ROLEX GMT-MASTER II 'PEPSI'",
+              "product_info": "Featured Competition WIN THIS ROLEX GMT-MASTER II 'PEPSI' Plus THREE bonus prizes to be won before the Rolex is drawn WORTH £22,000 Ticket £35.00 Total 699 53 sold 646 remaining DRAW ENDS IN: 05 : 18 : 03 : 24 Days Hrs Min Sec Enter Now Guaranteed Winner Drawn Live Full Transparency",
+              "badge_price": "£35.00",
+              "badge_price_value": 35.0,
+              "draw_date": "2026-07-04",
+              "date_status": "",
+              "url": "https://thecompclub.co.uk/competition/6a313daa9c36022ec4bdfe02",
+              "priority": "Medium"
+            }
+          ]
+        },
+        {
+          "site_key": "competitionclub",
+          "site_name": "CompetitionClub",
+          "site_url": "https://competitionclub.uk/",
+          "competitions": [
+            {
+              "product": "Win Your Choice of A 31 mm Rolex Datejust, Rolex Submariner or £8,500 Cash!",
+              "product_info": "Giveaway Started Win Your Choice of A 31 mm Rolex Datejust, Rolex Submariner or £8,500 Cash! Time Left to End: 4 Days 19 Hours 2 Minutes 46 Seconds 0 Tickets Sold: 149 999 14.91% 850 Tickets remaining ENTRY: £ 25.00",
+              "badge_price": "£25.00",
+              "badge_price_value": 25.0,
+              "draw_date": "2026-07-03",
+              "date_status": "",
+              "url": "https://competitionclub.uk/product/win-your-choice-of-a-31-mm-rolex-datejust-rolex-submariner-or-8500-cash/",
+              "priority": "Medium"
+            },
+            {
+              "product": "Win Your Choice of A 31 mm Rolex Datejust, Rolex Submariner or £8,500 Cash!",
+              "product_info": "Giveaway Started Win Your Choice of A 31 mm Rolex Datejust, Rolex Submariner or £8,500 Cash! Time Left to End: 4 Days 19 Hours 2 Minutes 46 Seconds 0 Tickets Sold: 149 999 14.91% 850 Tickets remaining ENTRY: £ 25.00 Giveaway Started 3 WINNERS OF £1000, £2.99 A TICKET! Time Left to End: 3 Days 19 Hours 2 Minutes 46 Seconds 0 Tickets Sold: 111 2000 5.55% 1889 Tickets remaining ENTRY: £ 2.99",
+              "badge_price": "£25.00",
+              "badge_price_value": 25.0,
+              "draw_date": "2026-07-03",
+              "date_status": "",
+              "url": "https://competitionclub.uk/product/3-winners-of-1000-2-99-a-ticket/",
+              "priority": "Medium"
+            }
+          ]
+        },
+        {
+          "site_key": "easybigwins",
+          "site_name": "Easybigwins",
+          "site_url": "https://easybigwins.co.uk/",
+          "competitions": [
+            {
+              "product": "Win A Rolex Datejust Or Ps5000 Cash",
+              "product_info": "£0.39 Per Ticket WIN A ROLEX DATEJUST OR £5,000 CASH! Enter Here!",
+              "badge_price": "£0.39",
+              "badge_price_value": 0.39,
+              "draw_date": "2026-07-12",
+              "date_status": "",
+              "url": "https://easybigwins.co.uk/competition/win-a-rolex-datejust-or-ps5000-cash",
+              "priority": "Low"
+            }
+          ]
+        },
+        {
+          "site_key": "giveawayguys",
+          "site_name": "Giveaway Guys",
+          "site_url": "https://thegiveawayguys.co.uk/collections/competition",
+          "competitions": [
+            {
+              "product": "2025 Batman Rolex GMT Master II3rd July 26",
+              "product_info": "this Friday",
+              "badge_price": "£1.69",
+              "badge_price_value": 1.69,
+              "draw_date": "2026-07-03",
+              "date_status": "",
+              "url": "https://thegiveawayguys.co.uk/collections/competition/products/2025-batman-rolex-gmt-master-ii",
+              "priority": "High"
+            }
+          ]
+        },
+        {
+          "site_key": "gloriouscomps",
+          "site_name": "Glorious Comps",
+          "site_url": "https://www.glorious.co.uk/competitions",
+          "competitions": [
+            {
+              "product": "WIN A ROLEX 'SPRITE' STYLE WALL CLOCK",
+              "product_info": "Draw Sunday 19th | 0.0% Sold | 249 Tickets Left | Draw Sunday 19th 20 Days 19 Hrs 15 Mins 59 Secs WIN A ROLEX 'SPRITE' STYLE WALL CLOCK 0 % Sold 249 Tickets Left £ 0.99 PER ENTRY ENTER NOW",
+              "badge_price": "£0.99",
+              "badge_price_value": 0.99,
+              "draw_date": "2026-07-19",
+              "date_status": "",
+              "url": "https://www.glorious.co.uk/competition/win-a-rolex-sprite-style-wall-clock-19",
+              "priority": "Written"
+            }
+          ]
+        },
+        {
+          "site_key": "grailwatchclub",
+          "site_name": "Grailwatchclub",
+          "site_url": "https://www.grailwatchclub.com/",
+          "competitions": [
+            {
+              "product": "Rolex Daytona Ghost Or 36000 Tax Free Cash",
+              "product_info": "Win a Rolex Daytona “Ghost” or £36,000 tax free cash! Enter Now 32% sold 677 / 999 tickets remaining 0 Days : 0 Hours : 0 Mins : 0 Secs Competition Closed Join us for the live draw on Instagram – 01/07/2026 Instagram Enter Now £36,000 CASH ALT 2026 Watch Age £60 Ticket Price 999 Max. Entries 4 DAY Competition 01/07/2026 Live Draw Win a WHITE GOLD Rolex Daytona \"Ghost\" (126519LN)! Unworn watch dated February 2026 complete with box, papers and remainder of the 5 year Rolex International Guarantee to February 2031 - Or take the massive £36,000 tax free cash alternative! Launch 27/06/2026 > Close 01/07/2026. Good luck everyone! More Details",
+              "badge_price": "£60",
+              "badge_price_value": 60.0,
+              "draw_date": "2026-07-01",
+              "date_status": "",
+              "url": "https://www.grailwatchclub.com/product/rolex-daytona-ghost-or-36000-tax-free-cash",
+              "priority": "Low"
+            }
+          ]
+        },
+        {
+          "site_key": "iconiqcompetitions",
+          "site_name": "Iconiqcompetitions",
+          "site_url": "https://iconiqcompetitions.co.uk/",
+          "competitions": [
+            {
+              "product": "Rolex Datejust ODDS BOOSTER",
+              "product_info": "129 Instant Wins Rolex Datejust ODDS BOOSTER 2% SOLD 54/3,000 Enter Now 99p",
+              "badge_price": "£0.99",
+              "badge_price_value": 0.99,
+              "draw_date": "",
+              "date_status": "",
+              "url": "https://iconiqcompetitions.co.uk/competition/rolex-datejust-odds-booster",
+              "priority": "High"
+            },
+            {
+              "product": "Rolex Datejust or £6,000!",
+              "product_info": "Rolex Datejust or £6,000! 0% SOLD 6/1,499 Enter Now £9.99",
+              "badge_price": "£9.99",
+              "badge_price_value": 9.99,
+              "draw_date": "",
+              "date_status": "",
+              "url": "https://iconiqcompetitions.co.uk/competition/rolex-datejust-or-ps6000",
+              "priority": "High"
+            }
+          ]
+        },
+        {
+          "site_key": "in2wincompetitions",
+          "site_name": "In2wincompetitions",
+          "site_url": "https://in2wincompetitions.com/",
+          "competitions": [
+            {
+              "product": "Rolex Daytona Odds Booster #1",
+              "product_info": "220 / 410 54 % Draw Wed 1st Jul 2 days 19 hrs 25 mins 47 secs £ 5.00 Per Entry Rolex Daytona Odds Booster #1 Enter Now",
+              "badge_price": "£5.00",
+              "badge_price_value": 5.0,
+              "draw_date": "2026-07-01",
+              "date_status": "",
+              "url": "https://in2wincompetitions.com/competition/rolex-daytona-odds-booster-1/",
+              "priority": "Written"
+            },
+            {
+              "product": "Rolex Daytona The Bi-Metal (Steel & Yellow Gold) RRP £22,000! (only 150 tickets!)",
+              "product_info": "10 / 150 7 % Draw Wed 1st Jul 2 days 19 hrs 40 mins 47 secs £ 200.00 Per Entry Rolex Daytona The Bi-Metal (Steel & Yellow Gold) RRP £22,000! (only 150 tickets!) Cash Alternative: 14000 Enter Now",
+              "badge_price": "£200.00",
+              "badge_price_value": 200.0,
+              "draw_date": "2026-07-01",
+              "date_status": "",
+              "url": "https://in2wincompetitions.com/competition/rolex-daytona-the-bi-metal-steel-yellow-gold-rrp-22000-only-150-tickets/",
+              "priority": "Written"
+            }
+          ]
+        },
+        {
+          "site_key": "lakedistrictgiveaways",
+          "site_name": "Lakedistrictgiveaways",
+          "site_url": "https://lakedistrictgiveaways.co.uk/",
+          "competitions": [
+            {
+              "product": "Rolex 'Daytona' or £12,500 - High Roller",
+              "product_info": "Draw Sunday 5th Jul 2026 Rolex 'Daytona' or £12,500 - High Roller 06 Days 19 Hours 51 Minutes 12 Seconds 0.6% 6 / 999 Tickets Sold £25.00 PER ENTRY ENTER TO WIN",
+              "badge_price": "£25.00",
+              "badge_price_value": 25.0,
+              "draw_date": "2026-07-05",
+              "date_status": "",
+              "url": "https://lakedistrictgiveaways.co.uk/competition/rolex-daytona-or-12-500-high-roller",
+              "priority": "Medium"
+            }
+          ]
+        },
+        {
+          "site_key": "lavishlife",
+          "site_name": "Lavishlife",
+          "site_url": "https://lavishlifecompetitions.co.uk/competitions/",
+          "competitions": [
+            {
+              "product": "ROLEX BATMAN OR £8,000 CASH!",
+              "product_info": "Draw Sun 5th Jul",
+              "badge_price": "£ 0.15",
+              "badge_price_value": 0.15,
+              "draw_date": "2026-07-05",
+              "date_status": "",
+              "url": "https://lavishlifecompetitions.co.uk/competition/rolex-batman-or-8000-cash-2/",
+              "priority": "High"
+            },
+            {
+              "product": "WIN EXTRA TICKETS INTO ROLEX BATMAN COMP – ODDS BOOSTER – 1000 TICKETS END PRIZE!",
+              "product_info": "Draw Sun 5th Jul",
+              "badge_price": "£ 0.10",
+              "badge_price_value": 0.1,
+              "draw_date": "2026-07-05",
+              "date_status": "",
+              "url": "https://lavishlifecompetitions.co.uk/competition/win-extra-tickets-into-rolex-batman-comp-odds-booster/",
+              "priority": "High"
+            }
+          ]
+        },
+        {
+          "site_key": "millionairecomps",
+          "site_name": "Millionairecomps",
+          "site_url": "https://www.millionairecompetitions.co.uk/raffles/active",
+          "competitions": [
+            {
+              "product": "Rolex Sky-Dweller | Blue Dial",
+              "product_info": "Ends in 41 days Undersold Cash Alt: £12.69 Rolex Sky-Dweller | Blue Dial 0.03% sold 1 Ticket | £1.99 per ticket 1 Ticket | £1.99",
+              "badge_price": "£1.99",
+              "badge_price_value": 1.99,
+              "draw_date": "2026-08-09",
+              "date_status": "",
+              "url": "https://www.millionairecompetitions.co.uk/raffles/rolex-sky-dweller-blue-dial-e4bcf9a6-bad7-4c3e-8368-5ceed1fe805d",
+              "priority": "Medium"
+            }
+          ]
+        },
+        {
+          "site_key": "revcomps",
+          "site_name": "Rev Comps",
+          "site_url": "https://www.revcomps.com/current-competitions/",
+          "competitions": [
+            {
+              "product": "NEW 2026 18CT WHITE GOLD ROLEX DAYTONA ‘GHOST’ OR £30,000",
+              "product_info": "WIN TODAY 11PM",
+              "badge_price": "50P",
+              "badge_price_value": 0.5,
+              "draw_date": "2026-06-29",
+              "date_status": "",
+              "url": "https://www.revcomps.com/product/new-2026-18ct-white-gold-rolex-daytona-ghost-or-30000/",
+              "priority": "High"
+            },
+            {
+              "product": "NEW 2026 ROLEX 41MM SUBMARINER DATE OR £9,000",
+              "product_info": "WIN TODAY 11PM",
+              "badge_price": "£5.97",
+              "badge_price_value": 5.97,
+              "draw_date": "2026-06-29",
+              "date_status": "",
+              "url": "https://www.revcomps.com/product/new-2026-rolex-41mm-submariner-date-or-9000-12/",
+              "priority": "High"
+            }
+          ]
+        },
+        {
+          "site_key": "silverstonedreamcars",
+          "site_name": "Silverstonedreamcars",
+          "site_url": "https://silverstonedreamcars.co.uk/",
+          "competitions": [
+            {
+              "product": "£1.99",
+              "product_info": "Sale £1.99 per ticket Participate 14 Hours 6 Mins 23 Secs 2324 tickets still available 3% BIG BOY BUNDLE! 1 BIG WINNER – 400X ROLEX BATGIRL/£11,000 TICKETS & 60% OFF NOW! NOT ONE TO MISS! THE WINNER GETS £4,000 WORTH OF ROLEX TICKETS! 60% OFF NOW! Enter now",
+              "badge_price": "£1.99",
+              "badge_price_value": 1.99,
+              "draw_date": "2026-06-29",
+              "date_status": "",
+              "url": "https://sdccomps.co.uk/shop/bigboy/",
+              "priority": "Written"
+            },
+            {
+              "product": "£9.95",
+              "product_info": "£9.95 per ticket Participate 4 Days 12 Hours 6 Mins 23 Secs 2873 tickets still available 20% WIN A ROLEX BATGIRL OR £11,000 CASH – INSTANTLY! THIS ROLEX COULD BE YOURS IN 5 MINUTES! BIGDOG CODE LIVE Enter now",
+              "badge_price": "£9.95",
+              "badge_price_value": 9.95,
+              "draw_date": "2026-07-03",
+              "date_status": "",
+              "url": "https://sdccomps.co.uk/shop/girlbat/",
+              "priority": "Written"
+            }
+          ]
+        },
+        {
+          "site_key": "steel-towncompetitions",
+          "site_name": "Steel-Towncompetitions",
+          "site_url": "https://steel-towncompetitions.co.uk/",
+          "competitions": [
+            {
+              "product": "2020 ROLEX SUBMARINER “HULK”",
+              "product_info": "2020 ROLEX SUBMARINER “HULK” £ 2.99 Ends On Days Hours Mins Secs 0 Tickets Sold: 177 9999 1.77%",
+              "badge_price": "£2.99",
+              "badge_price_value": 2.99,
+              "draw_date": "2026-06-29",
+              "date_status": "",
+              "url": "https://steel-towncompetitions.co.uk/competitions/2020-rolex-submariner-hulk/",
+              "priority": "Low"
+            }
+          ]
+        },
+        {
+          "site_key": "thepremiumtimecompany",
+          "site_name": "Thepremiumtimecompany",
+          "site_url": "https://thepremiumtimecompany.com/",
+          "competitions": [
+            {
+              "product": "Win A Rolex GMT-Master II Batman",
+              "product_info": "Tickets only £ 5.00 Enter here! Comp 263 Win A Rolex GMT-Master II Batman Ticket price £ 5.00 Ticket allocation 4500 Tickets available ... Competition closes in: DAY HRS MIN SEC 09 15 59 20 ENTER NOW",
+              "badge_price": "£ 5.00",
+              "badge_price_value": 5.0,
+              "draw_date": "2026-07-08",
+              "date_status": "",
+              "url": "https://thepremiumtimecompany.com/competition/win-a-rolex-gmt-master-ii-batman/",
+              "priority": "Ignore"
+            },
+            {
+              "product": "Win A Rolex Daytona 126500LN Panda",
+              "product_info": "Tickets only £ 14.99 Enter here! Comp 262 Win A Rolex Daytona 126500LN Panda Ticket price £ 14.99 Ticket allocation 2800 Tickets available ... Competition closes in: DAY HRS MIN SEC 16 15 59 20 ENTER NOW",
+              "badge_price": "£ 14.99",
+              "badge_price_value": 14.99,
+              "draw_date": "2026-07-15",
+              "date_status": "",
+              "url": "https://thepremiumtimecompany.com/competition/rolex-daytona-126500ln-panda-6/",
+              "priority": "Ignore"
+            }
+          ]
+        },
+        {
+          "site_key": "thetimevaultclub",
+          "site_name": "Thetimevaultclub",
+          "site_url": "https://thetimevaultclub.com/",
+          "competitions": [
+            {
+              "product": "Welcome to",
+              "product_info": "Welcome to The Time Vault Club Where passion for horology meets opportunity. We exist to bring the world of exceptional watchmaking closer to you, from iconic Swiss craftsmanship to bespoke British design. Through our curated competitions, we give you the chance to discover and own watches most people only dream of. LIVE COMPETITION All of our prize draws are hosted live, so you can witness every moment as dream watches find new owners. With regular competitions featuring everything from iconic Swiss classics to standout modern releases, the next opportunity is always closer than you think. Longines Hydro-Conquest or £1250 Per Entry £ 10.00 Ends In 04 Days 17 Hours 58 Mins 50 Secs Tickets Remaining 335 / 399 ENTER COMPETITION VIEW ALL COMPETITIONS Every watch tells a story, will the next one be yours? RECENT Winners Winner of the Tudor Black & Burgundy Alex Mussell Winner of the Tudor Harrods Jacob Lovelock Winner of the Rolex Sky-Dweller Steve Shaw Winner of the Hamilton Khaki Trevor Golden",
+              "badge_price": "£1250",
+              "badge_price_value": 1250.0,
+              "draw_date": "2026-07-03",
+              "date_status": "",
+              "url": "https://thetimevaultclub.com/competitions/longines-hydroconquest-39mm/",
+              "priority": "Written"
+            }
+          ]
+        },
+        {
+          "site_key": "thevintagewatchdraw",
+          "site_name": "Thevintagewatchdraw",
+          "site_url": "https://thevintagewatchdraw.com/",
+          "competitions": [
+            {
+              "product": "WIN A NEO-VINTAGE ROLEX GMT-MASTER II \"COKE\" 16710 W/ BOX & BOOKLETS",
+              "product_info": "Home – Rolex GMT-Master II “Coke” 16710 WIN A NEO-VINTAGE ROLEX GMT-MASTER II \"COKE\" 16710 W/ BOX & BOOKLETS Value: £8,500 Duration: 7 Days Age: Circa 1997 Max. Entries: 849 Ticket Price: £20 Live Draw: 30/06/26 The Rolex GMT-Master is one of the most iconic and popular watches ever made, and this example is a slight twist on a classic, known as the “Coke” for its red & black Coca-Cola colour palette . This 16710 GMT-Master II reference is of its best iterations, perfectly balancing vintage styling with modern practicality . This example dates to 1997 and is in very sharp, immaculate condition , accompanied by its box, booklets & tag. 36.51% SOLD 0 Tickets Sold: 310 849 36.51% 539 Tickets remaining 539/849 Tickets Remaining Time Left to End: 1 Days 17 Hours 58 Minutes 37 Seconds ENTER NOW WIN A ROLEX GMT-MASTER II \"COKE\" 16710 1997 ENTER NOW 36.51% SOLD 0 Tickets Sold: 310 849 36.51% 539 Tickets remaining 539/849 Tickets Remaining Time Left to End: 1 Days 17 Hours 58 Minutes 37 Seconds Value: £8,500 Duration: 7 Days Age: Circa 1997 Entries: 849 Max. Ticket Price: £20 Live Draw: 30/06/2026 The Rolex GMT-Master is one of the most iconic and popular watches ever made, and this example is a slight twist on a classic, known as the “Coke” for its red & black Coca-Cola colour palette bezel insert. This 16710 GMT-Master II reference is of its best iterations, perfectly balancing vintage styling with modern practicality . This example dates to 1997 and is in very sharp, immaculate condition , accompanied by its box, booklets & tag. #30 - The Rolex GMT-Master II \"Coke\" 16710 w/ Box, Booklets & Tag 1997 The History— The Example The Rolex GMT-Master II is one of the most iconic sports watches ever produced, originally developed for airline pilots travelling between time zones. This example is a slightly different take on the classic GMT formula, featuring the distinctive red and black “Coke” bezel – a configuration that has become increasingly sought after in recent years. The reference 16710 is widely regarded as one of the best GMT-Master II references, perfectly balancing vintage character with modern practicality. Powered by the Rolex calibre 3185 , it features an independently adjustable hour hand, allowing the wearer to track multiple time zones with ease. Dating to 1997 , this example is presented in exceptionally sharp, immaculate condition , with excellent case definition throughout. It is accompanied by its box, booklets and tag . A perfect GMT-Master II in one of the model’s most attractive configurations – versatile, iconic and increasingly difficult to find in such outstanding condition. ENTER NOW The First Competition of its Kind The Vintage Watch Draw is unique. We’re the first competition website dedicated to collector-grade vintage watches, backed by a trusted expert. After the initial idea over five years ago, we’re so excited to now bring this new concept to you. Curated by A Trusted Expert Our competitions are curated by Alex Stevens, a trusted & reputable vintage watch specialist with lifelong experience in the trade. 12 Month Service Warranty Every watch is fully serviced by our watchmaker & comes with a 12 month mechanical warranty, so you can enjoy your watch hassle-free. Collector-Grade Condition Every watch is meticulously curated by Alex, known for selecting only the finest, collector-grade examples in terms of condition & originality. Low & Transparent Odds We don’t flood the draw with tickets. Our competitions are deliberately limited to keep odds low & your chance of winning fair. Authenticity Guarantee Every watch is thoroughly inspected & fully authenticated by our in-house expert. We are professionals, not enthusiasts or hobbyists. Guaranteed Draws Every draw ends on the stated date, no matter what. We never extend our competitions, even if we haven't sold all the tickets. Win a Rolex GMT-Master II \"Coke\" 16710 ENTER NOW Join Our Winners “Still can’t believe I won!” “I’ve entered a few competitions before but never thought I’d actually win — then I got the call telling me I’d won a vintage Rolex Submariner 5513! The watch is absolutely stunning. It’s got that classic charm and you can feel the history in every detail. The condition is immaculate for a piece of its age. Thank you so much for the opportunity — it’s now the pride of my collection!” James Holloway Bristol, UK “Still can’t believe I won!” “I’ve entered a few competitions before but never thought I’d actually win — then I got the call telling me I’d won a vintage Rolex Submariner 5513! The watch is absolutely stunning. It’s got that classic charm and you can feel the history in every detail. The condition is immaculate for a piece of its age. Thank you so much for the opportunity — it’s now the pride of my collection!” James Holloway Bristol, UK Got more questions? Read through our FAQs page here. FAQs Page Curated by Alex Stevens ASV as seen in…",
+              "badge_price": "£20.00",
+              "badge_price_value": 20.0,
+              "draw_date": "2026-06-30",
+              "date_status": "",
+              "url": "https://thevintagewatchdraw.com/quantity-selection/?product_id=41153",
+              "priority": "Written"
+            }
+          ]
+        },
+        {
+          "site_key": "thewatchdraws",
+          "site_name": "Thewatchdraws",
+          "site_url": "https://twdcompetitions.com/",
+          "competitions": [
+            {
+              "product": "Win A Rolex Gmt Master Ii Sprite On Thursday 2Nd July",
+              "product_info": "Enter at £ 50.00 1783011600",
+              "badge_price": "£50.00",
+              "badge_price_value": 50.0,
+              "draw_date": "2026-07-02",
+              "date_status": "",
+              "url": "https://twdcompetitions.com/product/win-a-rolex-gmt-master-ii-sprite-on-thursday-2nd-july/",
+              "priority": "Ignore"
+            }
+          ]
+        },
+        {
+          "site_key": "toomuch",
+          "site_name": "Too Much",
+          "site_url": "https://toomuchcompetitions.co.uk/competitions-to-enter-win-cash-cars-gold-luxury-prizes/",
+          "competitions": [
+            {
+              "product": "Brand New 2025 Rolex GMT-Master II ‘Pepsi’ £17,000 Cash Alternative",
+              "product_info": "Draw Today",
+              "badge_price": "£35.00",
+              "badge_price_value": 35.0,
+              "draw_date": "2026-06-29",
+              "date_status": "",
+              "url": "https://toomuchcompetitions.co.uk/competition/brand-new-2025-rolex-gmt-master-ii-pepsi-17000-cash-alternative/",
+              "priority": "High"
+            },
+            {
+              "product": "Win 10 entries into Rolex Pepsi on Monday – Low Odds",
+              "product_info": "Draw Today",
+              "badge_price": "£2.50",
+              "badge_price_value": 2.5,
+              "draw_date": "2026-06-29",
+              "date_status": "",
+              "url": "https://toomuchcompetitions.co.uk/competition/win-10-entries-into-rolex-pepsi-on-monday-low-odds/",
+              "priority": "High"
+            },
+            {
+              "product": "Win 10 entries into Rolex Pepsi on Monday – Ultra Low Odds",
+              "product_info": "Draw Today",
+              "badge_price": "£5.00",
+              "badge_price_value": 5.0,
+              "draw_date": "2026-06-29",
+              "date_status": "",
+              "url": "https://toomuchcompetitions.co.uk/competition/win-10-entries-into-rolex-pepsi-on-monday/",
+              "priority": "High"
+            },
+            {
+              "product": "Win 5 entries into Rolex Pepsi on Monday",
+              "product_info": "Draw Today",
+              "badge_price": "£1.00",
+              "badge_price_value": 1.0,
+              "draw_date": "2026-06-29",
+              "date_status": "",
+              "url": "https://toomuchcompetitions.co.uk/competition/win-5-entries-into-rolex-pepsi-on-monday/",
+              "priority": "High"
+            },
+            {
+              "product": "Porsche 911 & Rolex £500K Instant Win (End Prize Up To £60,000)",
+              "product_info": "Draw Thu 9th Jul",
+              "badge_price": "£5.99",
+              "badge_price_value": 5.99,
+              "draw_date": "2026-07-09",
+              "date_status": "",
+              "url": "https://toomuchcompetitions.co.uk/competition/porsche-911-rolex-500k-instant-win-end-prize-up-to-60000/",
+              "priority": "High"
+            }
+          ]
+        },
+        {
+          "site_key": "watchesofwales",
+          "site_name": "Watchesofwales",
+          "site_url": "https://competition.watchesofwales.co.uk/",
+          "competitions": [
+            {
+              "product": "Rolex Sky Dweller 326933",
+              "product_info": "ENTRIES CLOSED Winner drawn live on Instagram Rolex Sky Dweller 326933 Rolex £ 19.99 996/1350 SOLD Drawn on Instagram in: D H M S 2026-07-05 21:00",
+              "badge_price": "£19.99",
+              "badge_price_value": 19.99,
+              "draw_date": "2027-05-07",
+              "date_status": "",
+              "url": "https://competition.watchesofwales.co.uk/product/rolex-sky-dweller-326933/",
+              "priority": "Ignore"
+            },
+            {
+              "product": "Rolex Sky Dweller FULL GOLD",
+              "product_info": "Rolex Sky Dweller FULL GOLD Rolex £ 19.99 581/3000 SOLD ENDS IN D H M S 2026-07-05 21:00",
+              "badge_price": "£19.99",
+              "badge_price_value": 19.99,
+              "draw_date": "2027-05-07",
+              "date_status": "",
+              "url": "https://competition.watchesofwales.co.uk/product/rolex-sky-dweller-full-gold/",
+              "priority": "Ignore"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "updated_at": "2026-06-28T02:06:44"
+  "updated_at": "2026-06-29T02:21:35"
 }
