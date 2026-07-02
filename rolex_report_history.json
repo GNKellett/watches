@@ -1927,7 +1927,7 @@
     },
     {
       "week_key": "2026-W27",
-      "generated_at": "2026-07-02T02:23:41",
+      "generated_at": "2026-07-02T19:00:17",
       "keyword_groups": [
         {
           "site_key": "7daysperformance",
@@ -2122,7 +2122,7 @@
               "product_info": "Featured Competition WIN THIS ROLEX GMT-MASTER II 'PEPSI' Plus THREE bonus prizes to be won before the Rolex is drawn WORTH £22,000 Ticket £35.00 Total 699 63 sold 636 remaining DRAW ENDS IN: 02 : 17 : 56 : 56 Days Hrs Min Sec Enter Now Guaranteed Winner Drawn Live Full Transparency",
               "badge_price": "£35.00",
               "badge_price_value": 35.0,
-              "draw_date": "2026-07-04",
+              "draw_date": "2026-07-05",
               "date_status": "",
               "url": "https://thecompclub.co.uk/competition/6a313daa9c36022ec4bdfe02",
               "priority": "Medium"
@@ -2383,7 +2383,7 @@
               "product_info": "£0.39 Per Ticket WIN A ROLEX DATEJUST OR £5,000 CASH! Enter Here!",
               "badge_price": "£0.39",
               "badge_price_value": 0.39,
-              "draw_date": "2026-07-12",
+              "draw_date": "2026-07-13",
               "date_status": "",
               "url": "https://easybigwins.co.uk/competition/win-a-rolex-datejust-or-ps5000-cash",
               "priority": "Low"
@@ -2417,7 +2417,7 @@
               "product_info": "Draw Sunday 19th | 0.0% Sold | 249 Tickets Left | Draw Sunday 19th 17 Days 19 Hrs 10 Mins 30 Secs WIN A ROLEX 'SPRITE' STYLE WALL CLOCK 0 % Sold 249 Tickets Left £ 0.99 PER ENTRY ENTER NOW",
               "badge_price": "£0.99",
               "badge_price_value": 0.99,
-              "draw_date": "2026-07-19",
+              "draw_date": "2026-07-20",
               "date_status": "",
               "url": "https://www.glorious.co.uk/competition/win-a-rolex-sprite-style-wall-clock-19",
               "priority": "Written"
@@ -2788,6 +2788,146 @@
               "date_status": "",
               "url": "https://www.revcomps.com/product/new-2025-rolex-gmt-master-ii-everose-rootbeer-or-13000-13/",
               "priority": "High"
+            },
+            {
+              "product": "DAYTONA GOLD &AMP; GREEN ROLEX STYLE WALL CLOCK",
+              "product_info": "WIN FRI 3RD JUL @ 11PM",
+              "badge_price": "£2.97",
+              "badge_price_value": 2.97,
+              "draw_date": "2026-07-03",
+              "date_status": "",
+              "url": "https://www.revcomps.com/product/daytona-gold-green-rolex-style-wall-clock-6/",
+              "priority": "High"
+            },
+            {
+              "product": "GMT MASTER II PEPSI ROLEX STYLE WALL CLOCK",
+              "product_info": "WIN SAT 4TH JUL @ 11PM",
+              "badge_price": "£2.97",
+              "badge_price_value": 2.97,
+              "draw_date": "2026-07-04",
+              "date_status": "",
+              "url": "https://www.revcomps.com/product/gmt-master-ii-pepsi-rolex-style-wall-clock-5/",
+              "priority": "High"
+            },
+            {
+              "product": "NEW 2026 ROLEX DATEJUST 41MM WHITE GOLD OR £10,000",
+              "product_info": "WIN SAT 4TH JUL @ 11PM",
+              "badge_price": "£3.97",
+              "badge_price_value": 3.97,
+              "draw_date": "2026-07-04",
+              "date_status": "",
+              "url": "https://www.revcomps.com/product/new-2026-rolex-datejust-41mm-white-gold-or-10000/",
+              "priority": "High"
+            },
+            {
+              "product": "NEW STICKERED ROLEX 40MM COSMOGRAPH DAYTONA OR £16,000 LOW ODDS",
+              "product_info": "WIN SAT 4TH JUL @ 11PM",
+              "badge_price": "£49.97",
+              "badge_price_value": 49.97,
+              "draw_date": "2026-07-04",
+              "date_status": "",
+              "url": "https://www.revcomps.com/product/new-stickered-rolex-40mm-cosmograph-daytona-or-16000-low-odds/",
+              "priority": "High"
+            },
+            {
+              "product": "NEW 2026 ROLEX SUBMARINER DATE GOLD & STEEL OR £11,000",
+              "product_info": "WIN SUN 5TH JUL @ 11PM",
+              "badge_price": "£29.97",
+              "badge_price_value": 29.97,
+              "draw_date": "2026-07-05",
+              "date_status": "",
+              "url": "https://www.revcomps.com/product/new-2026-rolex-submariner-date-gold-steel-or-11000/",
+              "priority": "High"
+            },
+            {
+              "product": "NEW ROLEX SKY-DWELLER WHITE GOLD BLACK DIAL OR £13,000",
+              "product_info": "WIN SUN 5TH JUL @ 11PM",
+              "badge_price": "£2.97",
+              "badge_price_value": 2.97,
+              "draw_date": "2026-07-05",
+              "date_status": "",
+              "url": "https://www.revcomps.com/product/new-rolex-sky-dweller-white-gold-black-dial-or-13000-4/",
+              "priority": "High"
+            },
+            {
+              "product": "SUBMARINER ROLEX ‘STARBUCKS’ STYLE WALL CLOCK",
+              "product_info": "WIN SUN 5TH JUL @ 11PM",
+              "badge_price": "£2.97",
+              "badge_price_value": 2.97,
+              "draw_date": "2026-07-05",
+              "date_status": "",
+              "url": "https://www.revcomps.com/product/submariner-rolex-starbucks-style-wall-clock-5/",
+              "priority": "High"
+            },
+            {
+              "product": "NEW 2026 ROLEX 36MM OP PISTACHIO GREEN DIAL OR £6,000",
+              "product_info": "WIN MON 6TH JUL @ 11PM",
+              "badge_price": "£2.47",
+              "badge_price_value": 2.47,
+              "draw_date": "2026-07-06",
+              "date_status": "",
+              "url": "https://www.revcomps.com/product/new-2026-rolex-36mm-op-pistachio-green-dial-or-6000-2/",
+              "priority": "High"
+            },
+            {
+              "product": "SUBMARINER HULK ROLEX STYLE WALL CLOCK | GREEN",
+              "product_info": "WIN MON 6TH JUL @ 11PM",
+              "badge_price": "£2.97",
+              "badge_price_value": 2.97,
+              "draw_date": "2026-07-06",
+              "date_status": "",
+              "url": "https://www.revcomps.com/product/submariner-hulk-rolex-style-wall-clock-green-11/",
+              "priority": "High"
+            },
+            {
+              "product": "GMT MASTER II ‘BATMAN’ ROLEX STYLE WALL CLOCK",
+              "product_info": "WIN TUE 7TH JUL @ 11PM",
+              "badge_price": "£2.97",
+              "badge_price_value": 2.97,
+              "draw_date": "2026-07-07",
+              "date_status": "",
+              "url": "https://www.revcomps.com/product/gmt-master-ii-batman-rolex-style-wall-clock-8/",
+              "priority": "High"
+            },
+            {
+              "product": "NEW 2026 ROLEX GMT MASTER II BATGIRL OR £12,000",
+              "product_info": "WIN TUE 7TH JUL @ 11PM",
+              "badge_price": "£3.97",
+              "badge_price_value": 3.97,
+              "draw_date": "2026-07-07",
+              "date_status": "",
+              "url": "https://www.revcomps.com/product/new-2026-rolex-gmt-master-ii-batgirl-or-12000-11/",
+              "priority": "High"
+            },
+            {
+              "product": "NEW 2026 ROLEX 41MM SUBMARINER DATE OR £9,000",
+              "product_info": "WIN WED 8TH JUL @ 11PM",
+              "badge_price": "£5.97",
+              "badge_price_value": 5.97,
+              "draw_date": "2026-07-08",
+              "date_status": "",
+              "url": "https://www.revcomps.com/product/new-2026-rolex-41mm-submariner-date-or-9000-13/",
+              "priority": "High"
+            },
+            {
+              "product": "ROLEX SUBMARINER BLUESY STYLE WALL CLOCK",
+              "product_info": "WIN WED 8TH JUL @ 11PM",
+              "badge_price": "£2.97",
+              "badge_price_value": 2.97,
+              "draw_date": "2026-07-08",
+              "date_status": "",
+              "url": "https://www.revcomps.com/product/rolex-submariner-bluesy-style-wall-clock-6/",
+              "priority": "High"
+            },
+            {
+              "product": "NEW ROLEX AIR KING 40MM BLACK DIAL OR £5,000",
+              "product_info": "WIN THU 9TH JUL @ 11PM",
+              "badge_price": "£1.97",
+              "badge_price_value": 1.97,
+              "draw_date": "2026-07-09",
+              "date_status": "",
+              "url": "https://www.revcomps.com/product/new-2025-rolex-air-king-40mm-black-dial-or-5000/",
+              "priority": "High"
             }
           ]
         },
@@ -2977,5 +3117,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T02:23:41"
+  "updated_at": "2026-07-02T19:00:17"
 }
