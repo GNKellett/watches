@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T00:34:22",
+  "generated_at": "2026-07-05T19:22:48",
   "source": {
     "mode": "derived_from_full_parser_dump",
     "rows_csv": "C:\\Users\\graem\\OneDrive\\Documents\\Comping\\parse_logs\\parser_audit_full_rows_latest.csv",
@@ -98,9 +98,9 @@
       "site_key": "timevault",
       "site_name": "Timevault",
       "site_url": "https://timevault.ltd/",
-      "total_comps": 9,
-      "avg_price": 1.7222,
-      "under_2_50_count": 6,
+      "total_comps": 8,
+      "avg_price": 1.875,
+      "under_2_50_count": 5,
       "from_2_50_to_5_00_count": 3,
       "over_5_00_count": 0,
       "free_count": 0
@@ -146,7 +146,7 @@
   },
   "current_week": {
     "week_key": "2026-W27",
-    "generated_at": "2026-07-05T00:34:22",
+    "generated_at": "2026-07-05T19:22:48",
     "keyword_groups": [
       {
         "site_key": "7daysperformance",
@@ -155,12 +155,22 @@
         "competitions": [
           {
             "product": "Win This Rolex GMT Master II 'Zombie'!",
-            "product_info": "Draw on Sunday 9pm Win This Rolex GMT Master II 'Zombie'! Cash Alternative: £10,000 £0.15 sold: 14 % Enter now",
+            "product_info": "Draw Today 9pm Win This Rolex GMT Master II 'Zombie'! Cash Alternative: £10,000 £0.15 sold: 68 % Enter now",
             "badge_price": "£0.15",
             "badge_price_value": 0.15,
             "draw_date": "2026-07-05",
-            "date_status": "Draw on Sunday 9pm",
+            "date_status": "Draw Today 9pm",
             "url": "https://7daysperformance.co.uk/product/win-rolex-zombie-050726",
+            "priority": "High"
+          },
+          {
+            "product": "Win This Rolex GMT Master II \"Bruce Wayne\"!",
+            "product_info": "Just launched Win This Rolex GMT Master II \"Bruce Wayne\"! Cash Alternative: £10,000 £0.17 sold: 3 % Enter now",
+            "badge_price": "£0.17",
+            "badge_price_value": 0.17,
+            "draw_date": "2026-07-12",
+            "date_status": "Just launched",
+            "url": "https://7daysperformance.co.uk/product/win-rolex-bruce-120726",
             "priority": "High"
           }
         ]
@@ -331,7 +341,7 @@
             "product_info": "Featured Competition WIN THIS ROLEX GMT-MASTER II 'PEPSI' Plus THREE bonus prizes to be won before the Rolex is drawn WORTH £22,000 Ticket £35.00 Total 699 285 sold 414 remaining DRAW ENDS IN: Draw Closed Enter Now Guaranteed Winner Drawn Live Full Transparency Win Luxury Watches & Prizes with The Comp Club More Competitions Draw Closed Enter Now Also Live Now Worth £16,000 WIN THIS ROLEX GMT-MASTER II 'ROOTBEER' Plus+ THREE bonus prizes to be won 10 D : 18 H : 43 M : 53 S Enter Now ✓ Guaranteed Winner ✓ Drawn Live Guaranteed Winner Every Draw — FAQ Everything you need to know before entering. Is The Comp Club legal? Is the winner guaranteed? How is the draw conducted? How will I know if I win? Can I take a cash alternative? How many tickets can I buy? What happens if a competition doesn't sell out? Members Only The Comp Club Private Members Join our exclusive WhatsApp group for insane prizes with super low odds . Private competitions. Members only. No noise — just wins. 🎯 Super Low Odds Far fewer entrants. Far better chances. 💎 Incredible Prizes Watches, cars, cash — exclusive to members. 🔒 Private Group WhatsApp only. Invite-based access. ⏰ Launching Soon Limited spaces. Apply via WhatsApp.",
             "badge_price": "£35.00",
             "badge_price_value": 35.0,
-            "draw_date": "2026-07-15",
+            "draw_date": "2026-07-16",
             "date_status": "",
             "url": "https://thecompclub.co.uk/competition/6a47c47aa480803dbaeeb1a0",
             "priority": "Medium"
@@ -355,10 +365,20 @@
         "competitions": [
           {
             "product": "Win this Rolex GMT Master-II 'Sprite' or £12,000 Tax Free",
-            "product_info": "3days",
+            "product_info": "Closes Today 23:00",
             "badge_price": "£0.15",
             "badge_price_value": 0.15,
-            "draw_date": "2026-07-08",
+            "draw_date": "2026-07-05",
+            "date_status": "",
+            "url": "https://dreamcargiveaways.co.uk/competitions/win-this-rolex-gmt-master-ii-sprite-2-2-2-2-2",
+            "priority": "High"
+          },
+          {
+            "product": "Win this Rolex GMT Master-II 'Sprite' or £12,000 Tax Free",
+            "product_info": "Closes Today 23:00",
+            "badge_price": "£0.15",
+            "badge_price_value": 0.15,
+            "draw_date": "2026-07-05",
             "date_status": "",
             "url": "https://dreamcargiveaways.co.uk/competitions/win-this-rolex-gmt-master-ii-sprite-2-2-2-2-2",
             "priority": "High"
@@ -585,27 +605,10 @@
             "product_info": "£0.39 Per Ticket WIN A ROLEX DATEJUST OR £5,000 CASH! Enter Here!",
             "badge_price": "£0.39",
             "badge_price_value": 0.39,
-            "draw_date": "2026-07-15",
+            "draw_date": "2026-07-16",
             "date_status": "",
             "url": "https://easybigwins.co.uk/competition/win-a-rolex-datejust-or-ps5000-cash",
             "priority": "Low"
-          }
-        ]
-      },
-      {
-        "site_key": "giveawayguys",
-        "site_name": "Giveaway Guys",
-        "site_url": "https://thegiveawayguys.co.uk/collections/competition",
-        "competitions": [
-          {
-            "product": "2025 Batman Rolex GMT Master II3rd July 26",
-            "product_info": "Tomorrow!",
-            "badge_price": "£1.69",
-            "badge_price_value": 1.69,
-            "draw_date": "2026-07-03",
-            "date_status": "",
-            "url": "https://thegiveawayguys.co.uk/collections/competition/products/2025-batman-rolex-gmt-master-ii",
-            "priority": "High"
           }
         ]
       },
@@ -619,7 +622,7 @@
             "product_info": "Draw Sunday 19th | 0.0% Sold | 249 Tickets Left | Draw Sunday 19th 17 Days 19 Hrs 10 Mins 30 Secs WIN A ROLEX 'SPRITE' STYLE WALL CLOCK 0 % Sold 249 Tickets Left £ 0.99 PER ENTRY ENTER NOW",
             "badge_price": "£0.99",
             "badge_price_value": 0.99,
-            "draw_date": "2026-07-22",
+            "draw_date": "2026-07-23",
             "date_status": "",
             "url": "https://www.glorious.co.uk/competition/win-a-rolex-sprite-style-wall-clock-19",
             "priority": "Written"
@@ -657,33 +660,6 @@
             "date_status": "",
             "url": "https://hittinitbig.com/competition/8000-or-rolex-bluesy/",
             "priority": "Low"
-          }
-        ]
-      },
-      {
-        "site_key": "iconiqcompetitions",
-        "site_name": "Iconiqcompetitions",
-        "site_url": "https://iconiqcompetitions.co.uk/",
-        "competitions": [
-          {
-            "product": "Rolex Datejust ODDS BOOSTER",
-            "product_info": "129 Instant Wins Rolex Datejust ODDS BOOSTER 40% SOLD 1,184/3,000 Enter Now 99p",
-            "badge_price": "£0.99",
-            "badge_price_value": 0.99,
-            "draw_date": "",
-            "date_status": "",
-            "url": "https://iconiqcompetitions.co.uk/competition/rolex-datejust-odds-booster",
-            "priority": "High"
-          },
-          {
-            "product": "Rolex Datejust or £6,000!",
-            "product_info": "Rolex Datejust or £6,000! 8% SOLD 114/1,499 Enter Now £9.99",
-            "badge_price": "£9.99",
-            "badge_price_value": 9.99,
-            "draw_date": "",
-            "date_status": "",
-            "url": "https://iconiqcompetitions.co.uk/competition/rolex-datejust-or-ps6000",
-            "priority": "High"
           }
         ]
       },
@@ -728,7 +704,7 @@
         "competitions": [
           {
             "product": "ROLEX BATMAN OR £8,000 CASH!",
-            "product_info": "Draw Sun 5th Jul",
+            "product_info": "Draw Today",
             "badge_price": "£ 0.15",
             "badge_price_value": 0.15,
             "draw_date": "2026-07-05",
@@ -738,7 +714,7 @@
           },
           {
             "product": "WIN EXTRA TICKETS INTO ROLEX BATMAN COMP – ODDS BOOSTER – 1000 TICKETS END PRIZE!",
-            "product_info": "Draw Sun 5th Jul",
+            "product_info": "Draw Today",
             "badge_price": "£ 0.10",
             "badge_price_value": 0.1,
             "draw_date": "2026-07-05",
@@ -1104,6 +1080,36 @@
         "site_url": "https://toomuchcompetitions.co.uk/competitions-to-enter-win-cash-cars-gold-luxury-prizes/",
         "competitions": [
           {
+            "product": "Win 10 entries into Rolex “Root Beer” on Sunday – Low Odds",
+            "product_info": "Draw Today",
+            "badge_price": "£2.50",
+            "badge_price_value": 2.5,
+            "draw_date": "2026-07-05",
+            "date_status": "",
+            "url": "https://toomuchcompetitions.co.uk/competition/win-10-entries-into-rolex-root-beer-on-sunday-low-odds/",
+            "priority": "High"
+          },
+          {
+            "product": "Win 10 entries into Rolex “Root Beer” on Sunday – Ultra Low Odds",
+            "product_info": "Draw Today",
+            "badge_price": "£5.00",
+            "badge_price_value": 5.0,
+            "draw_date": "2026-07-05",
+            "date_status": "",
+            "url": "https://toomuchcompetitions.co.uk/competition/win-10-entries-into-rolex-root-beer-on-sunday-ultra-low-odds/",
+            "priority": "High"
+          },
+          {
+            "product": "Win 5 entries into Rolex “Root Beer” on Sunday",
+            "product_info": "Draw Today",
+            "badge_price": "£1.00",
+            "badge_price_value": 1.0,
+            "draw_date": "2026-07-05",
+            "date_status": "",
+            "url": "https://toomuchcompetitions.co.uk/competition/win-5-entries-into-rolex-root-beer-on-sunday/",
+            "priority": "High"
+          },
+          {
             "product": "Porsche 911 & Rolex £500K Instant Win (End Prize Up To £60,000)",
             "product_info": "Draw Thu 9th Jul",
             "badge_price": "£5.99",
@@ -1121,11 +1127,11 @@
         "site_url": "https://ukcc.co.uk/competitions",
         "competitions": [
           {
-            "product": "£1,000,000 FISHING INSTANT WIN | 50/50 CHANCE",
-            "product_info": "27 days 18 hrs 36 min 28 sec Just launched 27 days 18 hrs 36 min 28 sec £1,000,000 FISHING INSTANT WIN | 50/50 CHANCE VANS | ROLEX | CASH | HOLIDAYS £7.77 sold: 0 % Enter now",
+            "product": "£1,000,000 FISHING INSTANT WIN | 50/50 CHANCE #IWF4",
+            "product_info": "24 days 01 hrs 28 min 24 sec Just launched 24 days 01 hrs 28 min 24 sec £1,000,000 FISHING INSTANT WIN | 50/50 CHANCE #IWF4 VANS | ROLEX | CASH | HOLIDAYS £7.77 sold: 0 % Enter now",
             "badge_price": "£7.77",
             "badge_price_value": 7.77,
-            "draw_date": "2026-08-02",
+            "draw_date": "2026-07-30",
             "date_status": "",
             "url": "https://ukcc.co.uk/competition/iwf4",
             "priority": "High"
