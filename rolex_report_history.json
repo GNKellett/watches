@@ -1,614 +1,6 @@
 {
   "weeks": [
     {
-      "week_key": "2026-W25",
-      "generated_at": "2026-06-21T18:55:29",
-      "keyword_groups": [
-        {
-          "site_key": "7daysperformance",
-          "site_name": "7daysperformance",
-          "site_url": "https://7daysperformance.co.uk/",
-          "competitions": [
-            {
-              "product": "The Car & Rolex Revolution #69!",
-              "product_info": "Closing Today 10pm The Car & Rolex Revolution #69! ‼️ONLY LIVE UNTIL SUNDAY ‼️ £1.35 sold: 10 % Enter now",
-              "badge_price": "£1.35",
-              "badge_price_value": 1.35,
-              "draw_date": "2026-06-21",
-              "date_status": "Closing Today 10pm",
-              "url": "https://7daysperformance.co.uk/product/instant-win-69",
-              "priority": "High"
-            },
-            {
-              "product": "Win This Rolex GMT Master II \"Rootbeer\"!",
-              "product_info": "Draw Today 9pm Win This Rolex GMT Master II \"Rootbeer\"! Cash Alternative: £10,000 £0.05 sold: 76 % Enter now",
-              "badge_price": "£0.05",
-              "badge_price_value": 0.05,
-              "draw_date": "2026-06-21",
-              "date_status": "Draw Today 9pm",
-              "url": "https://7daysperformance.co.uk/product/win-rolex-rootbeer-210626",
-              "priority": "High"
-            },
-            {
-              "product": "Win This Rolex Submariner \"Hulk\"!",
-              "product_info": "Just launched Win This Rolex Submariner \"Hulk\"! Cash Alternative: £12,000 £0.09 sold: 2 % Enter now",
-              "badge_price": "£0.09",
-              "badge_price_value": 0.09,
-              "draw_date": "2026-06-28",
-              "date_status": "Just launched",
-              "url": "https://7daysperformance.co.uk/product/win-rolex-hulk-280626",
-              "priority": "High"
-            }
-          ]
-        },
-        {
-          "site_key": "bonkerscompetitions",
-          "site_name": "Bonkerscompetitions",
-          "site_url": "https://bonkerscompetitions.co.uk/competitions/",
-          "competitions": [
-            {
-              "product": "Rolex GMT-Master II ‘Root Beer’ – RRP £16,800!",
-              "product_info": "Draw Sun 21st Jun",
-              "badge_price": "£ 30.00",
-              "badge_price_value": 30.0,
-              "draw_date": "2026-06-21",
-              "date_status": "",
-              "url": "https://bonkerscompetitions.co.uk/competition/rolex-gmt-master-ii-root-beer-rrp-16800/",
-              "priority": "Ignore"
-            },
-            {
-              "product": "ROLEX DAY-DATE 40 ROSE GOLD OLIVE DIAL 60TH ANNIVERSARY – RRP £45,200!",
-              "product_info": "Draw Tomorrow",
-              "badge_price": "£ 50.00",
-              "badge_price_value": 50.0,
-              "draw_date": "2026-06-22",
-              "date_status": "",
-              "url": "https://bonkerscompetitions.co.uk/competition/rolex-day-date-41-rose-gold-olive-dial-60th-anniversary-rrp-45200/",
-              "priority": "Ignore"
-            },
-            {
-              "product": "WIN 5 X ROLEX DAY-DATE TICKETS WORTH £250 – DRAW NO.11",
-              "product_info": "Drawn When Sold Out (20 hrs 5 mins)",
-              "badge_price": "£ 0.99",
-              "badge_price_value": 0.99,
-              "draw_date": "2026-06-22",
-              "date_status": "",
-              "url": "https://bonkerscompetitions.co.uk/competition/win-5-x-rolex-day-date-tickets-worth-250-draw-no-11/",
-              "priority": "Ignore"
-            },
-            {
-              "product": "WIN 5 X ROLEX DAY-DATE TICKETS WORTH £250 – DRAW NO.12",
-              "product_info": "Drawn When Sold Out (20 hrs 5 mins)",
-              "badge_price": "£ 0.99",
-              "badge_price_value": 0.99,
-              "draw_date": "2026-06-22",
-              "date_status": "",
-              "url": "https://bonkerscompetitions.co.uk/competition/win-5-x-rolex-day-date-tickets-worth-250-draw-no-12/",
-              "priority": "Ignore"
-            },
-            {
-              "product": "WIN 10 X ROLEX ‘ROOT BEER’ TICKETS WORTH £300 – DRAW NO.1",
-              "product_info": "Drawn When Sold Out (2 days 20 hrs 35 mins)",
-              "badge_price": "£ 0.99",
-              "badge_price_value": 0.99,
-              "draw_date": "2026-06-23",
-              "date_status": "",
-              "url": "https://bonkerscompetitions.co.uk/competition/win-10-x-rolex-root-beer-tickets-worth-300-draw-no-1-2/",
-              "priority": "Ignore"
-            }
-          ]
-        },
-        {
-          "site_key": "breezecompetitions",
-          "site_name": "Breezecompetitions",
-          "site_url": "https://www.breezecompetitions.com/",
-          "competitions": [
-            {
-              "product": "Rolex GMT (Bruce Wayne) or £10,000 Cash + Over 2,000 Instant Wins",
-              "product_info": "Draw Mon 6th Jul 17 days 20 hrs 49 mins 42 secs 4 % Sold Rolex GMT (Bruce Wayne) or £10,000 Cash + Over 2,000 Instant Wins £ 0.25 Per Entry Cash Alternative: £10,000 Enter Now",
-              "badge_price": "£0.25",
-              "badge_price_value": 0.25,
-              "draw_date": "2026-07-06",
-              "date_status": "",
-              "url": "https://www.breezecompetitions.com/competition/rolex-gmt-bruce-wayne-or-10000-cash-over-2000-instant-wins-%f0%9f%98%8d/",
-              "priority": "Ignore"
-            }
-          ]
-        },
-        {
-          "site_key": "c4competitions",
-          "site_name": "C4competitions",
-          "site_url": "https://c4competitions.co.uk/",
-          "competitions": [
-            {
-              "product": "ROLEX GMT-MASTER II 116713LN",
-              "product_info": "",
-              "badge_price": "£3.00",
-              "badge_price_value": 3.0,
-              "draw_date": "2026-06-24",
-              "date_status": "",
-              "url": "https://c4competitions.co.uk/product/rolex-gmt-master-ii-116713ln",
-              "priority": "Medium"
-            }
-          ]
-        },
-        {
-          "site_key": "caddycomps",
-          "site_name": "Caddycomps",
-          "site_url": "https://caddycomps.com/",
-          "competitions": [
-            {
-              "product": "WIN 2026 ROLEX OYSTER PERPETUAL GREEN DIAL (FULL BOX & PAPERS) #6",
-              "product_info": "Ends at 8pm Sun 21st Jun WIN 2026 ROLEX OYSTER PERPETUAL GREEN DIAL (FULL BOX & PAPERS) #6 +FREE iGolf SUBSCRIPTION £ 0.65 Per Entry 2813 / 29999 9 % Enter Now",
-              "badge_price": "£0.65",
-              "badge_price_value": 0.65,
-              "draw_date": "2026-06-21",
-              "date_status": "",
-              "url": "https://caddycomps.com/competition/win-2026-rolex-oyster-perpetual-green-dial-full-box-papers-6/",
-              "priority": "Low"
-            }
-          ]
-        },
-        {
-          "site_key": "calibreclub",
-          "site_name": "Calibreclub",
-          "site_url": "https://thecalibreclub.com/product-category/competitions/",
-          "competitions": [
-            {
-              "product": "395 tickets. One Rolex Batman. No extensions.",
-              "product_info": "A Rolex GMT-Master II “Batman” Ref. 116710BLNR, 2018 full set with box and papers. Drawn live on Facebook and independently verified. 395 ticket cap Draws 21 Jun, 9:30pm Unsold tickets do not compete",
-              "badge_price": "£45.00",
-              "badge_price_value": 45.0,
-              "draw_date": "2026-06-21",
-              "date_status": "",
-              "url": "https://thecalibreclub.com/competition/rolex-batman/",
-              "priority": "Medium"
-            },
-            {
-              "product": "Can’t wait for the draw? Reveal a Rolex ticket instantly.",
-              "product_info": "4,000 tickets, 2,000 instant winners and a £110,855 prize pool. Five boxed watches lead the board, including the Rolex Submariner “Starbucks”, plus cash, Calibre Credit, gold, tech and Louis Vuitton prizes. 2,000 instant winners £110,855 prize pool Five boxed watches",
-              "badge_price": "£50.00",
-              "badge_price_value": 50.0,
-              "draw_date": "2026-06-28",
-              "date_status": "",
-              "url": "https://thecalibreclub.com/competition/rolex-instant-win/",
-              "priority": "Medium"
-            }
-          ]
-        },
-        {
-          "site_key": "compclub",
-          "site_name": "Compclub",
-          "site_url": "https://thecompclub.co.uk/",
-          "competitions": [
-            {
-              "product": "WIN THIS ROLEX GMT-MASTER II 'PEPSI'",
-              "product_info": "Worth £22,000 WIN THIS ROLEX GMT-MASTER II 'PEPSI' Plus THREE bonus prizes to be won before the Rolex is drawn 15 D : 18 H : 39 M : 34 S Enter Now ✓ Guaranteed Winner ✓ Drawn Live Also Live Now WIN THIS ROLEX GMT-MASTER II 'PEPSI' Plus THREE bonus prizes to be won before the Rolex is drawn Prize Value £22,000 Ticket Price £35 Total Tickets 699 Enter This Competition",
-              "badge_price": "",
-              "badge_price_value": null,
-              "draw_date": "2026-07-07",
-              "date_status": "",
-              "url": "https://thecompclub.co.uk/competition/6a313daa9c36022ec4bdfe02",
-              "priority": "Medium"
-            }
-          ]
-        },
-        {
-          "site_key": "dreamcars",
-          "site_name": "Dream Cars",
-          "site_url": "https://dreamcargiveaways.co.uk/competitions",
-          "competitions": [
-            {
-              "product": "Win this Rolex DateJust 41 'Wimbledon Dial' or £10,000 Tax Free",
-              "product_info": "7days",
-              "badge_price": "£0.09",
-              "badge_price_value": 0.09,
-              "draw_date": "2026-06-28",
-              "date_status": "",
-              "url": "https://dreamcargiveaways.co.uk/competitions/win-rolex-wimbledon-2",
-              "priority": "High"
-            }
-          ]
-        },
-        {
-          "site_key": "easybigwins",
-          "site_name": "Easybigwins",
-          "site_url": "https://easybigwins.co.uk/",
-          "competitions": [
-            {
-              "product": "Win A Rolex Datejust Or Ps5000 Cash",
-              "product_info": "£0.39 Per Ticket WIN A ROLEX DATEJUST OR £5,000 CASH! Enter Here!",
-              "badge_price": "£0.39",
-              "badge_price_value": 0.39,
-              "draw_date": "2026-07-15",
-              "date_status": "",
-              "url": "https://easybigwins.co.uk/competition/win-a-rolex-datejust-or-ps5000-cash",
-              "priority": "Low"
-            }
-          ]
-        },
-        {
-          "site_key": "easypeasyprizes",
-          "site_name": "Easypeasyprizes",
-          "site_url": "https://easypeasyprizes.com/",
-          "competitions": [
-            {
-              "product": "Rolex Gmt Master Ii Batman",
-              "product_info": "3 days 20 hours 31 mins",
-              "badge_price": "£35.00",
-              "badge_price_value": 35.0,
-              "draw_date": "2026-06-24",
-              "date_status": "",
-              "url": "https://easypeasyprizes.com/competition/rolex-gmt-master-ii-batman",
-              "priority": "Ignore"
-            }
-          ]
-        },
-        {
-          "site_key": "grailwatchclub",
-          "site_name": "Grailwatchclub",
-          "site_url": "https://www.grailwatchclub.com/",
-          "competitions": [
-            {
-              "product": "Rolex Submariner Date Or 10000 Tax Free Cash 3",
-              "product_info": "1 2 3 4 5 6 7 Win a Rolex Submariner Date or £10,000 tax free cash! Enter Now 38% sold 277 / 449 tickets remaining 1 Days : 19 Hours : 19 Mins : 59 Secs Competition Closed Join us for the live draw on Instagram – 20/06/2026 Instagram Enter Now £10,000 CASH ALT 2026 Watch Age £50 Ticket Price 449 Max. Entries 3 DAY Competition 20/06/2026 Live Draw Win a brand new Rolex Submariner Date (126610LN)! Unworn watch dated April 2026 complete with box, papers and remainder of the 5 year Rolex International Guarantee to April 2031 - Or take the £10,000 tax free cash alternative! Launch 17/06/2026 > Close 20/06/2026. Good luck! More Details",
-              "badge_price": "£50",
-              "badge_price_value": 50.0,
-              "draw_date": "2026-06-20",
-              "date_status": "",
-              "url": "https://www.grailwatchclub.com/product/rolex-submariner-date-or-10000-tax-free-cash-3",
-              "priority": "Low"
-            }
-          ]
-        },
-        {
-          "site_key": "lavishlife",
-          "site_name": "Lavishlife",
-          "site_url": "https://lavishlifecompetitions.co.uk/competitions/",
-          "competitions": [
-            {
-              "product": "EPIC PRIZE EVERY TIME – WIN A CAR, ROLEX, BIKE, CASH, GOLD & TECH!#6",
-              "product_info": "Draw Today",
-              "badge_price": "£ 5.00",
-              "badge_price_value": 5.0,
-              "draw_date": "2026-06-21",
-              "date_status": "",
-              "url": "https://lavishlifecompetitions.co.uk/competition/epic-prize-every-time-win-a-car-rolex-bike-cash-gold-tech-every-ticket-wins6/",
-              "priority": "High"
-            },
-            {
-              "product": "WIN EXTRA TICKETS INTO ROLEX BATMAN COMP – ODDS BOOSTER – 1000 TICKETS END PRIZE!",
-              "product_info": "Draw Thu 2nd Jul",
-              "badge_price": "£ 0.10",
-              "badge_price_value": 0.1,
-              "draw_date": "2026-07-02",
-              "date_status": "",
-              "url": "https://lavishlifecompetitions.co.uk/competition/win-extra-tickets-into-rolex-batman-comp-odds-booster/",
-              "priority": "High"
-            },
-            {
-              "product": "ROLEX BATMAN OR £8,000 CASH!",
-              "product_info": "Draw Sun 12th Jul",
-              "badge_price": "£ 0.15",
-              "badge_price_value": 0.15,
-              "draw_date": "2026-07-12",
-              "date_status": "",
-              "url": "https://lavishlifecompetitions.co.uk/competition/rolex-batman-or-8000-cash-2/",
-              "priority": "High"
-            }
-          ]
-        },
-        {
-          "site_key": "premierprizecomps",
-          "site_name": "Premierprizecomps",
-          "site_url": "https://premierprizecompetitions.co.uk/competitions",
-          "competitions": [
-            {
-              "product": "High Roller, Ultra Low odds- Rolex DJ41 Azzuro Dial + 3x Mini Draws for Early Birds!",
-              "product_info": "9d 19h 56m",
-              "badge_price": "£80.00",
-              "badge_price_value": 80.0,
-              "draw_date": "2026-06-28",
-              "date_status": "",
-              "url": "https://premierprizecompetitions.co.uk/competitions/aadff1ae-3888-444f-ad96-06c4115eeffd",
-              "priority": "Medium"
-            }
-          ]
-        },
-        {
-          "site_key": "privatedial",
-          "site_name": "Privatedial",
-          "site_url": "https://privatedial.co.uk/",
-          "competitions": [
-            {
-              "product": "2025 Bruce Wayne & 2025 Sub No date",
-              "product_info": "This Week's Prize 2025 Bruce Wayne & 2025 Sub No date From £50 per entry Closes In 02 Days 18 Hrs 54 Min 31 Sec Enter Now 31+ Winners £220,000+ Awarded Live Drawn Guaranteed Winner Free UK Delivery 9 Draws Completed £108,000+ Of prizes won 11 Winners Live Competitions ODD BOOSTER £2 per entry 10% Claimed 2d 17h Enter Now 2025 Bruce Wayne & 2025 Sub No date £50 per entry 0% Claimed 2d 18h Enter Now View our competitions Real People · Real Prizes Recent Winners 31+ winners · £220,000+ in prizes Last winner: Mark Newbould · Won 13 days ago Winner 2025 GMT-Master II ‘Sprite’ Jubilee Won 13 days ago Mark Newbould PD-113 Winner LV Ombré Nomade Won 26 days ago Subhan Ghafoor PD-110 Winner Samsung 98′ 4K Smart TV Won 26 days ago Wesley Burke PD-600 Winner 10g Gold Bar Won 26 days ago Jake Lovelock PD-84 Winner Tudor Royal Black Dial Won 1 month ago Simon Olenka PD-316 Winner 2025 Submariner ‘Bluesy’ Won 1 month ago Shaun Hammond PD-103 Winner ODDS BOOSTER Won 1 month ago kyle hewitt 7659 Winner 2025 Batman & 2023 Starbucks Won 1 month ago Albert Graham PD-323 Winner Apple Watch Series 11 Won 1 month ago Harry Snelling PD-962 Winner Low Odds £1000 Cash Won 1 month ago Ben Johnson PD-227 Winner Main Draw Odd Booster Won 1 month ago JOHN wilson PD-245 Winner 2025 GMT-Master II Zombie Won 2 months ago David Prowse PD-398 Winner ODDs BOOSTER Won 2 months ago kyle hewitt PD-109 Winner 2024 Full Set Black Ceramic Daytona Won 2 months ago Declan Pipe PD-205 Winner Odds Booster Won 2 months ago Mick jones PD-210 Winner 2025 Full Set Batman & 2025 Full Set Sub No Date Won 2 months ago Danny Pippen PD-431 Winner Ticket Odds Booster Won 3 months ago David Phillips PD-273 Winner Breitling Chronomat x Royal Air Force Red Arrows Edition Won 3 months ago Jackie Marley PD-77 Winner £6,500 Cash Won 3 months ago Charley Simpkins PD-356 Winner £6,500 Cash Won 3 months ago Tidd PD-440 Winner UNWORN Submariner Starbucks or £13,000 Won 3 months ago Courtney Smith PD-973 Winner 2025 Submariner No Date or £8,000 Won 4 months ago Subhan Ghafoor PD-665 Winner 2025 Rolex Submariner 'Bluesy' or £12,000 Won 4 months ago Greyson James PD-573 Winner 2025 Datejust 41 Jubilee or £10,000 Won 4 months ago Kyle Hewitt PD-704 Winner 2025 GMT-Master II 'Batman' or £11,000 Won 4 months ago Kyle Hewitt PD-271 Winner 2025 GMT-Master II Sprite or £10,000 Won 5 months ago Dom Curran PD-162 Winner 2022 Submariner Date or £9,000 Won 5 months ago Emma Gibbons 2861 Will you be our next winner ? View all winners Every winner verified · Drawn live on Facebook Simple Process How To Enter & Win Three simple steps from choosing your tickets to claiming your luxury timepiece. 1 1 Select Your Tickets Browse our live competition, choose how many tickets you'd like and complete your secure checkout. 2 2 Watch The Live Draw Join us live on Instagram or TikTok as we draw the winning ticket using a certified random number generator. 3 3 Claim Your Prize Winners choose the watch or cash alternative. We arrange fully insured delivery or instant bank transfer. Ready to try your luck? Enter today for your chance to win. View Competitions Please leave this field empty Stay Ahead of the Next Draw Be the first to hear about new giveaways, winner announcements and exclusive offers. We don’t spam! Read our privacy policy for more info. Check your inbox or spam folder to confirm your subscription.",
-              "badge_price": "£50",
-              "badge_price_value": 50.0,
-              "draw_date": "2026-06-21",
-              "date_status": "",
-              "url": "https://privatedial.co.uk/product/2025-bruce-wayne-2025-sub-no-date/",
-              "priority": "Written"
-            }
-          ]
-        },
-        {
-          "site_key": "prizeplay",
-          "site_name": "Prizeplay",
-          "site_url": "https://theprizeplay.com/",
-          "competitions": [
-            {
-              "product": "1 In 3 Ps120000 Rolex Instant Win Ps1000 End Draw",
-              "product_info": "Today 8:00pm 0 D 18 H 53 M 23 S 1 in 3 £120,000 Rolex Instant Win + £1000 End Draw £50.00 per ticket 1,000 Instant Wins 1 10% Sold 3,000 1 in 3 £120,000 Instant Win + £1000 End Draw Quick Add View Tickets Added! 32% sold",
-              "badge_price": "£50.00",
-              "badge_price_value": 50.0,
-              "draw_date": "2026-06-21",
-              "date_status": "",
-              "url": "https://theprizeplay.com/competition/1-in-3-ps120000-rolex-instant-win-ps1000-end-draw",
-              "priority": "Medium"
-            },
-            {
-              "product": "1 In 3 Ps120000 Rolex Instant Win Ps1000 End Draw",
-              "product_info": "Today 8:00pm 0 D 18 H 53 M 23 S 1 in 3 £120,000 Rolex Instant Win + £1000 End Draw £50.00 per ticket 1,000 Instant Wins 1 10% Sold 3,000 1 in 3 £120,000 Instant Win + £1000 End Draw Quick Add View Tickets Added! 32% sold",
-              "badge_price": "£50.00",
-              "badge_price_value": 50.0,
-              "draw_date": "2026-06-21",
-              "date_status": "",
-              "url": "https://theprizeplay.com/competition/1-in-3-ps120000-rolex-instant-win-ps1000-end-draw",
-              "priority": "Medium"
-            },
-            {
-              "product": "Win A Rolex Datejust 41Mm Blue Dial Or The Cash Alternative",
-              "product_info": "Today 8:00pm 0 D 18 H 53 M 23 S WIN A ROLEX DATEJUST 41MM BLUE DIAL OR THE CASH ALTERNATIVE £37.50 per ticket 1 32% Sold 300 WIN A ROLEX DATEJUST 41MM BLUE DIAL OR THE CASH ALTERNATIVE Quick Add View Tickets Added! 32% sold",
-              "badge_price": "£37.50",
-              "badge_price_value": 37.5,
-              "draw_date": "2026-06-21",
-              "date_status": "",
-              "url": "https://theprizeplay.com/competition/win-a-rolex-datejust-41mm-blue-dial-or-the-cash-alternative",
-              "priority": "Medium"
-            },
-            {
-              "product": "Win A Rolex Datejust 41Mm Blue Dial Or The Cash Alternative",
-              "product_info": "Today 8:00pm 0 D 18 H 53 M 23 S WIN A ROLEX DATEJUST 41MM BLUE DIAL OR THE CASH ALTERNATIVE £37.50 per ticket 1 32% Sold 300 WIN A ROLEX DATEJUST 41MM BLUE DIAL OR THE CASH ALTERNATIVE Quick Add View Tickets Added! 32% sold",
-              "badge_price": "£37.50",
-              "badge_price_value": 37.5,
-              "draw_date": "2026-06-21",
-              "date_status": "",
-              "url": "https://theprizeplay.com/competition/win-a-rolex-datejust-41mm-blue-dial-or-the-cash-alternative",
-              "priority": "Medium"
-            }
-          ]
-        },
-        {
-          "site_key": "revcomps",
-          "site_name": "Rev Comps",
-          "site_url": "https://www.revcomps.com/current-competitions/",
-          "competitions": [
-            {
-              "product": "NEW 2025 ROLEX GMT MASTER II EVEROSE ‘ROOTBEER’ OR £13,000",
-              "product_info": "WIN TODAY 11PM",
-              "badge_price": "£3.97",
-              "badge_price_value": 3.97,
-              "draw_date": "2026-06-21",
-              "date_status": "",
-              "url": "https://www.revcomps.com/product/new-2025-rolex-gmt-master-ii-everose-rootbeer-or-13000-12/",
-              "priority": "High"
-            },
-            {
-              "product": "NEW STICKERED ROLEX 40MM COSMOGRAPH DAYTONA OR £18,000 LOW ODDS",
-              "product_info": "WIN TODAY 11PM",
-              "badge_price": "£199.97",
-              "badge_price_value": 199.97,
-              "draw_date": "2026-06-21",
-              "date_status": "",
-              "url": "https://www.revcomps.com/product/new-stickered-rolex-40mm-cosmograph-daytona-or-18000/",
-              "priority": "High"
-            }
-          ]
-        },
-        {
-          "site_key": "silverstonedreamcars",
-          "site_name": "Silverstonedreamcars",
-          "site_url": "https://silverstonedreamcars.co.uk/",
-          "competitions": [
-            {
-              "product": "£7.50",
-              "product_info": "Sale £7.50 per ticket Participate 14 Days 12 Hours 41 Mins 41 Secs 3583 tickets still available 0% WIN A ROLEX BATGIRL OR £11,000 CASH – INSTANTLY! 25% OFF LAUNCH PRICE NOW! THIS ROLEX COULD BE YOURS IN 5 MINUTES! 25% OFF LAUNCH PRICE LIMITED! Enter now",
-              "badge_price": "£7.50",
-              "badge_price_value": 7.5,
-              "draw_date": "2026-07-05",
-              "date_status": "",
-              "url": "https://sdccomps.co.uk/shop/girlbat/",
-              "priority": "Written"
-            }
-          ]
-        },
-        {
-          "site_key": "steel-towncompetitions",
-          "site_name": "Steel-Towncompetitions",
-          "site_url": "https://steel-towncompetitions.co.uk/",
-          "competitions": [
-            {
-              "product": "2020 ROLEX SUBMARINER “HULK”",
-              "product_info": "2020 ROLEX SUBMARINER “HULK” £ 2.99 Ends On Days Hours Mins Secs 0 Tickets Sold: 164 9999 1.64%",
-              "badge_price": "£2.99",
-              "badge_price_value": 2.99,
-              "draw_date": "2026-06-29",
-              "date_status": "",
-              "url": "https://steel-towncompetitions.co.uk/competitions/2020-rolex-submariner-hulk/",
-              "priority": "Low"
-            }
-          ]
-        },
-        {
-          "site_key": "tccomps",
-          "site_name": "Tccomps",
-          "site_url": "https://www.tccomps.co.uk/",
-          "competitions": [
-            {
-              "product": "Rolex GMT-Master II “Root Beer” or £11,500",
-              "product_info": "",
-              "badge_price": "£ 9.99",
-              "badge_price_value": 9.99,
-              "draw_date": "2026-06-23",
-              "date_status": "",
-              "url": "https://www.tccomps.co.uk/product/rolex-gmt-master-ii-root-beer-or-11500/",
-              "priority": "High"
-            }
-          ]
-        },
-        {
-          "site_key": "thatprizeguy",
-          "site_name": "Thatprizeguy",
-          "site_url": "https://thatprizeguy.co.uk/",
-          "competitions": [
-            {
-              "product": "Rolex Datejust Green Dial Or Ps7500",
-              "product_info": "Jun 26 th £7,500 £7.5K 3% 677,146 Tickets Left 22,854 / 700,000",
-              "badge_price": "£0.04",
-              "badge_price_value": 0.04,
-              "draw_date": "2026-06-26",
-              "date_status": "",
-              "url": "https://thatprizeguy.co.uk/competitions/rolex-datejust-green-dial-or-ps7500",
-              "priority": "Low"
-            }
-          ]
-        },
-        {
-          "site_key": "thepremiumtimecompany",
-          "site_name": "Thepremiumtimecompany",
-          "site_url": "https://thepremiumtimecompany.com/",
-          "competitions": [
-            {
-              "product": "Win A Rolex GMT-Master II Bruce Wayne",
-              "product_info": "Tickets only £ 30.00 Enter here! Comp 265 Win A Rolex GMT-Master II Bruce Wayne Ticket price £ 30.00 Ticket allocation 800 Tickets available ... Competition closes in: DAY HRS MIN SEC 03 16 34 38 ENTER NOW",
-              "badge_price": "£ 30.00",
-              "badge_price_value": 30.0,
-              "draw_date": "2026-06-22",
-              "date_status": "",
-              "url": "https://thepremiumtimecompany.com/competition/rolex-gmt-master-ii-bruce-wayne-6/",
-              "priority": "Ignore"
-            },
-            {
-              "product": "Win A Rolex GMT-Master II Batman",
-              "product_info": "Tickets only £ 5.00 Enter here! Comp 263 Win A Rolex GMT-Master II Batman Ticket price £ 5.00 Ticket allocation 4500 Tickets available ... Competition closes in: DAY HRS MIN SEC 19 16 34 38 ENTER NOW",
-              "badge_price": "£ 5.00",
-              "badge_price_value": 5.0,
-              "draw_date": "2026-07-08",
-              "date_status": "",
-              "url": "https://thepremiumtimecompany.com/competition/win-a-rolex-gmt-master-ii-batman/",
-              "priority": "Ignore"
-            },
-            {
-              "product": "Win A Rolex Daytona 126500LN Panda",
-              "product_info": "Tickets only £ 14.99 Enter here! Comp 262 Win A Rolex Daytona 126500LN Panda Ticket price £ 14.99 Ticket allocation 2800 Tickets available ... Competition closes in: DAY HRS MIN SEC 26 16 34 38 ENTER NOW",
-              "badge_price": "£ 14.99",
-              "badge_price_value": 14.99,
-              "draw_date": "2026-07-15",
-              "date_status": "",
-              "url": "https://thepremiumtimecompany.com/competition/rolex-daytona-126500ln-panda-6/",
-              "priority": "Ignore"
-            }
-          ]
-        },
-        {
-          "site_key": "thetimevaultclub",
-          "site_name": "Thetimevaultclub",
-          "site_url": "https://thetimevaultclub.com/",
-          "competitions": [
-            {
-              "product": "Welcome to",
-              "product_info": "Welcome to The Time Vault Club Where passion for horology meets opportunity. We exist to bring the world of exceptional watchmaking closer to you, from iconic Swiss craftsmanship to bespoke British design. Through our curated competitions, we give you the chance to discover and own watches most people only dream of. LIVE COMPETITION All of our prize draws are hosted live, so you can witness every moment as dream watches find new owners. With regular competitions featuring everything from iconic Swiss classics to standout modern releases, the next opportunity is always closer than you think. Tudor Black Bay GMT \"COKE\" OR £3250 CASH Per Entry £ 20.00 Ends In 00 Days 18 Hours 34 Mins 08 Secs Tickets Remaining 258 / 399 ENTER COMPETITION VIEW ALL COMPETITIONS Every watch tells a story, will the next one be yours? RECENT Winners Winner of the Rolex Sky-Dweller Steve Shaw Winner of the Hamilton Khaki Trevor Golden Winner of the Omega MoonSwatch Russell Palmer Winner of the Tudor Black Bay Florian Vlad Talpos",
-              "badge_price": "£20.00",
-              "badge_price_value": 20.0,
-              "draw_date": "2026-06-21",
-              "date_status": "",
-              "url": "https://thetimevaultclub.com/competitions/tudor-black-bay-58-gmt-39mm/",
-              "priority": "Written"
-            }
-          ]
-        },
-        {
-          "site_key": "thevintagewatchdraw",
-          "site_name": "Thevintagewatchdraw",
-          "site_url": "https://thevintagewatchdraw.com/",
-          "competitions": [
-            {
-              "product": "WIN A VINTAGE 18K SOLID GOLD ROLEX DAY-DATE 18038 W/ BOX",
-              "product_info": "Home – Rolex Day Date 18038 18k Solid Gold 1978 WIN A VINTAGE 18K SOLID GOLD ROLEX DAY-DATE 18038 W/ BOX Value: £8,000 Duration: 7 Days Age: Circa 1978 Max. Entries: 799 Ticket Price: £20 Live Draw: 23/06/26 The Rolex Day-Date is one of the most iconic watches of all time , and has been Rolex’s flagship model since its introduction in 1956, worn by presidents and influential figures across generations. This reference, the 18038 , dates to 1978 and is crafted in 18k solid yellow gold with the classic “champagne” dial . Featuring a sapphire crystal and the 3055 “single quick” calibre, this Day-Date is the perfect balance of vintage charm and everyday practicality . This watch is in very good condition , and is accompanied by its inner & outer box . 27.91% SOLD 0 Tickets Sold: 223 799 27.91% 576 Tickets remaining 576/799 Tickets Remaining Time Left to End: 4 Days 18 Hours 33 Minutes 55 Seconds ENTER NOW WIN A VINTAGE ROLEX DAY-DATE 18K SOLID GOLD 1978 ENTER NOW 27.91% SOLD 0 Tickets Sold: 223 799 27.91% 576 Tickets remaining 576/799 Tickets Remaining Time Left to End: 4 Days 18 Hours 33 Minutes 55 Seconds Value: £8,000 Duration: 7 Days Age: Circa 1978 Entries: 799 Max. Ticket Price: £20 Live Draw: 23/06/2026 The Rolex Day-Date is one of the most iconic watches of all time , and has been Rolex’s flagship model since its introduction in 1956, worn by presidents and influential figures across generations. This reference, the 18038 , dates to 1978 and is crafted in 18k solid yellow gold with the classic “champagne” dial . Featuring a sapphire crystal and the 3055 “single quick” calibre, this Day-Date is the perfect balance of vintage charm and everyday practicality . This watch is in very good condition , and is accompanied by its inner & outer box . #29 - The 18k Solid Gold Rolex Day Date 18038 w/ Box 1978 The History— The Example The Rolex Day-Date is one of the most iconic watches ever produced and has sat at the very top of the Rolex catalogue since its introduction in 1956. Crafted exclusively in precious metals and instantly recognisable by its day display at 12 o’clock, the Day-Date has long been associated with presidents, business leaders and influential figures across generations, earning it the enduring nickname of the “President.” This reference, the 18038 , dates to 1978 and represents one of the most desirable eras of Day-Date production. Crafted in 18k solid yellow gold and featuring the classic champagne dial , it captures everything collectors love about vintage Rolex. The 18038 was also an important step forward for the model, introducing a sapphire crystal and the Rolex calibre 3055 movement. Featuring the desirable single quickset date function, the calibre 3055 brought a level of practicality and convenience that earlier Day-Dates lacked, while maintaining the robustness and reliability for which Rolex is renowned. On the wrist, the watch delivers exactly what a Day-Date should: substantial without being excessive, elegant without feeling formal. The combination of yellow gold, fluted bezel and champagne dial remains one of the most timeless configurations Rolex has ever produced. This example is presented on an attractive brown leather strap, and is in very good condition , accompanied by its inner and outer box. ENTER NOW The First Competition of its Kind The Vintage Watch Draw is unique. We’re the first competition website dedicated to collector-grade vintage watches, backed by a trusted expert. After the initial idea over five years ago, we’re so excited to now bring this new concept to you. Curated by A Trusted Expert Our competitions are curated by Alex Stevens, a trusted & reputable vintage watch specialist with lifelong experience in the trade. 12 Month Service Warranty Every watch is fully serviced by our watchmaker & comes with a 12 month mechanical warranty, so you can enjoy your watch hassle-free. Collector-Grade Condition Every watch is meticulously curated by Alex, known for selecting only the finest, collector-grade examples in terms of condition & originality. Low & Transparent Odds We don’t flood the draw with tickets. Our competitions are deliberately limited to keep odds low & your chance of winning fair. Authenticity Guarantee Every watch is thoroughly inspected & fully authenticated by our in-house expert. We are professionals, not enthusiasts or hobbyists. Guaranteed Draws Every draw ends on the stated date, no matter what. We never extend our competitions, even if we haven't sold all the tickets. Win an 18k Gold Rolex Day-Date 18038 ENTER NOW Join Our Winners “Still can’t believe I won!” “I’ve entered a few competitions before but never thought I’d actually win — then I got the call telling me I’d won a vintage Rolex Submariner 5513! The watch is absolutely stunning. It’s got that classic charm and you can feel the history in every detail. The condition is immaculate for a piece of its age. Thank you so much for the opportunity — it’s now the pride of my collection!” James Holloway Bristol, UK “Still can’t believe I won!” “I’ve entered a few competitions before but never thought I’d actually win — then I got the call telling me I’d won a vintage Rolex Submariner 5513! The watch is absolutely stunning. It’s got that classic charm and you can feel the history in every detail. The condition is immaculate for a piece of its age. Thank you so much for the opportunity — it’s now the pride of my collection!” James Holloway Bristol, UK Got more questions? Read through our FAQs page here. FAQs Page Curated by Alex Stevens ASV as seen in…",
-              "badge_price": "£20.00",
-              "badge_price_value": 20.0,
-              "draw_date": "2026-06-23",
-              "date_status": "",
-              "url": "https://thevintagewatchdraw.com/quantity-selection/?product_id=39806",
-              "priority": "Written"
-            }
-          ]
-        },
-        {
-          "site_key": "thewatchdraws",
-          "site_name": "Thewatchdraws",
-          "site_url": "https://twdcompetitions.com/",
-          "competitions": [
-            {
-              "product": "Win A Rolex Gmt Master Ii Rootbeer On Friday 19Th June",
-              "product_info": "Enter at £ 75.00 1781892000",
-              "badge_price": "£75.00",
-              "badge_price_value": 75.0,
-              "draw_date": "2026-06-19",
-              "date_status": "",
-              "url": "https://twdcompetitions.com/product/win-a-rolex-gmt-master-ii-rootbeer-on-friday-19th-june/",
-              "priority": "Ignore"
-            },
-            {
-              "product": "Win A Rolex Gmt Master Ii Bruce Wayne On Wednesday 24Th June",
-              "product_info": "Enter at £ 50.00 1782327600",
-              "badge_price": "£50.00",
-              "badge_price_value": 50.0,
-              "draw_date": "2026-06-24",
-              "date_status": "",
-              "url": "https://twdcompetitions.com/product/win-a-rolex-gmt-master-ii-bruce-wayne-on-wednesday-24th-june/",
-              "priority": "Ignore"
-            }
-          ]
-        },
-        {
-          "site_key": "toomuch",
-          "site_name": "Too Much",
-          "site_url": "https://toomuchcompetitions.co.uk/competitions-to-enter-win-cash-cars-gold-luxury-prizes/",
-          "competitions": [
-            {
-              "product": "Porsche 911 & Rolex £500K Instant Win (End Prize Up To £60,000)",
-              "product_info": "Draw Thu 9th Jul",
-              "badge_price": "£5.99",
-              "badge_price_value": 5.99,
-              "draw_date": "2026-07-09",
-              "date_status": "",
-              "url": "https://toomuchcompetitions.co.uk/competition/porsche-911-rolex-500k-instant-win-end-prize-up-to-60000/",
-              "priority": "High"
-            }
-          ]
-        },
-        {
-          "site_key": "watchesofwales",
-          "site_name": "Watchesofwales",
-          "site_url": "https://competition.watchesofwales.co.uk/",
-          "competitions": [
-            {
-              "product": "Rolex GMT Master II 'Batgirl'",
-              "product_info": "Rolex GMT Master II 'Batgirl' Rolex £ 19.99 148/1250 SOLD ENDS IN 2 D 19 H 25 M 25 S 2026-06-21 21:00",
-              "badge_price": "£19.99",
-              "badge_price_value": 19.99,
-              "draw_date": "2026-06-24",
-              "date_status": "",
-              "url": "https://competition.watchesofwales.co.uk/product/rolex-gmt-master-ii-batgirl/",
-              "priority": "Ignore"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "week_key": "2026-W26",
       "generated_at": "2026-06-28T02:06:44",
       "keyword_groups": [
@@ -3289,7 +2681,854 @@
           ]
         }
       ]
+    },
+    {
+      "week_key": "2026-W29",
+      "generated_at": "2026-07-13T03:06:53",
+      "keyword_groups": [
+        {
+          "site_key": "7daysperformance",
+          "site_name": "7daysperformance",
+          "site_url": "https://7daysperformance.co.uk/",
+          "competitions": [
+            {
+              "product": "Win This Rolex GMT Master II \"Batgirl\"!",
+              "product_info": "Just launched Win This Rolex GMT Master II \"Batgirl\"! Cash Alternative: £10,000 £0.11 sold: 2 % Enter now",
+              "badge_price": "£0.11",
+              "badge_price_value": 0.11,
+              "draw_date": "2026-07-19",
+              "date_status": "Just launched",
+              "url": "https://7daysperformance.co.uk/product/win-rolex-batgirl-190726",
+              "priority": "High"
+            }
+          ]
+        },
+        {
+          "site_key": "bonkerscompetitions",
+          "site_name": "Bonkerscompetitions",
+          "site_url": "https://bonkerscompetitions.co.uk/competitions/",
+          "competitions": [
+            {
+              "product": "2026 ROLEX YACHT-MASTER RLX TITANIUM – SUPER RARE – RSP £21,000!",
+              "product_info": "Draw Tomorrow",
+              "badge_price": "£ 30.00",
+              "badge_price_value": 30.0,
+              "draw_date": "2026-07-14",
+              "date_status": "",
+              "url": "https://bonkerscompetitions.co.uk/competition/2026-rolex-yacht-master-rlx-titanium-super-rare-rsp-21000/",
+              "priority": "Ignore"
+            },
+            {
+              "product": "WIN 10 X ROLEX YACHT-MASTER TICKETS WORTH £300 – DRAW NO.2",
+              "product_info": "Drawn When Sold Out (1 day 18 hrs 54 mins)",
+              "badge_price": "£ 0.99",
+              "badge_price_value": 0.99,
+              "draw_date": "2026-07-14",
+              "date_status": "",
+              "url": "https://bonkerscompetitions.co.uk/competition/win-10-x-rolex-yacht-master-tickets-worth-300-draw-no-2/",
+              "priority": "Ignore"
+            }
+          ]
+        },
+        {
+          "site_key": "calibreclub",
+          "site_name": "Calibreclub",
+          "site_url": "https://thecalibreclub.com/product-category/competitions/",
+          "competitions": [
+            {
+              "product": "9 Rolex references. £275,000+ in prizes. Revealed instantly at checkout.",
+              "product_info": "150,000 tickets with 75,000 instant winning positions — 1 in 2 tickets reveals a prize. Nine Rolex references head the board alongside 8 AP × Swatch Royal Pop colourways, Louis Vuitton bags, iPhone, Apple Watch, a 5g gold bar and a cash prize ladder from 50p to £1,000. 75,000 instant prizes 9 Rolex references £4.99 per entry",
+              "badge_price": "£4.99",
+              "badge_price_value": 4.99,
+              "draw_date": "2026-08-02",
+              "date_status": "",
+              "url": "https://thecalibreclub.com/competition/ultimate-rolex-draw/",
+              "priority": "Medium"
+            }
+          ]
+        },
+        {
+          "site_key": "carpgeargiveaways",
+          "site_name": "Carpgeargiveaways",
+          "site_url": "https://www.carpgeargiveaways.co.uk/",
+          "competitions": [
+            {
+              "product": "Rolex Hulk 2019 Or 10K Big Instant Wins Low Odds",
+              "product_info": "9 % 1,042 instant wins Draws Jul 30th Enter · £50.00",
+              "badge_price": "£50.00",
+              "badge_price_value": 50.0,
+              "draw_date": "",
+              "date_status": "",
+              "url": "https://carpgeargiveaways.co.uk/competition/rolex-hulk-2019-or-10k-big-instant-wins-low-odds",
+              "priority": "Written"
+            }
+          ]
+        },
+        {
+          "site_key": "carrickcompetitions",
+          "site_name": "Carrickcompetitions",
+          "site_url": "https://carrickcompetitions.co.uk/",
+          "competitions": [
+            {
+              "product": "Win This Rolex Submariner Or Ps10000 Ps50000 Instant Wins",
+              "product_info": "£0.99 Per Ticket WIN THIS ROLEX SUBMARINER OR £10,000 + £50,000 INSTANT WINS! 4% Sold",
+              "badge_price": "£0.99",
+              "badge_price_value": 0.99,
+              "draw_date": "2026-09-06",
+              "date_status": "",
+              "url": "https://carrickcompetitions.co.uk/competition/win-this-rolex-submariner-or-ps10000-ps50000-instant-wins",
+              "priority": "Ignore"
+            }
+          ]
+        },
+        {
+          "site_key": "chronowin",
+          "site_name": "ChronoWin",
+          "site_url": "https://chronowin.co.uk/",
+          "competitions": [
+            {
+              "product": "Win This ROLEX Datejust 36 ref. 16233",
+              "product_info": "Chrono Win Competitions How it works Winners 0 Collectors Watch Competition Win This ROLEX Datejust 36 ref. 16233 Time Left to End: 6 Days 20 Hrs 31 Mins 47 Secs 0.17% SOLD 599/600 Tickets Remaining Enter Now winners Year: Circa 1990's Box and papers: Original box and papers included Collectors Watch Competition - Guaranteed Winners - Transparent Draws End Date: July 19, 2026 10:00 pm - Draw Date: 19/07/2026 10:30PM Collectors Watch Competition Win a ROLEX Datejust 36 ref. 16233 ROLEX Datejust 36 ref. 16233 — a standout two-tone Datejust from one of ROLEX’s most recognisable and wearable eras. This example features the highly desirable blue vignette dial with factory diamond hour markers, a 36mm stainless steel Oyster case, 18ct yellow gold fluted bezel, sapphire crystal, Cyclops date window and the classic steel and yellow gold Jubilee bracelet. From a collector’s perspective, the dial is what sets this watch apart. Standard champagne, silver and white Datejust 16233 examples are widely seen, but the blue vignette diamond dial gives this piece a much more distinctive personality. The gradient effect, fading darker around the edge of the dial, brings serious 1990s ROLEX character and gives the watch far more presence than a standard two-tone Datejust. The 16233 also sits in an important sweet spot for collectors. It retains the classic 36mm Datejust proportions and traditional two-tone luxury aesthetic, while benefiting from modern usability features such as sapphire crystal, quickset date and the highly regarded ROLEX calibre 3135 automatic movement. This is exactly the type of Datejust collectors increasingly look for: recognisable, wearable, liquid, and with a dial configuration that makes it stand out from the ordinary examples on the market. Reference: 16233 Case size: 36mm Case: Stainless steel and 18ct yellow gold Bezel: 18ct yellow gold fluted bezel Bracelet: Steel and yellow gold Jubilee bracelet Dial: Blue vignette diamond dial Movement: ROLEX calibre 3135 automatic Crystal: Sapphire crystal Condition: Excellent Box and papers: Included A rare opportunity to enter for a characterful ROLEX Datejust 36 with one of the most eye-catching dial configurations of the five-digit era — a proper collector’s Datejust with classic two-tone ROLEX appeal. End Date: July 19, 2026 10:00 pm – Draw Date: 19/07/2026 10:30PM Time Left to End: 6 Days 20 Hrs 31 Mins 47 Secs 0.17% SOLD 599/600 Tickets Remaining 0 Tickets Sold: 1 600 0.17% 599 Tickets remaining Enter Now winners Collectors Watch Competition - Guaranteed Winners - Transparent Draws Our customers rate us Excellent 4.9 out of 5 based on 200 reviews Choose your competition Answer the question Securely checkout Wait for the winner Chronowin 4.2 6 Reviews CR CALEB RYLAND 2026-07-02 Fantastic experience form start to… Fantastic experience form start to finish! The competition was easy to enter, well organised and completely transparent throughout the whole process. While I didn’t win this time, the excitement and value for money made it well worth entering. Highly recommended TM Tom Madges 2026-07-02 Really good website Really good website, not loads of tickets for sale so there’s more chance of winning. As opposed to others selling thousands of tickets which makes your odds of winning really low KB Kamile Balciunaite 2026-07-02 Really impressed with this site Really impressed with this site. It’s simple to use, the watches are top tier, and tickets are reasonably priced plus the odds of winning are actually great. It’s 100% worth a try if you're looking to grab a luxury watch without spending a fortune ❮ ❯ Win the iconic ROLEX Datejust 36 ref. 16233 for just £19.99 Enter Now Only 600 tickets - a guaranteed winner past winners View all of our past winners, what they won and when. TUDOR BLACK BAY 58 - 21/06/2026 View Winner TUDOR PRINCE DATE - 28/06/2026 View Winner ROLEX 435 - 25/12/2024 View Winner ROLEX 435 - 25/12/2024 View Winner Shopping Cart Join our mailing list to be kept up to date on all competitions. You may opt out at any time. Terms & Conditions and Privacy Policy . Free Postal Entry Information info@chronowin.co.uk chronowin © Copyright 2026 Chrono Win – ChronoWin Limited 12 Llwynypia Road Tonypandy RCT CF40 2EL Registered in England & Wales No. 17100757 . ChronoWin is a trading name of Chrono Win Ltd. All rights reserved. Privacy Policy | T&Cs",
+              "badge_price": "£5.00",
+              "badge_price_value": 5.0,
+              "draw_date": "2026-07-19",
+              "date_status": "",
+              "url": "https://chronowin.co.uk/product/16233",
+              "priority": "Written"
+            }
+          ]
+        },
+        {
+          "site_key": "classycomps",
+          "site_name": "Classy Comps",
+          "site_url": "https://classycompetitions.co.uk/",
+          "competitions": [
+            {
+              "product": "Win the Tudor Black Bay Chrono Panda",
+              "product_info": "Value: £3,195 | Ticket Price: £20 | Year: 2024 | Draw Date: 20/07/26 | Enter premium competitions for a chance to own iconic timepieces, from Rolex to Omega, at a fraction of the retail price.",
+              "badge_price": "£20",
+              "badge_price_value": 20.0,
+              "draw_date": "2026-07-20",
+              "date_status": "",
+              "url": "https://classycompetitions.co.uk/product/2024-tudor-black-bay-chrono-panda/",
+              "priority": "Written"
+            }
+          ]
+        },
+        {
+          "site_key": "compclub",
+          "site_name": "Compclub",
+          "site_url": "https://thecompclub.co.uk/",
+          "competitions": [
+            {
+              "product": "WIN THIS ROLEX GMT-MASTER II 'ROOTBEER' Plus+ THREE bonus prizes to be won",
+              "product_info": "Featured Competition WIN THIS ROLEX GMT-MASTER II 'ROOTBEER' Plus+ THREE bonus prizes to be won WORTH £16,000 Ticket £35.00 Total 599 31 sold 568 remaining DRAW ENDS IN: 03 : 17 : 27 : 04 Days Hrs Min Sec Enter Now Guaranteed Winner Drawn Live Full Transparency",
+              "badge_price": "£35.00",
+              "badge_price_value": 35.0,
+              "draw_date": "2026-07-16",
+              "date_status": "",
+              "url": "https://thecompclub.co.uk/competition/6a47c47aa480803dbaeeb1a0",
+              "priority": "Medium"
+            }
+          ]
+        },
+        {
+          "site_key": "feelgoodcompetitions",
+          "site_name": "Feelgoodcompetitions",
+          "site_url": "https://feelgoodcompetitions.com/",
+          "competitions": [
+            {
+              "product": "Win A Stunning Rolex Submariner 40Mm For Just 50P",
+              "product_info": "Fri Jul 17th 6:30pm 4 Day 16 Hrs 43 Mins 39 Secs 21% Sold 50p per ticket Win A Stunning Rolex Submariner 40mm For Just 50p! Classic black dial bezel on stainless - 114060 ENTER NOW",
+              "badge_price": "£0.50",
+              "badge_price_value": 0.5,
+              "draw_date": "2026-07-17",
+              "date_status": "",
+              "url": "https://feelgoodcompetitions.com/competition/win-a-stunning-rolex-submariner-40mm-for-just-50p",
+              "priority": "Low"
+            }
+          ]
+        },
+        {
+          "site_key": "gloriouscomps",
+          "site_name": "Glorious Comps",
+          "site_url": "https://www.glorious.co.uk/competitions",
+          "competitions": [
+            {
+              "product": "WIN A ROLEX 'SPRITE' STYLE WALL CLOCK",
+              "product_info": "Win This Sunday | 14.0% Sold | 214 Tickets Left | Win This Sunday 06 Days 18 Hrs 37 Mins 14 Secs WIN A ROLEX 'SPRITE' STYLE WALL CLOCK 14 % Sold 214 Tickets Left £ 0.99 PER ENTRY ENTER NOW",
+              "badge_price": "£0.99",
+              "badge_price_value": 0.99,
+              "draw_date": "2026-07-19",
+              "date_status": "",
+              "url": "https://www.glorious.co.uk/competition/win-a-rolex-sprite-style-wall-clock-19",
+              "priority": "Written"
+            }
+          ]
+        },
+        {
+          "site_key": "grailwatchclub",
+          "site_name": "Grailwatchclub",
+          "site_url": "https://www.grailwatchclub.com/",
+          "competitions": [
+            {
+              "product": "Rolex Gmt Batman Or 12000 Tax Free Cash 2",
+              "product_info": "1 2 3 4 5 6 7 Win a Rolex GMT Batman or £12,000 tax free cash! Enter Now 36% sold 318 / 499 tickets remaining 2 Days : 18 Hours : 4 Mins : 46 Secs Competition Closed Join us for the live draw on Instagram – 15/07/2026 Instagram Enter Now £12,000 CASH ALT 2026 Watch Age £50 Ticket Price 499 Max. Entries 4 DAY Competition 15/07/2026 Live Draw Enter now for your chance to win a Rolex GMT-Master II \"Batman\" (126710BLNR)! Unworn 2026 full set with 5 year Rolex International Guarantee to 2031 - Or take the £12,000 tax free cash alternative! Launch 11/07/2026 > Close 15/07/2026. Good luck everyone! More Details",
+              "badge_price": "£50",
+              "badge_price_value": 50.0,
+              "draw_date": "2026-07-15",
+              "date_status": "",
+              "url": "https://www.grailwatchclub.com/product/rolex-gmt-batman-or-12000-tax-free-cash-2",
+              "priority": "Low"
+            }
+          ]
+        },
+        {
+          "site_key": "in2wincompetitions",
+          "site_name": "In2wincompetitions",
+          "site_url": "https://in2wincompetitions.com/",
+          "competitions": [
+            {
+              "product": "Rolex Yachtmaster 40 Blue Dial (RRP £12,000)",
+              "product_info": "8 / 350 2 % Draw Wed 15th Jul 2 days 19 hrs 1 min 10 secs £ 75.00 Per Entry Rolex Yachtmaster 40 Blue Dial (RRP £12,000) Cash Alternative: £8000 Enter Now",
+              "badge_price": "£75.00",
+              "badge_price_value": 75.0,
+              "draw_date": "2026-07-15",
+              "date_status": "",
+              "url": "https://in2wincompetitions.com/competition/rolex-yachtmaster-40-blue-dial-rrp-12000/",
+              "priority": "Written"
+            }
+          ]
+        },
+        {
+          "site_key": "lakedistrictgiveaways",
+          "site_name": "Lakedistrictgiveaways",
+          "site_url": "https://lakedistrictgiveaways.co.uk/",
+          "competitions": [
+            {
+              "product": "Rolex Daytona 'Panda' or £20,000 Cash",
+              "product_info": "Draw Sunday 30th Aug 2026 Rolex Daytona 'Panda' or £20,000 Cash 48 Days 20 Hours 11 Minutes 04 Seconds 1.0% £1.73 PER ENTRY ENTER TO WIN",
+              "badge_price": "£1.73",
+              "badge_price_value": 1.73,
+              "draw_date": "2026-08-30",
+              "date_status": "",
+              "url": "https://lakedistrictgiveaways.co.uk/competition/rolex-daytona-panda-or-20-000-cash",
+              "priority": "Medium"
+            }
+          ]
+        },
+        {
+          "site_key": "lancashirecompetitions",
+          "site_name": "Lancashirecompetitions",
+          "site_url": "https://lancashirecompetitions.com/",
+          "competitions": [
+            {
+              "product": "Win Ps1000 Of Rolex Tickets Instant Wins",
+              "product_info": "Sun Jul 19th 7:30pm 6 D 17 H 25 M 54 S WIN £1000 OF ROLEX TICKETS + INSTANT WINS ⌚ 1p per ticket instant-reveal! 20 Instant Wins 1 2% Sold 300,000 Quick Add View Tickets Added!",
+              "badge_price": "£0.01",
+              "badge_price_value": 0.01,
+              "draw_date": "2026-07-19",
+              "date_status": "",
+              "url": "https://lancashirecompetitions.com/competition/win-ps1000-of-rolex-tickets-instant-wins",
+              "priority": "Ignore"
+            },
+            {
+              "product": "Gold Rolex Sky Dweller",
+              "product_info": "Mon Aug 3rd 10:00pm 21 D 19 H 55 M 54 S Gold Rolex Sky-Dweller ⌚ 19p per ticket 1 8% Sold 300,000 Quick Add View Tickets Added!",
+              "badge_price": "£0.19",
+              "badge_price_value": 0.19,
+              "draw_date": "2026-08-03",
+              "date_status": "",
+              "url": "https://lancashirecompetitions.com/competition/gold-rolex-sky-dweller",
+              "priority": "Ignore"
+            }
+          ]
+        },
+        {
+          "site_key": "lockoscompetitions",
+          "site_name": "Lockoscompetitions",
+          "site_url": "https://lockoscompetitions.com/",
+          "competitions": [
+            {
+              "product": "WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS!",
+              "product_info": "Tomorrow 8:00pm WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 200 27.5% Sold 55 / 200 sold 145 left Enter Tomorrow 8:00pm LOCKOS LUCKY POP! £500 END PRIZE FOR 10P! £0.10 PER TICKET Entry £0.10 Max Tickets 78,000 Instant Wins 36 28.7% Sold 22,409 / 78,000 sold 55,591 left Enter Tue Jul 21st 8:00pm LOCKOS LUCKY ANGEL SPINS! £555 MAIN PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 48,400 Instant Wins 1005 31.0% Sold 15,005 / 48,400 sold 33,395 left Enter Tue Jul 21st 8:00pm LOCKOS CASH CANON SLOTS! £250 CASH END PRIZE! WIN UP TO £1K! £0.05 PER TICKET Entry £0.05 Max Tickets 202,000 Instant Wins 4115 9.5% Sold 19,272 / 202,000 sold 182,728 left Enter Tue Jul 21st 8:00pm WIN A METAL DETECTOR FOR £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 700 0.7% Sold 5 / 700 sold 695 left Enter Tue Jul 28th 8:00pm WIN A HOLIDAY VOUCHER OF YOUR CHOICE! £4,000 TO SPEND OR TAKE THE £3K CASH ALTERNATIVE! £0.20 PER TICKET Entry £0.20 Max Tickets 80,000 Instant Wins 2014 2.5% Sold 1,994 / 80,000 sold 78,006 left Enter Tue Jul 28th 8:00pm GRAB A GRAND! 10 £1,000 CASH INSTANT WINS TO FIND! £500 END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 210,000 Instant Wins 10 7.1% Sold 14,913 / 210,000 sold 195,087 left Enter Tue Jul 28th 8:00pm WIN A NINJA BREAKFAST BUNDLE! KETTLE, TOASTER & TOASTIE MAKER! £0.39 PER TICKET Entry £0.39 Max Tickets 999 10.9% Sold 109 / 999 sold 890 left Enter Tue Aug 4th 8:00pm WIN A NINJA FROSTVAULT FOR 49P! SUPER LOW ODDS! £0.49 PER TICKET Entry £0.49 Max Tickets 613 3.4% Sold 21 / 613 sold 592 left Enter Tue Aug 4th 8:00pm MEGA SPIN MANIA! £1,000 CASH END PRIZE! OVER £24K IN INSTANT WINS TO BE WON! £0.20 PER TICKET Entry £0.20 Max Tickets 274,000 Instant Wins 2198 1.8% Sold 4,893 / 274,000 sold 269,107 left Enter Tue Aug 4th 8:00pm BIG BASH LOCKOS CASH! WIN UP TO £1,000 CASH INSTANTLY! £0.05 PER TICKET Entry £0.05 Max Tickets 160,000 Instant Wins 426 7.7% Sold 12,296 / 160,000 sold 147,704 left Enter Tue Aug 11th 8:00pm THE ULTIMATE JACKPOT SPINS! £500 END PRIZE! 4895 INSTANT WINS! £0.02 PER TICKET Entry £0.02 Max Tickets 1,865,000 Instant Wins 4895 4.3% Sold 80,656 / 1,865,000 sold 1,784,344 left Enter Tue Aug 11th 8:00pm WIN THIS NINJA FOODi AIR FRYER! £1 PER ENTRY! LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 400 2.8% Sold 11 / 400 sold 389 left Enter Tue Aug 18th 8:00pm WIN THIS SHARK VACUUM FOR 50P! LOW ODDS! £0.50 PER TICKET Entry £0.50 Max Tickets 800 4.6% Sold 37 / 800 sold 763 left Enter Tue Aug 18th 8:00pm LOCKOS LUCKY GEM HUNT! OVER £20,000 IN PRIZES TO BE WON! £1K END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 414,000 Instant Wins 2165 1.8% Sold 7,518 / 414,000 sold 406,482 left Enter Tue Aug 25th 8:00pm £1 PRIZE EVERY TIME! £500 END PRIZE! 94,000+ PRIZES! £1.00 PER TICKET Entry £1.00 Max Tickets 94,065 Instant Wins 94065 5.5% Sold 5,175 / 94,065 sold 88,890 left Enter Tue Aug 25th 8:00pm WIN A DJI LITO 1 DRONE WITH RC-N3 CONTROLLER! £0.10 PER TICKET Entry £0.10 Max Tickets 6,000 1.6% Sold 97 / 6,000 sold 5,903 left Enter Tue Sep 1st 8:00pm WIN A SHARK 2 IN 1 VACUUM & MOP! 600 TICKET MAX! £0.99 PER TICKET Entry £0.99 Max Tickets 600 3.2% Sold 19 / 600 sold 581 left Enter Tue Sep 1st 8:00pm WIN A WOMENS ROLEX DATE JUST WATCH WITH BOX & PAPERS! 3,400 INSTANT WINS! £0.20 PER TICKET Entry £0.20 Max Tickets 115,050 Instant Wins 3400 1.9% Sold 2,143 / 115,050 sold 112,907 left Enter Tue Sep 29th 8:00pm MERCEDES BENZ A CLASS FOR 30P! WITH £15,000 IN INSTANT WINS TO BE WON! £0.30 PER TICKET Entry £0.30 Max Tickets 200,000 Instant Wins 35 2.3% Sold 4,680 / 200,000 sold 195,320 left Enter Tue Oct 6th 8:00pm COME & WIN A SHARE OF A QUARTER OF A MILLON POUND! £10,000 END PRIZE! £0.15 PER TICKET Entry £0.15 Max Tickets 3,750,000 Instant Wins 1242 0.2% Sold 6,401 / 3,750,000 sold 3,743,599 left Enter",
+              "badge_price": "£1",
+              "badge_price_value": 1.0,
+              "draw_date": "2026-07-14",
+              "date_status": "",
+              "url": "https://lockoscompetitions.com/competition/win-a-ninja-jucier-for-just-ps1-super-low-odds",
+              "priority": "Ignore"
+            },
+            {
+              "product": "WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS!",
+              "product_info": "Tomorrow 8:00pm WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 200 27.5% Sold 55 / 200 sold 145 left Enter Tomorrow 8:00pm LOCKOS LUCKY POP! £500 END PRIZE FOR 10P! £0.10 PER TICKET Entry £0.10 Max Tickets 78,000 Instant Wins 36 28.7% Sold 22,409 / 78,000 sold 55,591 left Enter Tue Jul 21st 8:00pm LOCKOS LUCKY ANGEL SPINS! £555 MAIN PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 48,400 Instant Wins 1005 31.0% Sold 15,005 / 48,400 sold 33,395 left Enter Tue Jul 21st 8:00pm LOCKOS CASH CANON SLOTS! £250 CASH END PRIZE! WIN UP TO £1K! £0.05 PER TICKET Entry £0.05 Max Tickets 202,000 Instant Wins 4115 9.5% Sold 19,272 / 202,000 sold 182,728 left Enter Tue Jul 21st 8:00pm WIN A METAL DETECTOR FOR £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 700 0.7% Sold 5 / 700 sold 695 left Enter Tue Jul 28th 8:00pm WIN A HOLIDAY VOUCHER OF YOUR CHOICE! £4,000 TO SPEND OR TAKE THE £3K CASH ALTERNATIVE! £0.20 PER TICKET Entry £0.20 Max Tickets 80,000 Instant Wins 2014 2.5% Sold 1,994 / 80,000 sold 78,006 left Enter Tue Jul 28th 8:00pm GRAB A GRAND! 10 £1,000 CASH INSTANT WINS TO FIND! £500 END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 210,000 Instant Wins 10 7.1% Sold 14,913 / 210,000 sold 195,087 left Enter Tue Jul 28th 8:00pm WIN A NINJA BREAKFAST BUNDLE! KETTLE, TOASTER & TOASTIE MAKER! £0.39 PER TICKET Entry £0.39 Max Tickets 999 10.9% Sold 109 / 999 sold 890 left Enter Tue Aug 4th 8:00pm WIN A NINJA FROSTVAULT FOR 49P! SUPER LOW ODDS! £0.49 PER TICKET Entry £0.49 Max Tickets 613 3.4% Sold 21 / 613 sold 592 left Enter Tue Aug 4th 8:00pm MEGA SPIN MANIA! £1,000 CASH END PRIZE! OVER £24K IN INSTANT WINS TO BE WON! £0.20 PER TICKET Entry £0.20 Max Tickets 274,000 Instant Wins 2198 1.8% Sold 4,893 / 274,000 sold 269,107 left Enter Tue Aug 4th 8:00pm BIG BASH LOCKOS CASH! WIN UP TO £1,000 CASH INSTANTLY! £0.05 PER TICKET Entry £0.05 Max Tickets 160,000 Instant Wins 426 7.7% Sold 12,296 / 160,000 sold 147,704 left Enter Tue Aug 11th 8:00pm THE ULTIMATE JACKPOT SPINS! £500 END PRIZE! 4895 INSTANT WINS! £0.02 PER TICKET Entry £0.02 Max Tickets 1,865,000 Instant Wins 4895 4.3% Sold 80,656 / 1,865,000 sold 1,784,344 left Enter Tue Aug 11th 8:00pm WIN THIS NINJA FOODi AIR FRYER! £1 PER ENTRY! LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 400 2.8% Sold 11 / 400 sold 389 left Enter Tue Aug 18th 8:00pm WIN THIS SHARK VACUUM FOR 50P! LOW ODDS! £0.50 PER TICKET Entry £0.50 Max Tickets 800 4.6% Sold 37 / 800 sold 763 left Enter Tue Aug 18th 8:00pm LOCKOS LUCKY GEM HUNT! OVER £20,000 IN PRIZES TO BE WON! £1K END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 414,000 Instant Wins 2165 1.8% Sold 7,518 / 414,000 sold 406,482 left Enter Tue Aug 25th 8:00pm £1 PRIZE EVERY TIME! £500 END PRIZE! 94,000+ PRIZES! £1.00 PER TICKET Entry £1.00 Max Tickets 94,065 Instant Wins 94065 5.5% Sold 5,175 / 94,065 sold 88,890 left Enter Tue Aug 25th 8:00pm WIN A DJI LITO 1 DRONE WITH RC-N3 CONTROLLER! £0.10 PER TICKET Entry £0.10 Max Tickets 6,000 1.6% Sold 97 / 6,000 sold 5,903 left Enter Tue Sep 1st 8:00pm WIN A SHARK 2 IN 1 VACUUM & MOP! 600 TICKET MAX! £0.99 PER TICKET Entry £0.99 Max Tickets 600 3.2% Sold 19 / 600 sold 581 left Enter Tue Sep 1st 8:00pm WIN A WOMENS ROLEX DATE JUST WATCH WITH BOX & PAPERS! 3,400 INSTANT WINS! £0.20 PER TICKET Entry £0.20 Max Tickets 115,050 Instant Wins 3400 1.9% Sold 2,143 / 115,050 sold 112,907 left Enter Tue Sep 29th 8:00pm MERCEDES BENZ A CLASS FOR 30P! WITH £15,000 IN INSTANT WINS TO BE WON! £0.30 PER TICKET Entry £0.30 Max Tickets 200,000 Instant Wins 35 2.3% Sold 4,680 / 200,000 sold 195,320 left Enter Tue Oct 6th 8:00pm COME & WIN A SHARE OF A QUARTER OF A MILLON POUND! £10,000 END PRIZE! £0.15 PER TICKET Entry £0.15 Max Tickets 3,750,000 Instant Wins 1242 0.2% Sold 6,401 / 3,750,000 sold 3,743,599 left Enter",
+              "badge_price": "£1",
+              "badge_price_value": 1.0,
+              "draw_date": "2026-07-14",
+              "date_status": "",
+              "url": "https://lockoscompetitions.com/competition/lockos-lucky-pop-ps500-end-prize-for-10p",
+              "priority": "Ignore"
+            },
+            {
+              "product": "WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS!",
+              "product_info": "Tomorrow 8:00pm WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 200 27.5% Sold 55 / 200 sold 145 left Enter Tomorrow 8:00pm LOCKOS LUCKY POP! £500 END PRIZE FOR 10P! £0.10 PER TICKET Entry £0.10 Max Tickets 78,000 Instant Wins 36 28.7% Sold 22,409 / 78,000 sold 55,591 left Enter Tue Jul 21st 8:00pm LOCKOS LUCKY ANGEL SPINS! £555 MAIN PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 48,400 Instant Wins 1005 31.0% Sold 15,005 / 48,400 sold 33,395 left Enter Tue Jul 21st 8:00pm LOCKOS CASH CANON SLOTS! £250 CASH END PRIZE! WIN UP TO £1K! £0.05 PER TICKET Entry £0.05 Max Tickets 202,000 Instant Wins 4115 9.5% Sold 19,272 / 202,000 sold 182,728 left Enter Tue Jul 21st 8:00pm WIN A METAL DETECTOR FOR £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 700 0.7% Sold 5 / 700 sold 695 left Enter Tue Jul 28th 8:00pm WIN A HOLIDAY VOUCHER OF YOUR CHOICE! £4,000 TO SPEND OR TAKE THE £3K CASH ALTERNATIVE! £0.20 PER TICKET Entry £0.20 Max Tickets 80,000 Instant Wins 2014 2.5% Sold 1,994 / 80,000 sold 78,006 left Enter Tue Jul 28th 8:00pm GRAB A GRAND! 10 £1,000 CASH INSTANT WINS TO FIND! £500 END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 210,000 Instant Wins 10 7.1% Sold 14,913 / 210,000 sold 195,087 left Enter Tue Jul 28th 8:00pm WIN A NINJA BREAKFAST BUNDLE! KETTLE, TOASTER & TOASTIE MAKER! £0.39 PER TICKET Entry £0.39 Max Tickets 999 10.9% Sold 109 / 999 sold 890 left Enter Tue Aug 4th 8:00pm WIN A NINJA FROSTVAULT FOR 49P! SUPER LOW ODDS! £0.49 PER TICKET Entry £0.49 Max Tickets 613 3.4% Sold 21 / 613 sold 592 left Enter Tue Aug 4th 8:00pm MEGA SPIN MANIA! £1,000 CASH END PRIZE! OVER £24K IN INSTANT WINS TO BE WON! £0.20 PER TICKET Entry £0.20 Max Tickets 274,000 Instant Wins 2198 1.8% Sold 4,893 / 274,000 sold 269,107 left Enter Tue Aug 4th 8:00pm BIG BASH LOCKOS CASH! WIN UP TO £1,000 CASH INSTANTLY! £0.05 PER TICKET Entry £0.05 Max Tickets 160,000 Instant Wins 426 7.7% Sold 12,296 / 160,000 sold 147,704 left Enter Tue Aug 11th 8:00pm THE ULTIMATE JACKPOT SPINS! £500 END PRIZE! 4895 INSTANT WINS! £0.02 PER TICKET Entry £0.02 Max Tickets 1,865,000 Instant Wins 4895 4.3% Sold 80,656 / 1,865,000 sold 1,784,344 left Enter Tue Aug 11th 8:00pm WIN THIS NINJA FOODi AIR FRYER! £1 PER ENTRY! LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 400 2.8% Sold 11 / 400 sold 389 left Enter Tue Aug 18th 8:00pm WIN THIS SHARK VACUUM FOR 50P! LOW ODDS! £0.50 PER TICKET Entry £0.50 Max Tickets 800 4.6% Sold 37 / 800 sold 763 left Enter Tue Aug 18th 8:00pm LOCKOS LUCKY GEM HUNT! OVER £20,000 IN PRIZES TO BE WON! £1K END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 414,000 Instant Wins 2165 1.8% Sold 7,518 / 414,000 sold 406,482 left Enter Tue Aug 25th 8:00pm £1 PRIZE EVERY TIME! £500 END PRIZE! 94,000+ PRIZES! £1.00 PER TICKET Entry £1.00 Max Tickets 94,065 Instant Wins 94065 5.5% Sold 5,175 / 94,065 sold 88,890 left Enter Tue Aug 25th 8:00pm WIN A DJI LITO 1 DRONE WITH RC-N3 CONTROLLER! £0.10 PER TICKET Entry £0.10 Max Tickets 6,000 1.6% Sold 97 / 6,000 sold 5,903 left Enter Tue Sep 1st 8:00pm WIN A SHARK 2 IN 1 VACUUM & MOP! 600 TICKET MAX! £0.99 PER TICKET Entry £0.99 Max Tickets 600 3.2% Sold 19 / 600 sold 581 left Enter Tue Sep 1st 8:00pm WIN A WOMENS ROLEX DATE JUST WATCH WITH BOX & PAPERS! 3,400 INSTANT WINS! £0.20 PER TICKET Entry £0.20 Max Tickets 115,050 Instant Wins 3400 1.9% Sold 2,143 / 115,050 sold 112,907 left Enter Tue Sep 29th 8:00pm MERCEDES BENZ A CLASS FOR 30P! WITH £15,000 IN INSTANT WINS TO BE WON! £0.30 PER TICKET Entry £0.30 Max Tickets 200,000 Instant Wins 35 2.3% Sold 4,680 / 200,000 sold 195,320 left Enter Tue Oct 6th 8:00pm COME & WIN A SHARE OF A QUARTER OF A MILLON POUND! £10,000 END PRIZE! £0.15 PER TICKET Entry £0.15 Max Tickets 3,750,000 Instant Wins 1242 0.2% Sold 6,401 / 3,750,000 sold 3,743,599 left Enter",
+              "badge_price": "£1",
+              "badge_price_value": 1.0,
+              "draw_date": "2026-07-14",
+              "date_status": "",
+              "url": "https://lockoscompetitions.com/competition/lockos-lucky-angel-spins-ps555-main-prize",
+              "priority": "Ignore"
+            },
+            {
+              "product": "WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS!",
+              "product_info": "Tomorrow 8:00pm WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 200 27.5% Sold 55 / 200 sold 145 left Enter Tomorrow 8:00pm LOCKOS LUCKY POP! £500 END PRIZE FOR 10P! £0.10 PER TICKET Entry £0.10 Max Tickets 78,000 Instant Wins 36 28.7% Sold 22,409 / 78,000 sold 55,591 left Enter Tue Jul 21st 8:00pm LOCKOS LUCKY ANGEL SPINS! £555 MAIN PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 48,400 Instant Wins 1005 31.0% Sold 15,005 / 48,400 sold 33,395 left Enter Tue Jul 21st 8:00pm LOCKOS CASH CANON SLOTS! £250 CASH END PRIZE! WIN UP TO £1K! £0.05 PER TICKET Entry £0.05 Max Tickets 202,000 Instant Wins 4115 9.5% Sold 19,272 / 202,000 sold 182,728 left Enter Tue Jul 21st 8:00pm WIN A METAL DETECTOR FOR £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 700 0.7% Sold 5 / 700 sold 695 left Enter Tue Jul 28th 8:00pm WIN A HOLIDAY VOUCHER OF YOUR CHOICE! £4,000 TO SPEND OR TAKE THE £3K CASH ALTERNATIVE! £0.20 PER TICKET Entry £0.20 Max Tickets 80,000 Instant Wins 2014 2.5% Sold 1,994 / 80,000 sold 78,006 left Enter Tue Jul 28th 8:00pm GRAB A GRAND! 10 £1,000 CASH INSTANT WINS TO FIND! £500 END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 210,000 Instant Wins 10 7.1% Sold 14,913 / 210,000 sold 195,087 left Enter Tue Jul 28th 8:00pm WIN A NINJA BREAKFAST BUNDLE! KETTLE, TOASTER & TOASTIE MAKER! £0.39 PER TICKET Entry £0.39 Max Tickets 999 10.9% Sold 109 / 999 sold 890 left Enter Tue Aug 4th 8:00pm WIN A NINJA FROSTVAULT FOR 49P! SUPER LOW ODDS! £0.49 PER TICKET Entry £0.49 Max Tickets 613 3.4% Sold 21 / 613 sold 592 left Enter Tue Aug 4th 8:00pm MEGA SPIN MANIA! £1,000 CASH END PRIZE! OVER £24K IN INSTANT WINS TO BE WON! £0.20 PER TICKET Entry £0.20 Max Tickets 274,000 Instant Wins 2198 1.8% Sold 4,893 / 274,000 sold 269,107 left Enter Tue Aug 4th 8:00pm BIG BASH LOCKOS CASH! WIN UP TO £1,000 CASH INSTANTLY! £0.05 PER TICKET Entry £0.05 Max Tickets 160,000 Instant Wins 426 7.7% Sold 12,296 / 160,000 sold 147,704 left Enter Tue Aug 11th 8:00pm THE ULTIMATE JACKPOT SPINS! £500 END PRIZE! 4895 INSTANT WINS! £0.02 PER TICKET Entry £0.02 Max Tickets 1,865,000 Instant Wins 4895 4.3% Sold 80,656 / 1,865,000 sold 1,784,344 left Enter Tue Aug 11th 8:00pm WIN THIS NINJA FOODi AIR FRYER! £1 PER ENTRY! LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 400 2.8% Sold 11 / 400 sold 389 left Enter Tue Aug 18th 8:00pm WIN THIS SHARK VACUUM FOR 50P! LOW ODDS! £0.50 PER TICKET Entry £0.50 Max Tickets 800 4.6% Sold 37 / 800 sold 763 left Enter Tue Aug 18th 8:00pm LOCKOS LUCKY GEM HUNT! OVER £20,000 IN PRIZES TO BE WON! £1K END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 414,000 Instant Wins 2165 1.8% Sold 7,518 / 414,000 sold 406,482 left Enter Tue Aug 25th 8:00pm £1 PRIZE EVERY TIME! £500 END PRIZE! 94,000+ PRIZES! £1.00 PER TICKET Entry £1.00 Max Tickets 94,065 Instant Wins 94065 5.5% Sold 5,175 / 94,065 sold 88,890 left Enter Tue Aug 25th 8:00pm WIN A DJI LITO 1 DRONE WITH RC-N3 CONTROLLER! £0.10 PER TICKET Entry £0.10 Max Tickets 6,000 1.6% Sold 97 / 6,000 sold 5,903 left Enter Tue Sep 1st 8:00pm WIN A SHARK 2 IN 1 VACUUM & MOP! 600 TICKET MAX! £0.99 PER TICKET Entry £0.99 Max Tickets 600 3.2% Sold 19 / 600 sold 581 left Enter Tue Sep 1st 8:00pm WIN A WOMENS ROLEX DATE JUST WATCH WITH BOX & PAPERS! 3,400 INSTANT WINS! £0.20 PER TICKET Entry £0.20 Max Tickets 115,050 Instant Wins 3400 1.9% Sold 2,143 / 115,050 sold 112,907 left Enter Tue Sep 29th 8:00pm MERCEDES BENZ A CLASS FOR 30P! WITH £15,000 IN INSTANT WINS TO BE WON! £0.30 PER TICKET Entry £0.30 Max Tickets 200,000 Instant Wins 35 2.3% Sold 4,680 / 200,000 sold 195,320 left Enter Tue Oct 6th 8:00pm COME & WIN A SHARE OF A QUARTER OF A MILLON POUND! £10,000 END PRIZE! £0.15 PER TICKET Entry £0.15 Max Tickets 3,750,000 Instant Wins 1242 0.2% Sold 6,401 / 3,750,000 sold 3,743,599 left Enter",
+              "badge_price": "£1",
+              "badge_price_value": 1.0,
+              "draw_date": "2026-07-14",
+              "date_status": "",
+              "url": "https://lockoscompetitions.com/competition/win-a-metal-detector-for-ps1-super-low-odds",
+              "priority": "Ignore"
+            },
+            {
+              "product": "WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS!",
+              "product_info": "Tomorrow 8:00pm WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 200 27.5% Sold 55 / 200 sold 145 left Enter Tomorrow 8:00pm LOCKOS LUCKY POP! £500 END PRIZE FOR 10P! £0.10 PER TICKET Entry £0.10 Max Tickets 78,000 Instant Wins 36 28.7% Sold 22,409 / 78,000 sold 55,591 left Enter Tue Jul 21st 8:00pm LOCKOS LUCKY ANGEL SPINS! £555 MAIN PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 48,400 Instant Wins 1005 31.0% Sold 15,005 / 48,400 sold 33,395 left Enter Tue Jul 21st 8:00pm LOCKOS CASH CANON SLOTS! £250 CASH END PRIZE! WIN UP TO £1K! £0.05 PER TICKET Entry £0.05 Max Tickets 202,000 Instant Wins 4115 9.5% Sold 19,272 / 202,000 sold 182,728 left Enter Tue Jul 21st 8:00pm WIN A METAL DETECTOR FOR £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 700 0.7% Sold 5 / 700 sold 695 left Enter Tue Jul 28th 8:00pm WIN A HOLIDAY VOUCHER OF YOUR CHOICE! £4,000 TO SPEND OR TAKE THE £3K CASH ALTERNATIVE! £0.20 PER TICKET Entry £0.20 Max Tickets 80,000 Instant Wins 2014 2.5% Sold 1,994 / 80,000 sold 78,006 left Enter Tue Jul 28th 8:00pm GRAB A GRAND! 10 £1,000 CASH INSTANT WINS TO FIND! £500 END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 210,000 Instant Wins 10 7.1% Sold 14,913 / 210,000 sold 195,087 left Enter Tue Jul 28th 8:00pm WIN A NINJA BREAKFAST BUNDLE! KETTLE, TOASTER & TOASTIE MAKER! £0.39 PER TICKET Entry £0.39 Max Tickets 999 10.9% Sold 109 / 999 sold 890 left Enter Tue Aug 4th 8:00pm WIN A NINJA FROSTVAULT FOR 49P! SUPER LOW ODDS! £0.49 PER TICKET Entry £0.49 Max Tickets 613 3.4% Sold 21 / 613 sold 592 left Enter Tue Aug 4th 8:00pm MEGA SPIN MANIA! £1,000 CASH END PRIZE! OVER £24K IN INSTANT WINS TO BE WON! £0.20 PER TICKET Entry £0.20 Max Tickets 274,000 Instant Wins 2198 1.8% Sold 4,893 / 274,000 sold 269,107 left Enter Tue Aug 4th 8:00pm BIG BASH LOCKOS CASH! WIN UP TO £1,000 CASH INSTANTLY! £0.05 PER TICKET Entry £0.05 Max Tickets 160,000 Instant Wins 426 7.7% Sold 12,296 / 160,000 sold 147,704 left Enter Tue Aug 11th 8:00pm THE ULTIMATE JACKPOT SPINS! £500 END PRIZE! 4895 INSTANT WINS! £0.02 PER TICKET Entry £0.02 Max Tickets 1,865,000 Instant Wins 4895 4.3% Sold 80,656 / 1,865,000 sold 1,784,344 left Enter Tue Aug 11th 8:00pm WIN THIS NINJA FOODi AIR FRYER! £1 PER ENTRY! LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 400 2.8% Sold 11 / 400 sold 389 left Enter Tue Aug 18th 8:00pm WIN THIS SHARK VACUUM FOR 50P! LOW ODDS! £0.50 PER TICKET Entry £0.50 Max Tickets 800 4.6% Sold 37 / 800 sold 763 left Enter Tue Aug 18th 8:00pm LOCKOS LUCKY GEM HUNT! OVER £20,000 IN PRIZES TO BE WON! £1K END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 414,000 Instant Wins 2165 1.8% Sold 7,518 / 414,000 sold 406,482 left Enter Tue Aug 25th 8:00pm £1 PRIZE EVERY TIME! £500 END PRIZE! 94,000+ PRIZES! £1.00 PER TICKET Entry £1.00 Max Tickets 94,065 Instant Wins 94065 5.5% Sold 5,175 / 94,065 sold 88,890 left Enter Tue Aug 25th 8:00pm WIN A DJI LITO 1 DRONE WITH RC-N3 CONTROLLER! £0.10 PER TICKET Entry £0.10 Max Tickets 6,000 1.6% Sold 97 / 6,000 sold 5,903 left Enter Tue Sep 1st 8:00pm WIN A SHARK 2 IN 1 VACUUM & MOP! 600 TICKET MAX! £0.99 PER TICKET Entry £0.99 Max Tickets 600 3.2% Sold 19 / 600 sold 581 left Enter Tue Sep 1st 8:00pm WIN A WOMENS ROLEX DATE JUST WATCH WITH BOX & PAPERS! 3,400 INSTANT WINS! £0.20 PER TICKET Entry £0.20 Max Tickets 115,050 Instant Wins 3400 1.9% Sold 2,143 / 115,050 sold 112,907 left Enter Tue Sep 29th 8:00pm MERCEDES BENZ A CLASS FOR 30P! WITH £15,000 IN INSTANT WINS TO BE WON! £0.30 PER TICKET Entry £0.30 Max Tickets 200,000 Instant Wins 35 2.3% Sold 4,680 / 200,000 sold 195,320 left Enter Tue Oct 6th 8:00pm COME & WIN A SHARE OF A QUARTER OF A MILLON POUND! £10,000 END PRIZE! £0.15 PER TICKET Entry £0.15 Max Tickets 3,750,000 Instant Wins 1242 0.2% Sold 6,401 / 3,750,000 sold 3,743,599 left Enter",
+              "badge_price": "£1",
+              "badge_price_value": 1.0,
+              "draw_date": "2026-07-14",
+              "date_status": "",
+              "url": "https://lockoscompetitions.com/competition/win-a-holiday-voucher-of-your-choice-ps4000-to-spend-or-take-the-ps3k-cash",
+              "priority": "Ignore"
+            },
+            {
+              "product": "WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS!",
+              "product_info": "Tomorrow 8:00pm WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 200 27.5% Sold 55 / 200 sold 145 left Enter Tomorrow 8:00pm LOCKOS LUCKY POP! £500 END PRIZE FOR 10P! £0.10 PER TICKET Entry £0.10 Max Tickets 78,000 Instant Wins 36 28.7% Sold 22,409 / 78,000 sold 55,591 left Enter Tue Jul 21st 8:00pm LOCKOS LUCKY ANGEL SPINS! £555 MAIN PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 48,400 Instant Wins 1005 31.0% Sold 15,005 / 48,400 sold 33,395 left Enter Tue Jul 21st 8:00pm LOCKOS CASH CANON SLOTS! £250 CASH END PRIZE! WIN UP TO £1K! £0.05 PER TICKET Entry £0.05 Max Tickets 202,000 Instant Wins 4115 9.5% Sold 19,272 / 202,000 sold 182,728 left Enter Tue Jul 21st 8:00pm WIN A METAL DETECTOR FOR £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 700 0.7% Sold 5 / 700 sold 695 left Enter Tue Jul 28th 8:00pm WIN A HOLIDAY VOUCHER OF YOUR CHOICE! £4,000 TO SPEND OR TAKE THE £3K CASH ALTERNATIVE! £0.20 PER TICKET Entry £0.20 Max Tickets 80,000 Instant Wins 2014 2.5% Sold 1,994 / 80,000 sold 78,006 left Enter Tue Jul 28th 8:00pm GRAB A GRAND! 10 £1,000 CASH INSTANT WINS TO FIND! £500 END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 210,000 Instant Wins 10 7.1% Sold 14,913 / 210,000 sold 195,087 left Enter Tue Jul 28th 8:00pm WIN A NINJA BREAKFAST BUNDLE! KETTLE, TOASTER & TOASTIE MAKER! £0.39 PER TICKET Entry £0.39 Max Tickets 999 10.9% Sold 109 / 999 sold 890 left Enter Tue Aug 4th 8:00pm WIN A NINJA FROSTVAULT FOR 49P! SUPER LOW ODDS! £0.49 PER TICKET Entry £0.49 Max Tickets 613 3.4% Sold 21 / 613 sold 592 left Enter Tue Aug 4th 8:00pm MEGA SPIN MANIA! £1,000 CASH END PRIZE! OVER £24K IN INSTANT WINS TO BE WON! £0.20 PER TICKET Entry £0.20 Max Tickets 274,000 Instant Wins 2198 1.8% Sold 4,893 / 274,000 sold 269,107 left Enter Tue Aug 4th 8:00pm BIG BASH LOCKOS CASH! WIN UP TO £1,000 CASH INSTANTLY! £0.05 PER TICKET Entry £0.05 Max Tickets 160,000 Instant Wins 426 7.7% Sold 12,296 / 160,000 sold 147,704 left Enter Tue Aug 11th 8:00pm THE ULTIMATE JACKPOT SPINS! £500 END PRIZE! 4895 INSTANT WINS! £0.02 PER TICKET Entry £0.02 Max Tickets 1,865,000 Instant Wins 4895 4.3% Sold 80,656 / 1,865,000 sold 1,784,344 left Enter Tue Aug 11th 8:00pm WIN THIS NINJA FOODi AIR FRYER! £1 PER ENTRY! LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 400 2.8% Sold 11 / 400 sold 389 left Enter Tue Aug 18th 8:00pm WIN THIS SHARK VACUUM FOR 50P! LOW ODDS! £0.50 PER TICKET Entry £0.50 Max Tickets 800 4.6% Sold 37 / 800 sold 763 left Enter Tue Aug 18th 8:00pm LOCKOS LUCKY GEM HUNT! OVER £20,000 IN PRIZES TO BE WON! £1K END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 414,000 Instant Wins 2165 1.8% Sold 7,518 / 414,000 sold 406,482 left Enter Tue Aug 25th 8:00pm £1 PRIZE EVERY TIME! £500 END PRIZE! 94,000+ PRIZES! £1.00 PER TICKET Entry £1.00 Max Tickets 94,065 Instant Wins 94065 5.5% Sold 5,175 / 94,065 sold 88,890 left Enter Tue Aug 25th 8:00pm WIN A DJI LITO 1 DRONE WITH RC-N3 CONTROLLER! £0.10 PER TICKET Entry £0.10 Max Tickets 6,000 1.6% Sold 97 / 6,000 sold 5,903 left Enter Tue Sep 1st 8:00pm WIN A SHARK 2 IN 1 VACUUM & MOP! 600 TICKET MAX! £0.99 PER TICKET Entry £0.99 Max Tickets 600 3.2% Sold 19 / 600 sold 581 left Enter Tue Sep 1st 8:00pm WIN A WOMENS ROLEX DATE JUST WATCH WITH BOX & PAPERS! 3,400 INSTANT WINS! £0.20 PER TICKET Entry £0.20 Max Tickets 115,050 Instant Wins 3400 1.9% Sold 2,143 / 115,050 sold 112,907 left Enter Tue Sep 29th 8:00pm MERCEDES BENZ A CLASS FOR 30P! WITH £15,000 IN INSTANT WINS TO BE WON! £0.30 PER TICKET Entry £0.30 Max Tickets 200,000 Instant Wins 35 2.3% Sold 4,680 / 200,000 sold 195,320 left Enter Tue Oct 6th 8:00pm COME & WIN A SHARE OF A QUARTER OF A MILLON POUND! £10,000 END PRIZE! £0.15 PER TICKET Entry £0.15 Max Tickets 3,750,000 Instant Wins 1242 0.2% Sold 6,401 / 3,750,000 sold 3,743,599 left Enter",
+              "badge_price": "£1",
+              "badge_price_value": 1.0,
+              "draw_date": "2026-07-14",
+              "date_status": "",
+              "url": "https://lockoscompetitions.com/competition/grab-a-grand-10-ps1000-cash-instant-wins-to-find-ps500-end-prize",
+              "priority": "Ignore"
+            },
+            {
+              "product": "WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS!",
+              "product_info": "Tomorrow 8:00pm WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 200 27.5% Sold 55 / 200 sold 145 left Enter Tomorrow 8:00pm LOCKOS LUCKY POP! £500 END PRIZE FOR 10P! £0.10 PER TICKET Entry £0.10 Max Tickets 78,000 Instant Wins 36 28.7% Sold 22,409 / 78,000 sold 55,591 left Enter Tue Jul 21st 8:00pm LOCKOS LUCKY ANGEL SPINS! £555 MAIN PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 48,400 Instant Wins 1005 31.0% Sold 15,005 / 48,400 sold 33,395 left Enter Tue Jul 21st 8:00pm LOCKOS CASH CANON SLOTS! £250 CASH END PRIZE! WIN UP TO £1K! £0.05 PER TICKET Entry £0.05 Max Tickets 202,000 Instant Wins 4115 9.5% Sold 19,272 / 202,000 sold 182,728 left Enter Tue Jul 21st 8:00pm WIN A METAL DETECTOR FOR £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 700 0.7% Sold 5 / 700 sold 695 left Enter Tue Jul 28th 8:00pm WIN A HOLIDAY VOUCHER OF YOUR CHOICE! £4,000 TO SPEND OR TAKE THE £3K CASH ALTERNATIVE! £0.20 PER TICKET Entry £0.20 Max Tickets 80,000 Instant Wins 2014 2.5% Sold 1,994 / 80,000 sold 78,006 left Enter Tue Jul 28th 8:00pm GRAB A GRAND! 10 £1,000 CASH INSTANT WINS TO FIND! £500 END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 210,000 Instant Wins 10 7.1% Sold 14,913 / 210,000 sold 195,087 left Enter Tue Jul 28th 8:00pm WIN A NINJA BREAKFAST BUNDLE! KETTLE, TOASTER & TOASTIE MAKER! £0.39 PER TICKET Entry £0.39 Max Tickets 999 10.9% Sold 109 / 999 sold 890 left Enter Tue Aug 4th 8:00pm WIN A NINJA FROSTVAULT FOR 49P! SUPER LOW ODDS! £0.49 PER TICKET Entry £0.49 Max Tickets 613 3.4% Sold 21 / 613 sold 592 left Enter Tue Aug 4th 8:00pm MEGA SPIN MANIA! £1,000 CASH END PRIZE! OVER £24K IN INSTANT WINS TO BE WON! £0.20 PER TICKET Entry £0.20 Max Tickets 274,000 Instant Wins 2198 1.8% Sold 4,893 / 274,000 sold 269,107 left Enter Tue Aug 4th 8:00pm BIG BASH LOCKOS CASH! WIN UP TO £1,000 CASH INSTANTLY! £0.05 PER TICKET Entry £0.05 Max Tickets 160,000 Instant Wins 426 7.7% Sold 12,296 / 160,000 sold 147,704 left Enter Tue Aug 11th 8:00pm THE ULTIMATE JACKPOT SPINS! £500 END PRIZE! 4895 INSTANT WINS! £0.02 PER TICKET Entry £0.02 Max Tickets 1,865,000 Instant Wins 4895 4.3% Sold 80,656 / 1,865,000 sold 1,784,344 left Enter Tue Aug 11th 8:00pm WIN THIS NINJA FOODi AIR FRYER! £1 PER ENTRY! LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 400 2.8% Sold 11 / 400 sold 389 left Enter Tue Aug 18th 8:00pm WIN THIS SHARK VACUUM FOR 50P! LOW ODDS! £0.50 PER TICKET Entry £0.50 Max Tickets 800 4.6% Sold 37 / 800 sold 763 left Enter Tue Aug 18th 8:00pm LOCKOS LUCKY GEM HUNT! OVER £20,000 IN PRIZES TO BE WON! £1K END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 414,000 Instant Wins 2165 1.8% Sold 7,518 / 414,000 sold 406,482 left Enter Tue Aug 25th 8:00pm £1 PRIZE EVERY TIME! £500 END PRIZE! 94,000+ PRIZES! £1.00 PER TICKET Entry £1.00 Max Tickets 94,065 Instant Wins 94065 5.5% Sold 5,175 / 94,065 sold 88,890 left Enter Tue Aug 25th 8:00pm WIN A DJI LITO 1 DRONE WITH RC-N3 CONTROLLER! £0.10 PER TICKET Entry £0.10 Max Tickets 6,000 1.6% Sold 97 / 6,000 sold 5,903 left Enter Tue Sep 1st 8:00pm WIN A SHARK 2 IN 1 VACUUM & MOP! 600 TICKET MAX! £0.99 PER TICKET Entry £0.99 Max Tickets 600 3.2% Sold 19 / 600 sold 581 left Enter Tue Sep 1st 8:00pm WIN A WOMENS ROLEX DATE JUST WATCH WITH BOX & PAPERS! 3,400 INSTANT WINS! £0.20 PER TICKET Entry £0.20 Max Tickets 115,050 Instant Wins 3400 1.9% Sold 2,143 / 115,050 sold 112,907 left Enter Tue Sep 29th 8:00pm MERCEDES BENZ A CLASS FOR 30P! WITH £15,000 IN INSTANT WINS TO BE WON! £0.30 PER TICKET Entry £0.30 Max Tickets 200,000 Instant Wins 35 2.3% Sold 4,680 / 200,000 sold 195,320 left Enter Tue Oct 6th 8:00pm COME & WIN A SHARE OF A QUARTER OF A MILLON POUND! £10,000 END PRIZE! £0.15 PER TICKET Entry £0.15 Max Tickets 3,750,000 Instant Wins 1242 0.2% Sold 6,401 / 3,750,000 sold 3,743,599 left Enter",
+              "badge_price": "£1",
+              "badge_price_value": 1.0,
+              "draw_date": "2026-07-14",
+              "date_status": "",
+              "url": "https://lockoscompetitions.com/competition/win-a-ninja-breakfast-bundle-kettle-toaster-toastie-maker",
+              "priority": "Ignore"
+            },
+            {
+              "product": "WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS!",
+              "product_info": "Tomorrow 8:00pm WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 200 27.5% Sold 55 / 200 sold 145 left Enter Tomorrow 8:00pm LOCKOS LUCKY POP! £500 END PRIZE FOR 10P! £0.10 PER TICKET Entry £0.10 Max Tickets 78,000 Instant Wins 36 28.7% Sold 22,409 / 78,000 sold 55,591 left Enter Tue Jul 21st 8:00pm LOCKOS LUCKY ANGEL SPINS! £555 MAIN PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 48,400 Instant Wins 1005 31.0% Sold 15,005 / 48,400 sold 33,395 left Enter Tue Jul 21st 8:00pm LOCKOS CASH CANON SLOTS! £250 CASH END PRIZE! WIN UP TO £1K! £0.05 PER TICKET Entry £0.05 Max Tickets 202,000 Instant Wins 4115 9.5% Sold 19,272 / 202,000 sold 182,728 left Enter Tue Jul 21st 8:00pm WIN A METAL DETECTOR FOR £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 700 0.7% Sold 5 / 700 sold 695 left Enter Tue Jul 28th 8:00pm WIN A HOLIDAY VOUCHER OF YOUR CHOICE! £4,000 TO SPEND OR TAKE THE £3K CASH ALTERNATIVE! £0.20 PER TICKET Entry £0.20 Max Tickets 80,000 Instant Wins 2014 2.5% Sold 1,994 / 80,000 sold 78,006 left Enter Tue Jul 28th 8:00pm GRAB A GRAND! 10 £1,000 CASH INSTANT WINS TO FIND! £500 END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 210,000 Instant Wins 10 7.1% Sold 14,913 / 210,000 sold 195,087 left Enter Tue Jul 28th 8:00pm WIN A NINJA BREAKFAST BUNDLE! KETTLE, TOASTER & TOASTIE MAKER! £0.39 PER TICKET Entry £0.39 Max Tickets 999 10.9% Sold 109 / 999 sold 890 left Enter Tue Aug 4th 8:00pm WIN A NINJA FROSTVAULT FOR 49P! SUPER LOW ODDS! £0.49 PER TICKET Entry £0.49 Max Tickets 613 3.4% Sold 21 / 613 sold 592 left Enter Tue Aug 4th 8:00pm MEGA SPIN MANIA! £1,000 CASH END PRIZE! OVER £24K IN INSTANT WINS TO BE WON! £0.20 PER TICKET Entry £0.20 Max Tickets 274,000 Instant Wins 2198 1.8% Sold 4,893 / 274,000 sold 269,107 left Enter Tue Aug 4th 8:00pm BIG BASH LOCKOS CASH! WIN UP TO £1,000 CASH INSTANTLY! £0.05 PER TICKET Entry £0.05 Max Tickets 160,000 Instant Wins 426 7.7% Sold 12,296 / 160,000 sold 147,704 left Enter Tue Aug 11th 8:00pm THE ULTIMATE JACKPOT SPINS! £500 END PRIZE! 4895 INSTANT WINS! £0.02 PER TICKET Entry £0.02 Max Tickets 1,865,000 Instant Wins 4895 4.3% Sold 80,656 / 1,865,000 sold 1,784,344 left Enter Tue Aug 11th 8:00pm WIN THIS NINJA FOODi AIR FRYER! £1 PER ENTRY! LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 400 2.8% Sold 11 / 400 sold 389 left Enter Tue Aug 18th 8:00pm WIN THIS SHARK VACUUM FOR 50P! LOW ODDS! £0.50 PER TICKET Entry £0.50 Max Tickets 800 4.6% Sold 37 / 800 sold 763 left Enter Tue Aug 18th 8:00pm LOCKOS LUCKY GEM HUNT! OVER £20,000 IN PRIZES TO BE WON! £1K END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 414,000 Instant Wins 2165 1.8% Sold 7,518 / 414,000 sold 406,482 left Enter Tue Aug 25th 8:00pm £1 PRIZE EVERY TIME! £500 END PRIZE! 94,000+ PRIZES! £1.00 PER TICKET Entry £1.00 Max Tickets 94,065 Instant Wins 94065 5.5% Sold 5,175 / 94,065 sold 88,890 left Enter Tue Aug 25th 8:00pm WIN A DJI LITO 1 DRONE WITH RC-N3 CONTROLLER! £0.10 PER TICKET Entry £0.10 Max Tickets 6,000 1.6% Sold 97 / 6,000 sold 5,903 left Enter Tue Sep 1st 8:00pm WIN A SHARK 2 IN 1 VACUUM & MOP! 600 TICKET MAX! £0.99 PER TICKET Entry £0.99 Max Tickets 600 3.2% Sold 19 / 600 sold 581 left Enter Tue Sep 1st 8:00pm WIN A WOMENS ROLEX DATE JUST WATCH WITH BOX & PAPERS! 3,400 INSTANT WINS! £0.20 PER TICKET Entry £0.20 Max Tickets 115,050 Instant Wins 3400 1.9% Sold 2,143 / 115,050 sold 112,907 left Enter Tue Sep 29th 8:00pm MERCEDES BENZ A CLASS FOR 30P! WITH £15,000 IN INSTANT WINS TO BE WON! £0.30 PER TICKET Entry £0.30 Max Tickets 200,000 Instant Wins 35 2.3% Sold 4,680 / 200,000 sold 195,320 left Enter Tue Oct 6th 8:00pm COME & WIN A SHARE OF A QUARTER OF A MILLON POUND! £10,000 END PRIZE! £0.15 PER TICKET Entry £0.15 Max Tickets 3,750,000 Instant Wins 1242 0.2% Sold 6,401 / 3,750,000 sold 3,743,599 left Enter",
+              "badge_price": "£1",
+              "badge_price_value": 1.0,
+              "draw_date": "2026-07-14",
+              "date_status": "",
+              "url": "https://lockoscompetitions.com/competition/win-a-ninja-frostvault-for-49p-super-low-odds",
+              "priority": "Ignore"
+            },
+            {
+              "product": "WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS!",
+              "product_info": "Tomorrow 8:00pm WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 200 27.5% Sold 55 / 200 sold 145 left Enter Tomorrow 8:00pm LOCKOS LUCKY POP! £500 END PRIZE FOR 10P! £0.10 PER TICKET Entry £0.10 Max Tickets 78,000 Instant Wins 36 28.7% Sold 22,409 / 78,000 sold 55,591 left Enter Tue Jul 21st 8:00pm LOCKOS LUCKY ANGEL SPINS! £555 MAIN PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 48,400 Instant Wins 1005 31.0% Sold 15,005 / 48,400 sold 33,395 left Enter Tue Jul 21st 8:00pm LOCKOS CASH CANON SLOTS! £250 CASH END PRIZE! WIN UP TO £1K! £0.05 PER TICKET Entry £0.05 Max Tickets 202,000 Instant Wins 4115 9.5% Sold 19,272 / 202,000 sold 182,728 left Enter Tue Jul 21st 8:00pm WIN A METAL DETECTOR FOR £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 700 0.7% Sold 5 / 700 sold 695 left Enter Tue Jul 28th 8:00pm WIN A HOLIDAY VOUCHER OF YOUR CHOICE! £4,000 TO SPEND OR TAKE THE £3K CASH ALTERNATIVE! £0.20 PER TICKET Entry £0.20 Max Tickets 80,000 Instant Wins 2014 2.5% Sold 1,994 / 80,000 sold 78,006 left Enter Tue Jul 28th 8:00pm GRAB A GRAND! 10 £1,000 CASH INSTANT WINS TO FIND! £500 END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 210,000 Instant Wins 10 7.1% Sold 14,913 / 210,000 sold 195,087 left Enter Tue Jul 28th 8:00pm WIN A NINJA BREAKFAST BUNDLE! KETTLE, TOASTER & TOASTIE MAKER! £0.39 PER TICKET Entry £0.39 Max Tickets 999 10.9% Sold 109 / 999 sold 890 left Enter Tue Aug 4th 8:00pm WIN A NINJA FROSTVAULT FOR 49P! SUPER LOW ODDS! £0.49 PER TICKET Entry £0.49 Max Tickets 613 3.4% Sold 21 / 613 sold 592 left Enter Tue Aug 4th 8:00pm MEGA SPIN MANIA! £1,000 CASH END PRIZE! OVER £24K IN INSTANT WINS TO BE WON! £0.20 PER TICKET Entry £0.20 Max Tickets 274,000 Instant Wins 2198 1.8% Sold 4,893 / 274,000 sold 269,107 left Enter Tue Aug 4th 8:00pm BIG BASH LOCKOS CASH! WIN UP TO £1,000 CASH INSTANTLY! £0.05 PER TICKET Entry £0.05 Max Tickets 160,000 Instant Wins 426 7.7% Sold 12,296 / 160,000 sold 147,704 left Enter Tue Aug 11th 8:00pm THE ULTIMATE JACKPOT SPINS! £500 END PRIZE! 4895 INSTANT WINS! £0.02 PER TICKET Entry £0.02 Max Tickets 1,865,000 Instant Wins 4895 4.3% Sold 80,656 / 1,865,000 sold 1,784,344 left Enter Tue Aug 11th 8:00pm WIN THIS NINJA FOODi AIR FRYER! £1 PER ENTRY! LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 400 2.8% Sold 11 / 400 sold 389 left Enter Tue Aug 18th 8:00pm WIN THIS SHARK VACUUM FOR 50P! LOW ODDS! £0.50 PER TICKET Entry £0.50 Max Tickets 800 4.6% Sold 37 / 800 sold 763 left Enter Tue Aug 18th 8:00pm LOCKOS LUCKY GEM HUNT! OVER £20,000 IN PRIZES TO BE WON! £1K END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 414,000 Instant Wins 2165 1.8% Sold 7,518 / 414,000 sold 406,482 left Enter Tue Aug 25th 8:00pm £1 PRIZE EVERY TIME! £500 END PRIZE! 94,000+ PRIZES! £1.00 PER TICKET Entry £1.00 Max Tickets 94,065 Instant Wins 94065 5.5% Sold 5,175 / 94,065 sold 88,890 left Enter Tue Aug 25th 8:00pm WIN A DJI LITO 1 DRONE WITH RC-N3 CONTROLLER! £0.10 PER TICKET Entry £0.10 Max Tickets 6,000 1.6% Sold 97 / 6,000 sold 5,903 left Enter Tue Sep 1st 8:00pm WIN A SHARK 2 IN 1 VACUUM & MOP! 600 TICKET MAX! £0.99 PER TICKET Entry £0.99 Max Tickets 600 3.2% Sold 19 / 600 sold 581 left Enter Tue Sep 1st 8:00pm WIN A WOMENS ROLEX DATE JUST WATCH WITH BOX & PAPERS! 3,400 INSTANT WINS! £0.20 PER TICKET Entry £0.20 Max Tickets 115,050 Instant Wins 3400 1.9% Sold 2,143 / 115,050 sold 112,907 left Enter Tue Sep 29th 8:00pm MERCEDES BENZ A CLASS FOR 30P! WITH £15,000 IN INSTANT WINS TO BE WON! £0.30 PER TICKET Entry £0.30 Max Tickets 200,000 Instant Wins 35 2.3% Sold 4,680 / 200,000 sold 195,320 left Enter Tue Oct 6th 8:00pm COME & WIN A SHARE OF A QUARTER OF A MILLON POUND! £10,000 END PRIZE! £0.15 PER TICKET Entry £0.15 Max Tickets 3,750,000 Instant Wins 1242 0.2% Sold 6,401 / 3,750,000 sold 3,743,599 left Enter",
+              "badge_price": "£1",
+              "badge_price_value": 1.0,
+              "draw_date": "2026-07-14",
+              "date_status": "",
+              "url": "https://lockoscompetitions.com/competition/mega-spin-mania-ps1000-cash-end-prize-over-ps24k-in-instant-wins-to-be-won",
+              "priority": "Ignore"
+            },
+            {
+              "product": "WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS!",
+              "product_info": "Tomorrow 8:00pm WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 200 27.5% Sold 55 / 200 sold 145 left Enter Tomorrow 8:00pm LOCKOS LUCKY POP! £500 END PRIZE FOR 10P! £0.10 PER TICKET Entry £0.10 Max Tickets 78,000 Instant Wins 36 28.7% Sold 22,409 / 78,000 sold 55,591 left Enter Tue Jul 21st 8:00pm LOCKOS LUCKY ANGEL SPINS! £555 MAIN PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 48,400 Instant Wins 1005 31.0% Sold 15,005 / 48,400 sold 33,395 left Enter Tue Jul 21st 8:00pm LOCKOS CASH CANON SLOTS! £250 CASH END PRIZE! WIN UP TO £1K! £0.05 PER TICKET Entry £0.05 Max Tickets 202,000 Instant Wins 4115 9.5% Sold 19,272 / 202,000 sold 182,728 left Enter Tue Jul 21st 8:00pm WIN A METAL DETECTOR FOR £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 700 0.7% Sold 5 / 700 sold 695 left Enter Tue Jul 28th 8:00pm WIN A HOLIDAY VOUCHER OF YOUR CHOICE! £4,000 TO SPEND OR TAKE THE £3K CASH ALTERNATIVE! £0.20 PER TICKET Entry £0.20 Max Tickets 80,000 Instant Wins 2014 2.5% Sold 1,994 / 80,000 sold 78,006 left Enter Tue Jul 28th 8:00pm GRAB A GRAND! 10 £1,000 CASH INSTANT WINS TO FIND! £500 END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 210,000 Instant Wins 10 7.1% Sold 14,913 / 210,000 sold 195,087 left Enter Tue Jul 28th 8:00pm WIN A NINJA BREAKFAST BUNDLE! KETTLE, TOASTER & TOASTIE MAKER! £0.39 PER TICKET Entry £0.39 Max Tickets 999 10.9% Sold 109 / 999 sold 890 left Enter Tue Aug 4th 8:00pm WIN A NINJA FROSTVAULT FOR 49P! SUPER LOW ODDS! £0.49 PER TICKET Entry £0.49 Max Tickets 613 3.4% Sold 21 / 613 sold 592 left Enter Tue Aug 4th 8:00pm MEGA SPIN MANIA! £1,000 CASH END PRIZE! OVER £24K IN INSTANT WINS TO BE WON! £0.20 PER TICKET Entry £0.20 Max Tickets 274,000 Instant Wins 2198 1.8% Sold 4,893 / 274,000 sold 269,107 left Enter Tue Aug 4th 8:00pm BIG BASH LOCKOS CASH! WIN UP TO £1,000 CASH INSTANTLY! £0.05 PER TICKET Entry £0.05 Max Tickets 160,000 Instant Wins 426 7.7% Sold 12,296 / 160,000 sold 147,704 left Enter Tue Aug 11th 8:00pm THE ULTIMATE JACKPOT SPINS! £500 END PRIZE! 4895 INSTANT WINS! £0.02 PER TICKET Entry £0.02 Max Tickets 1,865,000 Instant Wins 4895 4.3% Sold 80,656 / 1,865,000 sold 1,784,344 left Enter Tue Aug 11th 8:00pm WIN THIS NINJA FOODi AIR FRYER! £1 PER ENTRY! LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 400 2.8% Sold 11 / 400 sold 389 left Enter Tue Aug 18th 8:00pm WIN THIS SHARK VACUUM FOR 50P! LOW ODDS! £0.50 PER TICKET Entry £0.50 Max Tickets 800 4.6% Sold 37 / 800 sold 763 left Enter Tue Aug 18th 8:00pm LOCKOS LUCKY GEM HUNT! OVER £20,000 IN PRIZES TO BE WON! £1K END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 414,000 Instant Wins 2165 1.8% Sold 7,518 / 414,000 sold 406,482 left Enter Tue Aug 25th 8:00pm £1 PRIZE EVERY TIME! £500 END PRIZE! 94,000+ PRIZES! £1.00 PER TICKET Entry £1.00 Max Tickets 94,065 Instant Wins 94065 5.5% Sold 5,175 / 94,065 sold 88,890 left Enter Tue Aug 25th 8:00pm WIN A DJI LITO 1 DRONE WITH RC-N3 CONTROLLER! £0.10 PER TICKET Entry £0.10 Max Tickets 6,000 1.6% Sold 97 / 6,000 sold 5,903 left Enter Tue Sep 1st 8:00pm WIN A SHARK 2 IN 1 VACUUM & MOP! 600 TICKET MAX! £0.99 PER TICKET Entry £0.99 Max Tickets 600 3.2% Sold 19 / 600 sold 581 left Enter Tue Sep 1st 8:00pm WIN A WOMENS ROLEX DATE JUST WATCH WITH BOX & PAPERS! 3,400 INSTANT WINS! £0.20 PER TICKET Entry £0.20 Max Tickets 115,050 Instant Wins 3400 1.9% Sold 2,143 / 115,050 sold 112,907 left Enter Tue Sep 29th 8:00pm MERCEDES BENZ A CLASS FOR 30P! WITH £15,000 IN INSTANT WINS TO BE WON! £0.30 PER TICKET Entry £0.30 Max Tickets 200,000 Instant Wins 35 2.3% Sold 4,680 / 200,000 sold 195,320 left Enter Tue Oct 6th 8:00pm COME & WIN A SHARE OF A QUARTER OF A MILLON POUND! £10,000 END PRIZE! £0.15 PER TICKET Entry £0.15 Max Tickets 3,750,000 Instant Wins 1242 0.2% Sold 6,401 / 3,750,000 sold 3,743,599 left Enter",
+              "badge_price": "£1",
+              "badge_price_value": 1.0,
+              "draw_date": "2026-07-14",
+              "date_status": "",
+              "url": "https://lockoscompetitions.com/competition/big-bash-lockos-cash-win-up-to-ps1000-cash-instantly",
+              "priority": "Ignore"
+            },
+            {
+              "product": "WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS!",
+              "product_info": "Tomorrow 8:00pm WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 200 27.5% Sold 55 / 200 sold 145 left Enter Tomorrow 8:00pm LOCKOS LUCKY POP! £500 END PRIZE FOR 10P! £0.10 PER TICKET Entry £0.10 Max Tickets 78,000 Instant Wins 36 28.7% Sold 22,409 / 78,000 sold 55,591 left Enter Tue Jul 21st 8:00pm LOCKOS LUCKY ANGEL SPINS! £555 MAIN PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 48,400 Instant Wins 1005 31.0% Sold 15,005 / 48,400 sold 33,395 left Enter Tue Jul 21st 8:00pm LOCKOS CASH CANON SLOTS! £250 CASH END PRIZE! WIN UP TO £1K! £0.05 PER TICKET Entry £0.05 Max Tickets 202,000 Instant Wins 4115 9.5% Sold 19,272 / 202,000 sold 182,728 left Enter Tue Jul 21st 8:00pm WIN A METAL DETECTOR FOR £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 700 0.7% Sold 5 / 700 sold 695 left Enter Tue Jul 28th 8:00pm WIN A HOLIDAY VOUCHER OF YOUR CHOICE! £4,000 TO SPEND OR TAKE THE £3K CASH ALTERNATIVE! £0.20 PER TICKET Entry £0.20 Max Tickets 80,000 Instant Wins 2014 2.5% Sold 1,994 / 80,000 sold 78,006 left Enter Tue Jul 28th 8:00pm GRAB A GRAND! 10 £1,000 CASH INSTANT WINS TO FIND! £500 END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 210,000 Instant Wins 10 7.1% Sold 14,913 / 210,000 sold 195,087 left Enter Tue Jul 28th 8:00pm WIN A NINJA BREAKFAST BUNDLE! KETTLE, TOASTER & TOASTIE MAKER! £0.39 PER TICKET Entry £0.39 Max Tickets 999 10.9% Sold 109 / 999 sold 890 left Enter Tue Aug 4th 8:00pm WIN A NINJA FROSTVAULT FOR 49P! SUPER LOW ODDS! £0.49 PER TICKET Entry £0.49 Max Tickets 613 3.4% Sold 21 / 613 sold 592 left Enter Tue Aug 4th 8:00pm MEGA SPIN MANIA! £1,000 CASH END PRIZE! OVER £24K IN INSTANT WINS TO BE WON! £0.20 PER TICKET Entry £0.20 Max Tickets 274,000 Instant Wins 2198 1.8% Sold 4,893 / 274,000 sold 269,107 left Enter Tue Aug 4th 8:00pm BIG BASH LOCKOS CASH! WIN UP TO £1,000 CASH INSTANTLY! £0.05 PER TICKET Entry £0.05 Max Tickets 160,000 Instant Wins 426 7.7% Sold 12,296 / 160,000 sold 147,704 left Enter Tue Aug 11th 8:00pm THE ULTIMATE JACKPOT SPINS! £500 END PRIZE! 4895 INSTANT WINS! £0.02 PER TICKET Entry £0.02 Max Tickets 1,865,000 Instant Wins 4895 4.3% Sold 80,656 / 1,865,000 sold 1,784,344 left Enter Tue Aug 11th 8:00pm WIN THIS NINJA FOODi AIR FRYER! £1 PER ENTRY! LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 400 2.8% Sold 11 / 400 sold 389 left Enter Tue Aug 18th 8:00pm WIN THIS SHARK VACUUM FOR 50P! LOW ODDS! £0.50 PER TICKET Entry £0.50 Max Tickets 800 4.6% Sold 37 / 800 sold 763 left Enter Tue Aug 18th 8:00pm LOCKOS LUCKY GEM HUNT! OVER £20,000 IN PRIZES TO BE WON! £1K END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 414,000 Instant Wins 2165 1.8% Sold 7,518 / 414,000 sold 406,482 left Enter Tue Aug 25th 8:00pm £1 PRIZE EVERY TIME! £500 END PRIZE! 94,000+ PRIZES! £1.00 PER TICKET Entry £1.00 Max Tickets 94,065 Instant Wins 94065 5.5% Sold 5,175 / 94,065 sold 88,890 left Enter Tue Aug 25th 8:00pm WIN A DJI LITO 1 DRONE WITH RC-N3 CONTROLLER! £0.10 PER TICKET Entry £0.10 Max Tickets 6,000 1.6% Sold 97 / 6,000 sold 5,903 left Enter Tue Sep 1st 8:00pm WIN A SHARK 2 IN 1 VACUUM & MOP! 600 TICKET MAX! £0.99 PER TICKET Entry £0.99 Max Tickets 600 3.2% Sold 19 / 600 sold 581 left Enter Tue Sep 1st 8:00pm WIN A WOMENS ROLEX DATE JUST WATCH WITH BOX & PAPERS! 3,400 INSTANT WINS! £0.20 PER TICKET Entry £0.20 Max Tickets 115,050 Instant Wins 3400 1.9% Sold 2,143 / 115,050 sold 112,907 left Enter Tue Sep 29th 8:00pm MERCEDES BENZ A CLASS FOR 30P! WITH £15,000 IN INSTANT WINS TO BE WON! £0.30 PER TICKET Entry £0.30 Max Tickets 200,000 Instant Wins 35 2.3% Sold 4,680 / 200,000 sold 195,320 left Enter Tue Oct 6th 8:00pm COME & WIN A SHARE OF A QUARTER OF A MILLON POUND! £10,000 END PRIZE! £0.15 PER TICKET Entry £0.15 Max Tickets 3,750,000 Instant Wins 1242 0.2% Sold 6,401 / 3,750,000 sold 3,743,599 left Enter",
+              "badge_price": "£1",
+              "badge_price_value": 1.0,
+              "draw_date": "2026-07-14",
+              "date_status": "",
+              "url": "https://lockoscompetitions.com/competition/the-ultimate-jackpot-spins-ps500-end-prize-4895-instant-wins",
+              "priority": "Ignore"
+            },
+            {
+              "product": "WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS!",
+              "product_info": "Tomorrow 8:00pm WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 200 27.5% Sold 55 / 200 sold 145 left Enter Tomorrow 8:00pm LOCKOS LUCKY POP! £500 END PRIZE FOR 10P! £0.10 PER TICKET Entry £0.10 Max Tickets 78,000 Instant Wins 36 28.7% Sold 22,409 / 78,000 sold 55,591 left Enter Tue Jul 21st 8:00pm LOCKOS LUCKY ANGEL SPINS! £555 MAIN PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 48,400 Instant Wins 1005 31.0% Sold 15,005 / 48,400 sold 33,395 left Enter Tue Jul 21st 8:00pm LOCKOS CASH CANON SLOTS! £250 CASH END PRIZE! WIN UP TO £1K! £0.05 PER TICKET Entry £0.05 Max Tickets 202,000 Instant Wins 4115 9.5% Sold 19,272 / 202,000 sold 182,728 left Enter Tue Jul 21st 8:00pm WIN A METAL DETECTOR FOR £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 700 0.7% Sold 5 / 700 sold 695 left Enter Tue Jul 28th 8:00pm WIN A HOLIDAY VOUCHER OF YOUR CHOICE! £4,000 TO SPEND OR TAKE THE £3K CASH ALTERNATIVE! £0.20 PER TICKET Entry £0.20 Max Tickets 80,000 Instant Wins 2014 2.5% Sold 1,994 / 80,000 sold 78,006 left Enter Tue Jul 28th 8:00pm GRAB A GRAND! 10 £1,000 CASH INSTANT WINS TO FIND! £500 END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 210,000 Instant Wins 10 7.1% Sold 14,913 / 210,000 sold 195,087 left Enter Tue Jul 28th 8:00pm WIN A NINJA BREAKFAST BUNDLE! KETTLE, TOASTER & TOASTIE MAKER! £0.39 PER TICKET Entry £0.39 Max Tickets 999 10.9% Sold 109 / 999 sold 890 left Enter Tue Aug 4th 8:00pm WIN A NINJA FROSTVAULT FOR 49P! SUPER LOW ODDS! £0.49 PER TICKET Entry £0.49 Max Tickets 613 3.4% Sold 21 / 613 sold 592 left Enter Tue Aug 4th 8:00pm MEGA SPIN MANIA! £1,000 CASH END PRIZE! OVER £24K IN INSTANT WINS TO BE WON! £0.20 PER TICKET Entry £0.20 Max Tickets 274,000 Instant Wins 2198 1.8% Sold 4,893 / 274,000 sold 269,107 left Enter Tue Aug 4th 8:00pm BIG BASH LOCKOS CASH! WIN UP TO £1,000 CASH INSTANTLY! £0.05 PER TICKET Entry £0.05 Max Tickets 160,000 Instant Wins 426 7.7% Sold 12,296 / 160,000 sold 147,704 left Enter Tue Aug 11th 8:00pm THE ULTIMATE JACKPOT SPINS! £500 END PRIZE! 4895 INSTANT WINS! £0.02 PER TICKET Entry £0.02 Max Tickets 1,865,000 Instant Wins 4895 4.3% Sold 80,656 / 1,865,000 sold 1,784,344 left Enter Tue Aug 11th 8:00pm WIN THIS NINJA FOODi AIR FRYER! £1 PER ENTRY! LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 400 2.8% Sold 11 / 400 sold 389 left Enter Tue Aug 18th 8:00pm WIN THIS SHARK VACUUM FOR 50P! LOW ODDS! £0.50 PER TICKET Entry £0.50 Max Tickets 800 4.6% Sold 37 / 800 sold 763 left Enter Tue Aug 18th 8:00pm LOCKOS LUCKY GEM HUNT! OVER £20,000 IN PRIZES TO BE WON! £1K END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 414,000 Instant Wins 2165 1.8% Sold 7,518 / 414,000 sold 406,482 left Enter Tue Aug 25th 8:00pm £1 PRIZE EVERY TIME! £500 END PRIZE! 94,000+ PRIZES! £1.00 PER TICKET Entry £1.00 Max Tickets 94,065 Instant Wins 94065 5.5% Sold 5,175 / 94,065 sold 88,890 left Enter Tue Aug 25th 8:00pm WIN A DJI LITO 1 DRONE WITH RC-N3 CONTROLLER! £0.10 PER TICKET Entry £0.10 Max Tickets 6,000 1.6% Sold 97 / 6,000 sold 5,903 left Enter Tue Sep 1st 8:00pm WIN A SHARK 2 IN 1 VACUUM & MOP! 600 TICKET MAX! £0.99 PER TICKET Entry £0.99 Max Tickets 600 3.2% Sold 19 / 600 sold 581 left Enter Tue Sep 1st 8:00pm WIN A WOMENS ROLEX DATE JUST WATCH WITH BOX & PAPERS! 3,400 INSTANT WINS! £0.20 PER TICKET Entry £0.20 Max Tickets 115,050 Instant Wins 3400 1.9% Sold 2,143 / 115,050 sold 112,907 left Enter Tue Sep 29th 8:00pm MERCEDES BENZ A CLASS FOR 30P! WITH £15,000 IN INSTANT WINS TO BE WON! £0.30 PER TICKET Entry £0.30 Max Tickets 200,000 Instant Wins 35 2.3% Sold 4,680 / 200,000 sold 195,320 left Enter Tue Oct 6th 8:00pm COME & WIN A SHARE OF A QUARTER OF A MILLON POUND! £10,000 END PRIZE! £0.15 PER TICKET Entry £0.15 Max Tickets 3,750,000 Instant Wins 1242 0.2% Sold 6,401 / 3,750,000 sold 3,743,599 left Enter",
+              "badge_price": "£1",
+              "badge_price_value": 1.0,
+              "draw_date": "2026-07-14",
+              "date_status": "",
+              "url": "https://lockoscompetitions.com/competition/win-this-ninja-foodi-air-fryer-ps1-per-entry-low-odds",
+              "priority": "Ignore"
+            },
+            {
+              "product": "WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS!",
+              "product_info": "Tomorrow 8:00pm WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 200 27.5% Sold 55 / 200 sold 145 left Enter Tomorrow 8:00pm LOCKOS LUCKY POP! £500 END PRIZE FOR 10P! £0.10 PER TICKET Entry £0.10 Max Tickets 78,000 Instant Wins 36 28.7% Sold 22,409 / 78,000 sold 55,591 left Enter Tue Jul 21st 8:00pm LOCKOS LUCKY ANGEL SPINS! £555 MAIN PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 48,400 Instant Wins 1005 31.0% Sold 15,005 / 48,400 sold 33,395 left Enter Tue Jul 21st 8:00pm LOCKOS CASH CANON SLOTS! £250 CASH END PRIZE! WIN UP TO £1K! £0.05 PER TICKET Entry £0.05 Max Tickets 202,000 Instant Wins 4115 9.5% Sold 19,272 / 202,000 sold 182,728 left Enter Tue Jul 21st 8:00pm WIN A METAL DETECTOR FOR £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 700 0.7% Sold 5 / 700 sold 695 left Enter Tue Jul 28th 8:00pm WIN A HOLIDAY VOUCHER OF YOUR CHOICE! £4,000 TO SPEND OR TAKE THE £3K CASH ALTERNATIVE! £0.20 PER TICKET Entry £0.20 Max Tickets 80,000 Instant Wins 2014 2.5% Sold 1,994 / 80,000 sold 78,006 left Enter Tue Jul 28th 8:00pm GRAB A GRAND! 10 £1,000 CASH INSTANT WINS TO FIND! £500 END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 210,000 Instant Wins 10 7.1% Sold 14,913 / 210,000 sold 195,087 left Enter Tue Jul 28th 8:00pm WIN A NINJA BREAKFAST BUNDLE! KETTLE, TOASTER & TOASTIE MAKER! £0.39 PER TICKET Entry £0.39 Max Tickets 999 10.9% Sold 109 / 999 sold 890 left Enter Tue Aug 4th 8:00pm WIN A NINJA FROSTVAULT FOR 49P! SUPER LOW ODDS! £0.49 PER TICKET Entry £0.49 Max Tickets 613 3.4% Sold 21 / 613 sold 592 left Enter Tue Aug 4th 8:00pm MEGA SPIN MANIA! £1,000 CASH END PRIZE! OVER £24K IN INSTANT WINS TO BE WON! £0.20 PER TICKET Entry £0.20 Max Tickets 274,000 Instant Wins 2198 1.8% Sold 4,893 / 274,000 sold 269,107 left Enter Tue Aug 4th 8:00pm BIG BASH LOCKOS CASH! WIN UP TO £1,000 CASH INSTANTLY! £0.05 PER TICKET Entry £0.05 Max Tickets 160,000 Instant Wins 426 7.7% Sold 12,296 / 160,000 sold 147,704 left Enter Tue Aug 11th 8:00pm THE ULTIMATE JACKPOT SPINS! £500 END PRIZE! 4895 INSTANT WINS! £0.02 PER TICKET Entry £0.02 Max Tickets 1,865,000 Instant Wins 4895 4.3% Sold 80,656 / 1,865,000 sold 1,784,344 left Enter Tue Aug 11th 8:00pm WIN THIS NINJA FOODi AIR FRYER! £1 PER ENTRY! LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 400 2.8% Sold 11 / 400 sold 389 left Enter Tue Aug 18th 8:00pm WIN THIS SHARK VACUUM FOR 50P! LOW ODDS! £0.50 PER TICKET Entry £0.50 Max Tickets 800 4.6% Sold 37 / 800 sold 763 left Enter Tue Aug 18th 8:00pm LOCKOS LUCKY GEM HUNT! OVER £20,000 IN PRIZES TO BE WON! £1K END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 414,000 Instant Wins 2165 1.8% Sold 7,518 / 414,000 sold 406,482 left Enter Tue Aug 25th 8:00pm £1 PRIZE EVERY TIME! £500 END PRIZE! 94,000+ PRIZES! £1.00 PER TICKET Entry £1.00 Max Tickets 94,065 Instant Wins 94065 5.5% Sold 5,175 / 94,065 sold 88,890 left Enter Tue Aug 25th 8:00pm WIN A DJI LITO 1 DRONE WITH RC-N3 CONTROLLER! £0.10 PER TICKET Entry £0.10 Max Tickets 6,000 1.6% Sold 97 / 6,000 sold 5,903 left Enter Tue Sep 1st 8:00pm WIN A SHARK 2 IN 1 VACUUM & MOP! 600 TICKET MAX! £0.99 PER TICKET Entry £0.99 Max Tickets 600 3.2% Sold 19 / 600 sold 581 left Enter Tue Sep 1st 8:00pm WIN A WOMENS ROLEX DATE JUST WATCH WITH BOX & PAPERS! 3,400 INSTANT WINS! £0.20 PER TICKET Entry £0.20 Max Tickets 115,050 Instant Wins 3400 1.9% Sold 2,143 / 115,050 sold 112,907 left Enter Tue Sep 29th 8:00pm MERCEDES BENZ A CLASS FOR 30P! WITH £15,000 IN INSTANT WINS TO BE WON! £0.30 PER TICKET Entry £0.30 Max Tickets 200,000 Instant Wins 35 2.3% Sold 4,680 / 200,000 sold 195,320 left Enter Tue Oct 6th 8:00pm COME & WIN A SHARE OF A QUARTER OF A MILLON POUND! £10,000 END PRIZE! £0.15 PER TICKET Entry £0.15 Max Tickets 3,750,000 Instant Wins 1242 0.2% Sold 6,401 / 3,750,000 sold 3,743,599 left Enter",
+              "badge_price": "£1",
+              "badge_price_value": 1.0,
+              "draw_date": "2026-07-14",
+              "date_status": "",
+              "url": "https://lockoscompetitions.com/competition/win-this-shark-vacuum-for-50p-low-odds",
+              "priority": "Ignore"
+            },
+            {
+              "product": "WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS!",
+              "product_info": "Tomorrow 8:00pm WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 200 27.5% Sold 55 / 200 sold 145 left Enter Tomorrow 8:00pm LOCKOS LUCKY POP! £500 END PRIZE FOR 10P! £0.10 PER TICKET Entry £0.10 Max Tickets 78,000 Instant Wins 36 28.7% Sold 22,409 / 78,000 sold 55,591 left Enter Tue Jul 21st 8:00pm LOCKOS LUCKY ANGEL SPINS! £555 MAIN PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 48,400 Instant Wins 1005 31.0% Sold 15,005 / 48,400 sold 33,395 left Enter Tue Jul 21st 8:00pm LOCKOS CASH CANON SLOTS! £250 CASH END PRIZE! WIN UP TO £1K! £0.05 PER TICKET Entry £0.05 Max Tickets 202,000 Instant Wins 4115 9.5% Sold 19,272 / 202,000 sold 182,728 left Enter Tue Jul 21st 8:00pm WIN A METAL DETECTOR FOR £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 700 0.7% Sold 5 / 700 sold 695 left Enter Tue Jul 28th 8:00pm WIN A HOLIDAY VOUCHER OF YOUR CHOICE! £4,000 TO SPEND OR TAKE THE £3K CASH ALTERNATIVE! £0.20 PER TICKET Entry £0.20 Max Tickets 80,000 Instant Wins 2014 2.5% Sold 1,994 / 80,000 sold 78,006 left Enter Tue Jul 28th 8:00pm GRAB A GRAND! 10 £1,000 CASH INSTANT WINS TO FIND! £500 END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 210,000 Instant Wins 10 7.1% Sold 14,913 / 210,000 sold 195,087 left Enter Tue Jul 28th 8:00pm WIN A NINJA BREAKFAST BUNDLE! KETTLE, TOASTER & TOASTIE MAKER! £0.39 PER TICKET Entry £0.39 Max Tickets 999 10.9% Sold 109 / 999 sold 890 left Enter Tue Aug 4th 8:00pm WIN A NINJA FROSTVAULT FOR 49P! SUPER LOW ODDS! £0.49 PER TICKET Entry £0.49 Max Tickets 613 3.4% Sold 21 / 613 sold 592 left Enter Tue Aug 4th 8:00pm MEGA SPIN MANIA! £1,000 CASH END PRIZE! OVER £24K IN INSTANT WINS TO BE WON! £0.20 PER TICKET Entry £0.20 Max Tickets 274,000 Instant Wins 2198 1.8% Sold 4,893 / 274,000 sold 269,107 left Enter Tue Aug 4th 8:00pm BIG BASH LOCKOS CASH! WIN UP TO £1,000 CASH INSTANTLY! £0.05 PER TICKET Entry £0.05 Max Tickets 160,000 Instant Wins 426 7.7% Sold 12,296 / 160,000 sold 147,704 left Enter Tue Aug 11th 8:00pm THE ULTIMATE JACKPOT SPINS! £500 END PRIZE! 4895 INSTANT WINS! £0.02 PER TICKET Entry £0.02 Max Tickets 1,865,000 Instant Wins 4895 4.3% Sold 80,656 / 1,865,000 sold 1,784,344 left Enter Tue Aug 11th 8:00pm WIN THIS NINJA FOODi AIR FRYER! £1 PER ENTRY! LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 400 2.8% Sold 11 / 400 sold 389 left Enter Tue Aug 18th 8:00pm WIN THIS SHARK VACUUM FOR 50P! LOW ODDS! £0.50 PER TICKET Entry £0.50 Max Tickets 800 4.6% Sold 37 / 800 sold 763 left Enter Tue Aug 18th 8:00pm LOCKOS LUCKY GEM HUNT! OVER £20,000 IN PRIZES TO BE WON! £1K END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 414,000 Instant Wins 2165 1.8% Sold 7,518 / 414,000 sold 406,482 left Enter Tue Aug 25th 8:00pm £1 PRIZE EVERY TIME! £500 END PRIZE! 94,000+ PRIZES! £1.00 PER TICKET Entry £1.00 Max Tickets 94,065 Instant Wins 94065 5.5% Sold 5,175 / 94,065 sold 88,890 left Enter Tue Aug 25th 8:00pm WIN A DJI LITO 1 DRONE WITH RC-N3 CONTROLLER! £0.10 PER TICKET Entry £0.10 Max Tickets 6,000 1.6% Sold 97 / 6,000 sold 5,903 left Enter Tue Sep 1st 8:00pm WIN A SHARK 2 IN 1 VACUUM & MOP! 600 TICKET MAX! £0.99 PER TICKET Entry £0.99 Max Tickets 600 3.2% Sold 19 / 600 sold 581 left Enter Tue Sep 1st 8:00pm WIN A WOMENS ROLEX DATE JUST WATCH WITH BOX & PAPERS! 3,400 INSTANT WINS! £0.20 PER TICKET Entry £0.20 Max Tickets 115,050 Instant Wins 3400 1.9% Sold 2,143 / 115,050 sold 112,907 left Enter Tue Sep 29th 8:00pm MERCEDES BENZ A CLASS FOR 30P! WITH £15,000 IN INSTANT WINS TO BE WON! £0.30 PER TICKET Entry £0.30 Max Tickets 200,000 Instant Wins 35 2.3% Sold 4,680 / 200,000 sold 195,320 left Enter Tue Oct 6th 8:00pm COME & WIN A SHARE OF A QUARTER OF A MILLON POUND! £10,000 END PRIZE! £0.15 PER TICKET Entry £0.15 Max Tickets 3,750,000 Instant Wins 1242 0.2% Sold 6,401 / 3,750,000 sold 3,743,599 left Enter",
+              "badge_price": "£1",
+              "badge_price_value": 1.0,
+              "draw_date": "2026-07-14",
+              "date_status": "",
+              "url": "https://lockoscompetitions.com/competition/lockos-lucky-gem-hunt-over-ps20000-in-prizes-to-be-won-ps1k-end-prize",
+              "priority": "Ignore"
+            },
+            {
+              "product": "WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS!",
+              "product_info": "Tomorrow 8:00pm WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 200 27.5% Sold 55 / 200 sold 145 left Enter Tomorrow 8:00pm LOCKOS LUCKY POP! £500 END PRIZE FOR 10P! £0.10 PER TICKET Entry £0.10 Max Tickets 78,000 Instant Wins 36 28.7% Sold 22,409 / 78,000 sold 55,591 left Enter Tue Jul 21st 8:00pm LOCKOS LUCKY ANGEL SPINS! £555 MAIN PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 48,400 Instant Wins 1005 31.0% Sold 15,005 / 48,400 sold 33,395 left Enter Tue Jul 21st 8:00pm LOCKOS CASH CANON SLOTS! £250 CASH END PRIZE! WIN UP TO £1K! £0.05 PER TICKET Entry £0.05 Max Tickets 202,000 Instant Wins 4115 9.5% Sold 19,272 / 202,000 sold 182,728 left Enter Tue Jul 21st 8:00pm WIN A METAL DETECTOR FOR £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 700 0.7% Sold 5 / 700 sold 695 left Enter Tue Jul 28th 8:00pm WIN A HOLIDAY VOUCHER OF YOUR CHOICE! £4,000 TO SPEND OR TAKE THE £3K CASH ALTERNATIVE! £0.20 PER TICKET Entry £0.20 Max Tickets 80,000 Instant Wins 2014 2.5% Sold 1,994 / 80,000 sold 78,006 left Enter Tue Jul 28th 8:00pm GRAB A GRAND! 10 £1,000 CASH INSTANT WINS TO FIND! £500 END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 210,000 Instant Wins 10 7.1% Sold 14,913 / 210,000 sold 195,087 left Enter Tue Jul 28th 8:00pm WIN A NINJA BREAKFAST BUNDLE! KETTLE, TOASTER & TOASTIE MAKER! £0.39 PER TICKET Entry £0.39 Max Tickets 999 10.9% Sold 109 / 999 sold 890 left Enter Tue Aug 4th 8:00pm WIN A NINJA FROSTVAULT FOR 49P! SUPER LOW ODDS! £0.49 PER TICKET Entry £0.49 Max Tickets 613 3.4% Sold 21 / 613 sold 592 left Enter Tue Aug 4th 8:00pm MEGA SPIN MANIA! £1,000 CASH END PRIZE! OVER £24K IN INSTANT WINS TO BE WON! £0.20 PER TICKET Entry £0.20 Max Tickets 274,000 Instant Wins 2198 1.8% Sold 4,893 / 274,000 sold 269,107 left Enter Tue Aug 4th 8:00pm BIG BASH LOCKOS CASH! WIN UP TO £1,000 CASH INSTANTLY! £0.05 PER TICKET Entry £0.05 Max Tickets 160,000 Instant Wins 426 7.7% Sold 12,296 / 160,000 sold 147,704 left Enter Tue Aug 11th 8:00pm THE ULTIMATE JACKPOT SPINS! £500 END PRIZE! 4895 INSTANT WINS! £0.02 PER TICKET Entry £0.02 Max Tickets 1,865,000 Instant Wins 4895 4.3% Sold 80,656 / 1,865,000 sold 1,784,344 left Enter Tue Aug 11th 8:00pm WIN THIS NINJA FOODi AIR FRYER! £1 PER ENTRY! LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 400 2.8% Sold 11 / 400 sold 389 left Enter Tue Aug 18th 8:00pm WIN THIS SHARK VACUUM FOR 50P! LOW ODDS! £0.50 PER TICKET Entry £0.50 Max Tickets 800 4.6% Sold 37 / 800 sold 763 left Enter Tue Aug 18th 8:00pm LOCKOS LUCKY GEM HUNT! OVER £20,000 IN PRIZES TO BE WON! £1K END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 414,000 Instant Wins 2165 1.8% Sold 7,518 / 414,000 sold 406,482 left Enter Tue Aug 25th 8:00pm £1 PRIZE EVERY TIME! £500 END PRIZE! 94,000+ PRIZES! £1.00 PER TICKET Entry £1.00 Max Tickets 94,065 Instant Wins 94065 5.5% Sold 5,175 / 94,065 sold 88,890 left Enter Tue Aug 25th 8:00pm WIN A DJI LITO 1 DRONE WITH RC-N3 CONTROLLER! £0.10 PER TICKET Entry £0.10 Max Tickets 6,000 1.6% Sold 97 / 6,000 sold 5,903 left Enter Tue Sep 1st 8:00pm WIN A SHARK 2 IN 1 VACUUM & MOP! 600 TICKET MAX! £0.99 PER TICKET Entry £0.99 Max Tickets 600 3.2% Sold 19 / 600 sold 581 left Enter Tue Sep 1st 8:00pm WIN A WOMENS ROLEX DATE JUST WATCH WITH BOX & PAPERS! 3,400 INSTANT WINS! £0.20 PER TICKET Entry £0.20 Max Tickets 115,050 Instant Wins 3400 1.9% Sold 2,143 / 115,050 sold 112,907 left Enter Tue Sep 29th 8:00pm MERCEDES BENZ A CLASS FOR 30P! WITH £15,000 IN INSTANT WINS TO BE WON! £0.30 PER TICKET Entry £0.30 Max Tickets 200,000 Instant Wins 35 2.3% Sold 4,680 / 200,000 sold 195,320 left Enter Tue Oct 6th 8:00pm COME & WIN A SHARE OF A QUARTER OF A MILLON POUND! £10,000 END PRIZE! £0.15 PER TICKET Entry £0.15 Max Tickets 3,750,000 Instant Wins 1242 0.2% Sold 6,401 / 3,750,000 sold 3,743,599 left Enter",
+              "badge_price": "£1",
+              "badge_price_value": 1.0,
+              "draw_date": "2026-07-14",
+              "date_status": "",
+              "url": "https://lockoscompetitions.com/competition/win-a-dji-lito-1-drone-with-rc-n3-controller",
+              "priority": "Ignore"
+            },
+            {
+              "product": "WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS!",
+              "product_info": "Tomorrow 8:00pm WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 200 27.5% Sold 55 / 200 sold 145 left Enter Tomorrow 8:00pm LOCKOS LUCKY POP! £500 END PRIZE FOR 10P! £0.10 PER TICKET Entry £0.10 Max Tickets 78,000 Instant Wins 36 28.7% Sold 22,409 / 78,000 sold 55,591 left Enter Tue Jul 21st 8:00pm LOCKOS LUCKY ANGEL SPINS! £555 MAIN PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 48,400 Instant Wins 1005 31.0% Sold 15,005 / 48,400 sold 33,395 left Enter Tue Jul 21st 8:00pm LOCKOS CASH CANON SLOTS! £250 CASH END PRIZE! WIN UP TO £1K! £0.05 PER TICKET Entry £0.05 Max Tickets 202,000 Instant Wins 4115 9.5% Sold 19,272 / 202,000 sold 182,728 left Enter Tue Jul 21st 8:00pm WIN A METAL DETECTOR FOR £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 700 0.7% Sold 5 / 700 sold 695 left Enter Tue Jul 28th 8:00pm WIN A HOLIDAY VOUCHER OF YOUR CHOICE! £4,000 TO SPEND OR TAKE THE £3K CASH ALTERNATIVE! £0.20 PER TICKET Entry £0.20 Max Tickets 80,000 Instant Wins 2014 2.5% Sold 1,994 / 80,000 sold 78,006 left Enter Tue Jul 28th 8:00pm GRAB A GRAND! 10 £1,000 CASH INSTANT WINS TO FIND! £500 END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 210,000 Instant Wins 10 7.1% Sold 14,913 / 210,000 sold 195,087 left Enter Tue Jul 28th 8:00pm WIN A NINJA BREAKFAST BUNDLE! KETTLE, TOASTER & TOASTIE MAKER! £0.39 PER TICKET Entry £0.39 Max Tickets 999 10.9% Sold 109 / 999 sold 890 left Enter Tue Aug 4th 8:00pm WIN A NINJA FROSTVAULT FOR 49P! SUPER LOW ODDS! £0.49 PER TICKET Entry £0.49 Max Tickets 613 3.4% Sold 21 / 613 sold 592 left Enter Tue Aug 4th 8:00pm MEGA SPIN MANIA! £1,000 CASH END PRIZE! OVER £24K IN INSTANT WINS TO BE WON! £0.20 PER TICKET Entry £0.20 Max Tickets 274,000 Instant Wins 2198 1.8% Sold 4,893 / 274,000 sold 269,107 left Enter Tue Aug 4th 8:00pm BIG BASH LOCKOS CASH! WIN UP TO £1,000 CASH INSTANTLY! £0.05 PER TICKET Entry £0.05 Max Tickets 160,000 Instant Wins 426 7.7% Sold 12,296 / 160,000 sold 147,704 left Enter Tue Aug 11th 8:00pm THE ULTIMATE JACKPOT SPINS! £500 END PRIZE! 4895 INSTANT WINS! £0.02 PER TICKET Entry £0.02 Max Tickets 1,865,000 Instant Wins 4895 4.3% Sold 80,656 / 1,865,000 sold 1,784,344 left Enter Tue Aug 11th 8:00pm WIN THIS NINJA FOODi AIR FRYER! £1 PER ENTRY! LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 400 2.8% Sold 11 / 400 sold 389 left Enter Tue Aug 18th 8:00pm WIN THIS SHARK VACUUM FOR 50P! LOW ODDS! £0.50 PER TICKET Entry £0.50 Max Tickets 800 4.6% Sold 37 / 800 sold 763 left Enter Tue Aug 18th 8:00pm LOCKOS LUCKY GEM HUNT! OVER £20,000 IN PRIZES TO BE WON! £1K END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 414,000 Instant Wins 2165 1.8% Sold 7,518 / 414,000 sold 406,482 left Enter Tue Aug 25th 8:00pm £1 PRIZE EVERY TIME! £500 END PRIZE! 94,000+ PRIZES! £1.00 PER TICKET Entry £1.00 Max Tickets 94,065 Instant Wins 94065 5.5% Sold 5,175 / 94,065 sold 88,890 left Enter Tue Aug 25th 8:00pm WIN A DJI LITO 1 DRONE WITH RC-N3 CONTROLLER! £0.10 PER TICKET Entry £0.10 Max Tickets 6,000 1.6% Sold 97 / 6,000 sold 5,903 left Enter Tue Sep 1st 8:00pm WIN A SHARK 2 IN 1 VACUUM & MOP! 600 TICKET MAX! £0.99 PER TICKET Entry £0.99 Max Tickets 600 3.2% Sold 19 / 600 sold 581 left Enter Tue Sep 1st 8:00pm WIN A WOMENS ROLEX DATE JUST WATCH WITH BOX & PAPERS! 3,400 INSTANT WINS! £0.20 PER TICKET Entry £0.20 Max Tickets 115,050 Instant Wins 3400 1.9% Sold 2,143 / 115,050 sold 112,907 left Enter Tue Sep 29th 8:00pm MERCEDES BENZ A CLASS FOR 30P! WITH £15,000 IN INSTANT WINS TO BE WON! £0.30 PER TICKET Entry £0.30 Max Tickets 200,000 Instant Wins 35 2.3% Sold 4,680 / 200,000 sold 195,320 left Enter Tue Oct 6th 8:00pm COME & WIN A SHARE OF A QUARTER OF A MILLON POUND! £10,000 END PRIZE! £0.15 PER TICKET Entry £0.15 Max Tickets 3,750,000 Instant Wins 1242 0.2% Sold 6,401 / 3,750,000 sold 3,743,599 left Enter",
+              "badge_price": "£1",
+              "badge_price_value": 1.0,
+              "draw_date": "2026-07-14",
+              "date_status": "",
+              "url": "https://lockoscompetitions.com/competition/win-a-shark-2-in-1-vacuum-mop-600-ticket-max",
+              "priority": "Ignore"
+            },
+            {
+              "product": "WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS!",
+              "product_info": "Tomorrow 8:00pm WIN A NINJA JUCIER FOR JUST £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 200 27.5% Sold 55 / 200 sold 145 left Enter Tomorrow 8:00pm LOCKOS LUCKY POP! £500 END PRIZE FOR 10P! £0.10 PER TICKET Entry £0.10 Max Tickets 78,000 Instant Wins 36 28.7% Sold 22,409 / 78,000 sold 55,591 left Enter Tue Jul 21st 8:00pm LOCKOS LUCKY ANGEL SPINS! £555 MAIN PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 48,400 Instant Wins 1005 31.0% Sold 15,005 / 48,400 sold 33,395 left Enter Tue Jul 21st 8:00pm LOCKOS CASH CANON SLOTS! £250 CASH END PRIZE! WIN UP TO £1K! £0.05 PER TICKET Entry £0.05 Max Tickets 202,000 Instant Wins 4115 9.5% Sold 19,272 / 202,000 sold 182,728 left Enter Tue Jul 21st 8:00pm WIN A METAL DETECTOR FOR £1! SUPER LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 700 0.7% Sold 5 / 700 sold 695 left Enter Tue Jul 28th 8:00pm WIN A HOLIDAY VOUCHER OF YOUR CHOICE! £4,000 TO SPEND OR TAKE THE £3K CASH ALTERNATIVE! £0.20 PER TICKET Entry £0.20 Max Tickets 80,000 Instant Wins 2014 2.5% Sold 1,994 / 80,000 sold 78,006 left Enter Tue Jul 28th 8:00pm GRAB A GRAND! 10 £1,000 CASH INSTANT WINS TO FIND! £500 END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 210,000 Instant Wins 10 7.1% Sold 14,913 / 210,000 sold 195,087 left Enter Tue Jul 28th 8:00pm WIN A NINJA BREAKFAST BUNDLE! KETTLE, TOASTER & TOASTIE MAKER! £0.39 PER TICKET Entry £0.39 Max Tickets 999 10.9% Sold 109 / 999 sold 890 left Enter Tue Aug 4th 8:00pm WIN A NINJA FROSTVAULT FOR 49P! SUPER LOW ODDS! £0.49 PER TICKET Entry £0.49 Max Tickets 613 3.4% Sold 21 / 613 sold 592 left Enter Tue Aug 4th 8:00pm MEGA SPIN MANIA! £1,000 CASH END PRIZE! OVER £24K IN INSTANT WINS TO BE WON! £0.20 PER TICKET Entry £0.20 Max Tickets 274,000 Instant Wins 2198 1.8% Sold 4,893 / 274,000 sold 269,107 left Enter Tue Aug 4th 8:00pm BIG BASH LOCKOS CASH! WIN UP TO £1,000 CASH INSTANTLY! £0.05 PER TICKET Entry £0.05 Max Tickets 160,000 Instant Wins 426 7.7% Sold 12,296 / 160,000 sold 147,704 left Enter Tue Aug 11th 8:00pm THE ULTIMATE JACKPOT SPINS! £500 END PRIZE! 4895 INSTANT WINS! £0.02 PER TICKET Entry £0.02 Max Tickets 1,865,000 Instant Wins 4895 4.3% Sold 80,656 / 1,865,000 sold 1,784,344 left Enter Tue Aug 11th 8:00pm WIN THIS NINJA FOODi AIR FRYER! £1 PER ENTRY! LOW ODDS! £1.00 PER TICKET Entry £1.00 Max Tickets 400 2.8% Sold 11 / 400 sold 389 left Enter Tue Aug 18th 8:00pm WIN THIS SHARK VACUUM FOR 50P! LOW ODDS! £0.50 PER TICKET Entry £0.50 Max Tickets 800 4.6% Sold 37 / 800 sold 763 left Enter Tue Aug 18th 8:00pm LOCKOS LUCKY GEM HUNT! OVER £20,000 IN PRIZES TO BE WON! £1K END PRIZE! £0.10 PER TICKET Entry £0.10 Max Tickets 414,000 Instant Wins 2165 1.8% Sold 7,518 / 414,000 sold 406,482 left Enter Tue Aug 25th 8:00pm £1 PRIZE EVERY TIME! £500 END PRIZE! 94,000+ PRIZES! £1.00 PER TICKET Entry £1.00 Max Tickets 94,065 Instant Wins 94065 5.5% Sold 5,175 / 94,065 sold 88,890 left Enter Tue Aug 25th 8:00pm WIN A DJI LITO 1 DRONE WITH RC-N3 CONTROLLER! £0.10 PER TICKET Entry £0.10 Max Tickets 6,000 1.6% Sold 97 / 6,000 sold 5,903 left Enter Tue Sep 1st 8:00pm WIN A SHARK 2 IN 1 VACUUM & MOP! 600 TICKET MAX! £0.99 PER TICKET Entry £0.99 Max Tickets 600 3.2% Sold 19 / 600 sold 581 left Enter Tue Sep 1st 8:00pm WIN A WOMENS ROLEX DATE JUST WATCH WITH BOX & PAPERS! 3,400 INSTANT WINS! £0.20 PER TICKET Entry £0.20 Max Tickets 115,050 Instant Wins 3400 1.9% Sold 2,143 / 115,050 sold 112,907 left Enter Tue Sep 29th 8:00pm MERCEDES BENZ A CLASS FOR 30P! WITH £15,000 IN INSTANT WINS TO BE WON! £0.30 PER TICKET Entry £0.30 Max Tickets 200,000 Instant Wins 35 2.3% Sold 4,680 / 200,000 sold 195,320 left Enter Tue Oct 6th 8:00pm COME & WIN A SHARE OF A QUARTER OF A MILLON POUND! £10,000 END PRIZE! £0.15 PER TICKET Entry £0.15 Max Tickets 3,750,000 Instant Wins 1242 0.2% Sold 6,401 / 3,750,000 sold 3,743,599 left Enter",
+              "badge_price": "£1",
+              "badge_price_value": 1.0,
+              "draw_date": "2026-07-14",
+              "date_status": "",
+              "url": "https://lockoscompetitions.com/competition/come-win-a-share-of-a-quarter-of-a-millon-pound-ps10000-end-prize",
+              "priority": "Ignore"
+            }
+          ]
+        },
+        {
+          "site_key": "luckytiger",
+          "site_name": "Lucky Tiger",
+          "site_url": "https://luckytigercompetitions.com/",
+          "competitions": [
+            {
+              "product": "ROLEX AIR-KING",
+              "product_info": "ROLEX AIR-KING | or £4000 CASH | £3.99 per entry | 59 sold | 3000 max | 2% sold | 0 instant wins left | draw 2026-08-09 20:00:00",
+              "badge_price": "£3.99",
+              "badge_price_value": 3.99,
+              "draw_date": "2026-08-09",
+              "date_status": "",
+              "url": "https://luckytigercompetitions.com/competition/rolex-air-king",
+              "priority": "Medium"
+            }
+          ]
+        },
+        {
+          "site_key": "millionairecomps",
+          "site_name": "Millionairecomps",
+          "site_url": "https://www.millionairecompetitions.co.uk/raffles/active",
+          "competitions": [
+            {
+              "product": "Rolex Sky-Dweller | Blue Dial",
+              "product_info": "Ends in 27 days Undersold Cash Alt: £218.35 Rolex Sky-Dweller | Blue Dial 0.38% sold 1 Ticket | £1.99 per ticket 1 Ticket | £1.99",
+              "badge_price": "£1.99",
+              "badge_price_value": 1.99,
+              "draw_date": "2026-08-09",
+              "date_status": "",
+              "url": "https://www.millionairecompetitions.co.uk/raffles/rolex-sky-dweller-blue-dial-e4bcf9a6-bad7-4c3e-8368-5ceed1fe805d",
+              "priority": "Medium"
+            }
+          ]
+        },
+        {
+          "site_key": "paramountprizes",
+          "site_name": "Paramountprizes",
+          "site_url": "https://paramountprizes.co.uk/",
+          "competitions": [
+            {
+              "product": "250 Tickets into Rolex Starbucks",
+              "product_info": "Locked Sale 250 Tickets into Rolex Starbucks 0 Day 17 Hrs 42 Mins 56 Secs 13% Sold 324/2500 £0.18 £0.20 Per Entry Enter Now Unlock",
+              "badge_price": "£0.18",
+              "badge_price_value": 0.18,
+              "draw_date": "",
+              "date_status": "",
+              "url": "https://paramountprizes.co.uk/competition/250-tickets-into-rolex-starbucks",
+              "priority": "Ignore"
+            },
+            {
+              "product": "Rolex Starbucks or £8,000!",
+              "product_info": "Locked 1160 Instant Wins Rolex Starbucks or £8,000! 48 Day 17 Hrs 42 Mins 56 Secs 3% Sold 3323/125000 £0.90 Per Entry Enter Now Unlock",
+              "badge_price": "£0.90",
+              "badge_price_value": 0.9,
+              "draw_date": "",
+              "date_status": "",
+              "url": "https://paramountprizes.co.uk/competition/rolex-starbucks-or-ps8000",
+              "priority": "Ignore"
+            }
+          ]
+        },
+        {
+          "site_key": "revcomps",
+          "site_name": "Rev Comps",
+          "site_url": "https://www.revcomps.com/current-competitions/",
+          "competitions": [
+            {
+              "product": "BRAND NEW 2026 ROLEX SUBMARNIER NO DATE OR £8,000",
+              "product_info": "3999 TKTS £4.97 WIN TODAY AT 23:00 67% SOLD BRAND NEW 2026 ROLEX SUBMARNIER NO DATE OR £8,000",
+              "badge_price": "£4.97",
+              "badge_price_value": 4.97,
+              "draw_date": "2026-07-13",
+              "date_status": "",
+              "url": "",
+              "priority": "High"
+            },
+            {
+              "product": "NEW 2026 ROLEX GMT MASTER II 'ZOMBIE' OR £13,000",
+              "product_info": "9999 TKTS £2.97 WIN MON 13TH JUL @ 11PM 16% SOLD NEW 2026 ROLEX GMT MASTER II 'ZOMBIE' OR £13,000",
+              "badge_price": "£2.97",
+              "badge_price_value": 2.97,
+              "draw_date": "2026-07-13",
+              "date_status": "",
+              "url": "",
+              "priority": "High"
+            },
+            {
+              "product": "NEW ROLEX \"HULK\" SUBMARINER DATE OR £13,000",
+              "product_info": "1999 TKTS £14.47 WIN TUE 14TH JUL @ 11PM 13% SOLD NEW ROLEX \"HULK\" SUBMARINER DATE OR £13,000",
+              "badge_price": "£14.47",
+              "badge_price_value": 14.47,
+              "draw_date": "2026-07-14",
+              "date_status": "",
+              "url": "",
+              "priority": "High"
+            },
+            {
+              "product": "NEW 2026 ROLEX PLATINUM YACHT MASTER OR £9,000",
+              "product_info": "3999 TKTS £5.47 WIN WED 15TH JUL @ 11PM 6% SOLD NEW 2026 ROLEX PLATINUM YACHT MASTER OR £9,000",
+              "badge_price": "£5.47",
+              "badge_price_value": 5.47,
+              "draw_date": "2026-07-15",
+              "date_status": "",
+              "url": "",
+              "priority": "High"
+            },
+            {
+              "product": "NEW 2026 ROLEX SKY-DWELLER WHITE GOLD GREEN DIAL OR £15,000",
+              "product_info": "16999 TKTS £1.97 WIN FRI 17TH JUL @ 11PM 4% SOLD NEW 2026 ROLEX SKY-DWELLER WHITE GOLD GREEN DIAL OR £15,000",
+              "badge_price": "£1.97",
+              "badge_price_value": 1.97,
+              "draw_date": "2026-07-17",
+              "date_status": "",
+              "url": "",
+              "priority": "High"
+            },
+            {
+              "product": "NEW 2026 ROLEX OYSTER PERPETUAL 41 OYSTERSTEEL MED BLUE OR £6,000",
+              "product_info": "2799 TKTS £4.97 WIN SAT 18TH JUL @ 12AM 1% SOLD NEW 2026 ROLEX OYSTER PERPETUAL 41 OYSTERSTEEL MED BLUE OR £6,000",
+              "badge_price": "£4.97",
+              "badge_price_value": 4.97,
+              "draw_date": "2026-07-18",
+              "date_status": "",
+              "url": "",
+              "priority": "High"
+            },
+            {
+              "product": "NEW 2026 ROLEX 41MM SUBMARINER DATE OR £9,000",
+              "product_info": "21999 TKTS £0.99 WIN SUN 19TH JUL @ 11PM 0% SOLD NEW 2026 ROLEX 41MM SUBMARINER DATE OR £9,000",
+              "badge_price": "£0.99",
+              "badge_price_value": 0.99,
+              "draw_date": "2026-07-19",
+              "date_status": "",
+              "url": "",
+              "priority": "High"
+            }
+          ]
+        },
+        {
+          "site_key": "rusboy",
+          "site_name": "Rusboy",
+          "site_url": "https://rusboy.co.uk/",
+          "competitions": [
+            {
+              "product": "Got to be in it to win it.",
+              "product_info": "Got to be in it to win it. LIVE · DRAW 171406 ENDS IN 34D : 21H : 46M £33K Instant Win Frenzy: Win a Rolex Bluesy 2024 Instantly! 2,990 / 30,000 sold £ 1.50 2K+ Winners to date £2.5M+ Given out in prizes 100K+ Social followers UK prize draws you can actually see happen. One live camera, one verifiable seed, one winner. Tickets from 19p. Enter now",
+              "badge_price": "£1.50",
+              "badge_price_value": 1.5,
+              "draw_date": "2026-08-17",
+              "date_status": "",
+              "url": "https://rusboy.co.uk/product/33k-instant-win-frenzy-rolex-bluesy-2024-%f0%9f%92%8e/",
+              "priority": "Ignore"
+            }
+          ]
+        },
+        {
+          "site_key": "sovereigndraws",
+          "site_name": "Sovereign Draws",
+          "site_url": "https://thesovereigndraw.co.uk/",
+          "competitions": [
+            {
+              "product": "WIN A ROLEX SUBMARINER BOX & PAPERS or £7000 CASH",
+              "product_info": "Skip to product information Open media 1 in modal 1 / of 1 The Sovereign Draw WIN A ROLEX SUBMARINER BOX & PAPERS or £7000 CASH Regular price £9.99 GBP Regular price Sale price £9.99 GBP Sale Sold out Taxes included. Ticket Bundle 1 Ticket £9.99 Variant sold out or unavailable 3 Tickets £28.99 Variant sold out or unavailable 5 Tickets £46.99 (MOST POPULAR) Variant sold out or unavailable 10 Tickets £89.99 Variant sold out or unavailable 20 Tickets £169.99 Variant sold out or unavailable 50 Tickets £399.99 Variant sold out or unavailable 100 Tickets £749.99 (BEST VALUE) Variant sold out or unavailable Quantity Quantity ( 0 in cart) Decrease quantity for WIN A ROLEX SUBMARINER BOX &amp; PAPERS or £7000 CASH Increase quantity for WIN A ROLEX SUBMARINER BOX &amp; PAPERS or £7000 CASH Add to cart More payment options Draw Closes GET YOUR TICKETS NOW 20 days : 20 hours : 21 mins : 54 secs Share View full details",
+              "badge_price": "£9.99",
+              "badge_price_value": 9.99,
+              "draw_date": "2026-08-02",
+              "date_status": "",
+              "url": "https://thesovereigndraw.co.uk/products/win-an-iphone-17-pro-or-800-cash-copy",
+              "priority": "Medium"
+            }
+          ]
+        },
+        {
+          "site_key": "steel-towncompetitions",
+          "site_name": "Steel-Towncompetitions",
+          "site_url": "https://steel-towncompetitions.co.uk/",
+          "competitions": [
+            {
+              "product": "2020 ROLEX SUBMARINER “HULK”",
+              "product_info": "NEW 2020 ROLEX SUBMARINER “HULK” £ 25.00 Ends On Days Hours Mins Secs 0 Tickets Sold: 3 750 0.4%",
+              "badge_price": "£25.00",
+              "badge_price_value": 25.0,
+              "draw_date": "2026-07-24",
+              "date_status": "",
+              "url": "https://steel-towncompetitions.co.uk/competitions/2020-rolex-submariner-hulk-2/",
+              "priority": "Low"
+            }
+          ]
+        },
+        {
+          "site_key": "tccomps",
+          "site_name": "Tccomps",
+          "site_url": "https://www.tccomps.co.uk/",
+          "competitions": [
+            {
+              "product": "Rolex Submariner Date “MK2 Starbucks” or £9500 cash",
+              "product_info": "",
+              "badge_price": "£ 9.99",
+              "badge_price_value": 9.99,
+              "draw_date": "2026-07-14",
+              "date_status": "",
+              "url": "https://www.tccomps.co.uk/product/rolex-submariner-date-mk2-starbucks-or-9500-cash/",
+              "priority": "High"
+            }
+          ]
+        },
+        {
+          "site_key": "thepremiumtimecompany",
+          "site_name": "Thepremiumtimecompany",
+          "site_url": "https://thepremiumtimecompany.com/",
+          "competitions": [
+            {
+              "product": "Win A Rolex Daytona 126500LN Panda",
+              "product_info": "Tickets only £ 14.99 Enter here! Comp 262 Win A Rolex Daytona 126500LN Panda Ticket price £ 14.99 Ticket allocation 2800 Tickets available ... Competition closes in: DAY HRS MIN SEC 02 15 15 37 ENTER NOW",
+              "badge_price": "£ 14.99",
+              "badge_price_value": 14.99,
+              "draw_date": "2026-07-15",
+              "date_status": "",
+              "url": "https://thepremiumtimecompany.com/competition/rolex-daytona-126500ln-panda-6/",
+              "priority": "Ignore"
+            }
+          ]
+        },
+        {
+          "site_key": "thetimevaultclub",
+          "site_name": "Thetimevaultclub",
+          "site_url": "https://thetimevaultclub.com/",
+          "competitions": [
+            {
+              "product": "Welcome to",
+              "product_info": "Welcome to The Time Vault Club Where passion for horology meets opportunity. We exist to bring the world of exceptional watchmaking closer to you, from iconic Swiss craftsmanship to bespoke British design. Through our curated competitions, we give you the chance to discover and own watches most people only dream of. LIVE COMPETITION All of our prize draws are hosted live, so you can witness every moment as dream watches find new owners. With regular competitions featuring everything from iconic Swiss classics to standout modern releases, the next opportunity is always closer than you think. VIEW ALL COMPETITIONS Every watch tells a story, will the next one be yours? RECENT Winners Winner of the Tudor Black & Burgundy Alex Mussell Winner of the Tudor Harrods Jacob Lovelock Winner of the Rolex Sky-Dweller Steve Shaw Winner of the Hamilton Khaki Trevor Golden",
+              "badge_price": "",
+              "badge_price_value": null,
+              "draw_date": "",
+              "date_status": "",
+              "url": "https://thetimevaultclub.com/competitions",
+              "priority": "Written"
+            }
+          ]
+        },
+        {
+          "site_key": "thevintagewatchdraw",
+          "site_name": "Thevintagewatchdraw",
+          "site_url": "https://thevintagewatchdraw.com/",
+          "competitions": [
+            {
+              "product": "WIN A VINTAGE CARTIER PARIS TANK LOUIS 78086 18K SOLID GOLD",
+              "product_info": "Home – Cartier Paris Tank Louis 78086 WIN A VINTAGE CARTIER PARIS TANK LOUIS 78086 18K SOLID GOLD Value: £7,000 Duration: 7 Days Age: Circa 1980 Max. Entries: 699 Ticket Price: £20 Live Draw: 14/07/26 The Cartier Tank Louis is one of history’s most iconic wristwatches, adored by so many distinguished individuals of the last century. This is one of its best iterations – the 78086 reference in 18k solid gold , with the sought-after Paris-signed dial. A very chic, elegant wristwatch for both men and women. This example is in excellent, unpolished condition with a pristine “Mk 3” dial . 42.06% SOLD 0 Tickets Sold: 294 699 42.06% 405 Tickets remaining 405/699 Tickets Remaining Time Left to End: 1 Days 17 Hours 14 Minutes 55 Seconds ENTER NOW WIN A VINTAGE CARTIER PARIS TANK LOUIS 78086 ENTER NOW 42.06% SOLD 0 Tickets Sold: 294 699 42.06% 405 Tickets remaining 405/699 Tickets Remaining Time Left to End: 1 Days 17 Hours 14 Minutes 55 Seconds Value: £7,000 Duration: 7 Days Age: Circa 1980 Entries: 699 Max. Ticket Price: £20 Live Draw: 14/07/2026 The Cartier Tank Louis is one of history’s most iconic wristwatches, adored by so many distinguished individuals of the last century. This is one of its best iterations – the 78086 reference in 18k solid gold , with the sought-after Paris-signed dial. A very chic, elegant wristwatch for both men and women. This example is in excellent, unpolished condition with a pristine “Mk 3” dial . #32 - The Cartier Paris Tank Louis 78086 18k Solid Gold The History— The Example The Cartier Tank Louis is one of the defining wristwatch designs of the last century. First introduced in 1922 as a refinement of the original Tank, the Tank Louis established the elegant proportions that have come to define Cartier, and has been worn by artists, royalty and cultural icons ever since. This reference, the 78086 , is one of the most desirable vintage iterations. Crafted in 18k solid yellow gold , it features the highly sought-after Paris-signed dial , a detail that collectors have long admired for its rarity and historical significance. This particular watch is presented in excellent, unpolished condition , retaining crisp case lines and a pristine Mk 3 dial . The beautifully balanced proportions make it equally elegant on both men and women, wearing with the understated sophistication that has made the Tank Louis such an enduring classic. A refined and increasingly collectible Cartier – timeless in design, beautifully preserved, and one of the finest expressions of the Tank Louis lineage. ENTER NOW The First Competition of its Kind The Vintage Watch Draw is unique. We’re the first competition website dedicated to collector-grade vintage watches, backed by a trusted expert. After the initial idea over five years ago, we’re so excited to now bring this new concept to you. Curated by A Trusted Expert Our competitions are curated by Alex Stevens, a trusted & reputable vintage watch specialist with lifelong experience in the trade. 12 Month Service Warranty Every watch is fully serviced by our watchmaker & comes with a 12 month mechanical warranty, so you can enjoy your watch hassle-free. Collector-Grade Condition Every watch is meticulously curated by Alex, known for selecting only the finest, collector-grade examples in terms of condition & originality. Low & Transparent Odds We don’t flood the draw with tickets. Our competitions are deliberately limited to keep odds low & your chance of winning fair. Authenticity Guarantee Every watch is thoroughly inspected & fully authenticated by our in-house expert. We are professionals, not enthusiasts or hobbyists. Guaranteed Draws Every draw ends on the stated date, no matter what. We never extend our competitions, even if we haven't sold all the tickets. Win a Cartier Paris Tank Louis 78086 ENTER NOW Join Our Winners “Still can’t believe I won!” “I’ve entered a few competitions before but never thought I’d actually win — then I got the call telling me I’d won a vintage Rolex Submariner 5513! The watch is absolutely stunning. It’s got that classic charm and you can feel the history in every detail. The condition is immaculate for a piece of its age. Thank you so much for the opportunity — it’s now the pride of my collection!” James Holloway Bristol, UK “Still can’t believe I won!” “I’ve entered a few competitions before but never thought I’d actually win — then I got the call telling me I’d won a vintage Rolex Submariner 5513! The watch is absolutely stunning. It’s got that classic charm and you can feel the history in every detail. The condition is immaculate for a piece of its age. Thank you so much for the opportunity — it’s now the pride of my collection!” James Holloway Bristol, UK Got more questions? Read through our FAQs page here. FAQs Page Curated by Alex Stevens ASV as seen in…",
+              "badge_price": "£20.00",
+              "badge_price_value": 20.0,
+              "draw_date": "2026-07-14",
+              "date_status": "",
+              "url": "https://thevintagewatchdraw.com/quantity-selection/?product_id=43543",
+              "priority": "Written"
+            }
+          ]
+        },
+        {
+          "site_key": "thewatchdraws",
+          "site_name": "Thewatchdraws",
+          "site_url": "https://twdcompetitions.com/",
+          "competitions": [
+            {
+              "product": "Win A Rolex Datejust 41Mm Wimbledon Or The Cash Alt On Monday 13Th July",
+              "product_info": "Enter at £ 20.00 1783969200",
+              "badge_price": "£20.00",
+              "badge_price_value": 20.0,
+              "draw_date": "2026-07-13",
+              "date_status": "",
+              "url": "https://twdcompetitions.com/product/win-a-rolex-datejust-41mm-wimbledon-or-the-cash-alt-on-monday-13th-july/",
+              "priority": "Ignore"
+            },
+            {
+              "product": "Win A Rolex Gmt Master Ii Rootbeer Or The Cash Alt On Thursday 16Th July",
+              "product_info": "Enter at £ 10.00 1784228400",
+              "badge_price": "£10.00",
+              "badge_price_value": 10.0,
+              "draw_date": "2026-07-16",
+              "date_status": "",
+              "url": "https://twdcompetitions.com/product/win-a-rolex-gmt-master-ii-rootbeer-or-the-cash-alt-on-thursday-16th-july/",
+              "priority": "Ignore"
+            }
+          ]
+        },
+        {
+          "site_key": "toomuch",
+          "site_name": "Too Much",
+          "site_url": "https://toomuchcompetitions.co.uk/competitions-to-enter-win-cash-cars-gold-luxury-prizes/",
+          "competitions": [
+            {
+              "product": "Win this Brand New & Unworn 2026 Rolex Submariner Date 126613LB “Bluesy” (£12,000 Cash Alt)",
+              "product_info": "Draw Thu 16th Jul",
+              "badge_price": "£5.99",
+              "badge_price_value": 5.99,
+              "draw_date": "2026-07-16",
+              "date_status": "",
+              "url": "https://toomuchcompetitions.co.uk/competition/win-this-brand-new-unworn-2026-rolex-submariner-date-126613lb-bluesy-12000-cash-alt/",
+              "priority": "High"
+            }
+          ]
+        },
+        {
+          "site_key": "ukcc",
+          "site_name": "Ukcc",
+          "site_url": "https://ukcc.co.uk/competitions",
+          "competitions": [
+            {
+              "product": "£1,000,000 FISHING INSTANT WIN | 50/50 CHANCE #IWF4",
+              "product_info": "16 days 17 hrs 55 min 16 sec Just launched 16 days 17 hrs 55 min 16 sec £1,000,000 FISHING INSTANT WIN | 50/50 CHANCE #IWF4 VANS | ROLEX | CASH | HOLIDAYS £7.77 sold: 2 % Enter now",
+              "badge_price": "£7.77",
+              "badge_price_value": 7.77,
+              "draw_date": "2026-07-30",
+              "date_status": "",
+              "url": "https://ukcc.co.uk/competition/iwf4",
+              "priority": "High"
+            }
+          ]
+        },
+        {
+          "site_key": "urbandraw",
+          "site_name": "Urbandraw",
+          "site_url": "https://urbandraw.co.uk/",
+          "competitions": [
+            {
+              "product": "*CLOSING TONIGHT* Win A 2026 Rolex Submariner Date or £9,009!",
+              "product_info": "Draw Today 0 days 16 hrs 39 mins 13 secs 29 % Sold £ 35.00 Per Entry *CLOSING TONIGHT* Win A 2026 Rolex Submariner Date or £9,009! Cash Alternative: £9000 Enter Now",
+              "badge_price": "£35.00",
+              "badge_price_value": 35.0,
+              "draw_date": "2026-07-13",
+              "date_status": "",
+              "url": "https://www.urbandraw.co.uk/competition/508/",
+              "priority": "Written"
+            }
+          ]
+        },
+        {
+          "site_key": "watchesofwales",
+          "site_name": "Watchesofwales",
+          "site_url": "https://competition.watchesofwales.co.uk/",
+          "competitions": [
+            {
+              "product": "Rolex Datejust Silver Diamond Dial",
+              "product_info": "Rolex Datejust Silver Diamond Dial Rolex £ 19.99 15/500 SOLD ENDS IN D H M S 2026-07-15 21:00",
+              "badge_price": "£19.99",
+              "badge_price_value": 19.99,
+              "draw_date": "",
+              "date_status": "",
+              "url": "https://competition.watchesofwales.co.uk/product/rolex-datejust-16233-competition/",
+              "priority": "Ignore"
+            },
+            {
+              "product": "Rolex Sunglasses",
+              "product_info": "ENTRIES CLOSED Winner drawn live on Instagram Rolex Sunglasses Rolex £ 4.99 146/200 SOLD Drawn on Instagram in: D H M S 2026-07-13 10:00",
+              "badge_price": "£4.99",
+              "badge_price_value": 4.99,
+              "draw_date": "",
+              "date_status": "",
+              "url": "https://competition.watchesofwales.co.uk/product/rolex-sunglasses/",
+              "priority": "Ignore"
+            },
+            {
+              "product": "Rolex Wimbledon 41mm",
+              "product_info": "ENTRIES CLOSED Winner drawn live on Instagram Rolex Wimbledon 41mm Rolex £ 19.99 759/1000 SOLD Drawn on Instagram in: D H M S 2026-07-15 21:00",
+              "badge_price": "£19.99",
+              "badge_price_value": 19.99,
+              "draw_date": "",
+              "date_status": "",
+              "url": "https://competition.watchesofwales.co.uk/product/rolex-wimbledon-41mm/",
+              "priority": "Ignore"
+            }
+          ]
+        },
+        {
+          "site_key": "westcoastcompetitions",
+          "site_name": "Westcoastcompetitions",
+          "site_url": "https://westcoastcompetitions.com/",
+          "competitions": [
+            {
+              "product": "2026 ROLEX SUB+£40K OF INSTANT WINS",
+              "product_info": "Prize: £9000.00 | Tickets: 65000 | Sold: 7309",
+              "badge_price": "£1.10",
+              "badge_price_value": 1.1,
+              "draw_date": "2026-08-30",
+              "date_status": "",
+              "url": "https://westcoastcompetitions.com/competitions/kelvin-s-ticket-muncher",
+              "priority": "Low"
+            }
+          ]
+        },
+        {
+          "site_key": "winbigcomps",
+          "site_name": "Win Big Comps",
+          "site_url": "https://winbigcompetitions.co.uk/",
+          "competitions": [
+            {
+              "product": "2026 ROLEX MINT GREEN DATEJUST⌚️",
+              "product_info": "Instant Wins 56 Days 17 Hrs 34 Min 02 Sec 1045 Instant Wins 3% sold £1.50 per ticket · 36300 left Enter Now raffleProgress(3.2)",
+              "badge_price": "£1.50",
+              "badge_price_value": 1.5,
+              "draw_date": "2026-09-07",
+              "date_status": "",
+              "url": "https://winbigcompetitions.co.uk/competition/2026-rolex-mint-green-datejust",
+              "priority": "High"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "updated_at": "2026-07-12T02:19:26"
+  "updated_at": "2026-07-13T03:06:53"
 }
